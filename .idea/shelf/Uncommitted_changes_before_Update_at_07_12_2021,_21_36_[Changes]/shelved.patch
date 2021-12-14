@@ -1,0 +1,458 @@
+Index: src/com/company/Main.java
+===================================================================
+diff --git a/src/com/company/Main.java b/src/com/company/Main.java
+deleted file mode 100644
+--- a/src/com/company/Main.java	(revision a83630113b72831fbccb1ff05e95987324b62379)
++++ /dev/null	(revision a83630113b72831fbccb1ff05e95987324b62379)
+@@ -1,59 +0,0 @@
+-package com.company;
+-
+-import java.io.*;
+-import java.text.DecimalFormat;
+-import java.util.ArrayList;
+-import java.util.Scanner;
+-
+-import static com.company.Regression.LINEAR;
+-
+-public class Main {
+-
+-    public static void main(String[] args) {
+-        // write your code here
+-        //123
+-        // System.out.print("Test123");
+-//        try(FileWriter writer = new FileWriter("notes3.txt", false))
+-//        {
+-//            // запись всей строки
+-//            String text = "Evelinka";
+-//            writer.write(text);
+-//            // запись по символам
+-//            writer.append('\n');
+-//            writer.append('E');
+-//
+-//            writer.flush();
+-//        }
+-//        catch(IOException ex){
+-//
+-//            System.out.println(ex.getMessage());
+-//        }
+-//        try(FileReader reader = new FileReader("notes3.txt"))
+-//        {
+-//            // читаем посимвольно
+-//            int c;
+-//            while((c=reader.read())!=-1){
+-//
+-//                System.out.print((char)c);
+-//            }
+-//        }
+-//        catch(IOException ex){
+-//
+-//            System.out.println(ex.getMessage());
+-//        }
+-//    }
+-//test
+-        Regression regression = new Regression();
+-//        regression.regression();
+-        Resultmy resultmy = regression.regression(LINEAR);
+-
+-        Resultmy ch = regression.regression(Regression.EXP);
+-        System.out.println(resultmy);
+-        System.out.println(ch);
+-//        System.out.println("Сумма x равна" + " " + sumx + "  | " + "Сумма y равна" + " " + sumy + "  | " + "х в квадрате равен " + " " + sumxx + "  | " + "y в квадрате равен " + " " + sumyy + " |  " + "х*y равно " + sumxy);
+-//
+-//        System.out.println("Коэффициет a равен" + " " + a + " | " + "Коэффициент b равен" + " " + b1);
+-//        System.out.println("Величина rr равна" + " " + rr);
+-    }
+-}
+-
+Index: .idea/checkstyle-idea.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/checkstyle-idea.xml b/.idea/checkstyle-idea.xml
+new file mode 100644
+--- /dev/null	(date 1638801212849)
++++ b/.idea/checkstyle-idea.xml	(date 1638801212849)
+@@ -0,0 +1,16 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="CheckStyle-IDEA">
++    <option name="configuration">
++      <map>
++        <entry key="checkstyle-version" value="9.1" />
++        <entry key="copy-libs" value="false" />
++        <entry key="location-0" value="BUNDLED:(bundled):Sun Checks" />
++        <entry key="location-1" value="BUNDLED:(bundled):Google Checks" />
++        <entry key="scan-before-checkin" value="false" />
++        <entry key="scanscope" value="JavaOnly" />
++        <entry key="suppress-errors" value="false" />
++      </map>
++    </option>
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"ProjectKey\">\n    <option name=\"state\" value=\"project://e2804f05-5315-4fc6-a121-c522a6c26470\" />\n  </component>\n  <component name=\"ProjectRootManager\" version=\"2\" languageLevel=\"JDK_11\" default=\"true\" project-jdk-name=\"11\" project-jdk-type=\"JavaSDK\">\n    <output url=\"file://$PROJECT_DIR$/out\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/misc.xml b/.idea/misc.xml
+--- a/.idea/misc.xml	(revision a83630113b72831fbccb1ff05e95987324b62379)
++++ b/.idea/misc.xml	(date 1638801212864)
+@@ -3,7 +3,7 @@
+   <component name="ProjectKey">
+     <option name="state" value="project://e2804f05-5315-4fc6-a121-c522a6c26470" />
+   </component>
+-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
++  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+     <output url="file://$PROJECT_DIR$/out" />
+   </component>
+ </project>
+\ No newline at end of file
+Index: src/com/company/GraphMy.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/com/company/GraphMy.java b/src/com/company/GraphMy.java
+new file mode 100644
+--- /dev/null	(date 1638879923594)
++++ b/src/com/company/GraphMy.java	(date 1638879923594)
+@@ -0,0 +1,92 @@
++package com.company;
++
++import org.jfree.chart.ChartFactory;
++import org.jfree.chart.JFreeChart;
++import org.jfree.chart.axis.DateAxis;
++import org.jfree.chart.plot.XYPlot;
++import org.jfree.chart.renderer.xy.XYItemRenderer;
++import org.jfree.chart.renderer.xy.XYLineAndShapeRenderer;
++import org.jfree.data.time.TimeSeries;
++import org.jfree.data.time.TimeSeriesCollection;
++import org.jfree.data.xy.XYDataset;
++import org.jfree.data.xy.XYSeries;
++import org.jfree.data.xy.XYSeriesCollection;
++import org.jfree.ui.RectangleInsets;
++
++import java.awt.*;
++import java.text.SimpleDateFormat;
++import java.time.Month;
++
++public class GraphMy {
++    //http://java-online.ru/jfreechart.xhtml
++
++    public void init() {
++        XYDataset xyDataset = createDataset();
++        createChart(xyDataset);
++    }
++
++    private XYDataset createDataset()
++    {
++        XYSeries s1 = new XYSeries("График №1");
++        s1.add(1, 142.9);
++        s1.add(2, 138.7);
++        s1.add(3, 137.3);
++        s1.add(4, 143.9);
++        s1.add(5, 139.8);
++        s1.add(6, 137.0);
++        s1.add(7, 132.8);
++
++
++        XYSeries s2 = new XYSeries("График №2");
++        s2.add(6, 111.7);
++        s2.add(8, 111.0);
++        s2.add(9, 109.6);
++        s2.add(10, 113.2);
++
++        XYSeriesCollection dataset = new XYSeriesCollection();
++        dataset.addSeries(s1);
++        dataset.addSeries(s2);
++
++        return dataset;
++    }
++
++
++    private JFreeChart createChart(XYDataset dataset)
++    {
++        JFreeChart chart = ChartFactory.createTimeSeriesChart(
++                "Доходы от рекламы на сайте",  // title
++                "",                            // x-axis label
++                "Валюта",                      // y-axis label
++                dataset,                       // data
++                true,                          // create legend
++                true,                          // generate tooltips
++                false                          // generate URLs
++        );
++
++        chart.setBackgroundPaint(Color.white);
++
++        XYPlot plot = (XYPlot) chart.getPlot();
++        plot.setBackgroundPaint    (Color.lightGray);
++        plot.setDomainGridlinePaint(Color.white    );
++        plot.setRangeGridlinePaint (Color.white    );
++        plot.setAxisOffset(new RectangleInsets(5.0, 5.0, 5.0, 5.0));
++        plot.setDomainCrosshairVisible(true);
++        plot.setRangeCrosshairVisible(true);
++
++        XYItemRenderer r = plot.getRenderer();
++        if (r instanceof XYLineAndShapeRenderer) {
++            XYLineAndShapeRenderer renderer = (XYLineAndShapeRenderer) r;
++            renderer.setBaseShapesVisible   (true);
++            renderer.setBaseShapesFilled    (true);
++            renderer.setDrawSeriesLineAsPath(true);
++        }
++
++        DateAxis axis = (DateAxis) plot.getDomainAxis();
++        axis.setDateFormatOverride(new SimpleDateFormat("MM.YYYY"));
++
++        return chart;
++    }
++
++
++
++}
+Index: .idea/libraries/jfree_jcommon.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/libraries/jfree_jcommon.xml b/.idea/libraries/jfree_jcommon.xml
+new file mode 100644
+--- /dev/null	(date 1638881231647)
++++ b/.idea/libraries/jfree_jcommon.xml	(date 1638881231647)
+@@ -0,0 +1,10 @@
++<component name="libraryTable">
++  <library name="jfree.jcommon" type="repository">
++    <properties maven-id="org.jfree:jcommon:RELEASE" />
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/jfree/jcommon/1.0.24/jcommon-1.0.24.jar!/" />
++    </CLASSES>
++    <JAVADOC />
++    <SOURCES />
++  </library>
++</component>
+\ No newline at end of file
+Index: kursOPR.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<module type=\"JAVA_MODULE\" version=\"4\">\n  <component name=\"NewModuleRootManager\" inherit-compiler-output=\"true\">\n    <exclude-output />\n    <content url=\"file://$MODULE_DIR$\">\n      <sourceFolder url=\"file://$MODULE_DIR$/src\" isTestSource=\"false\" />\n      <sourceFolder url=\"file://$MODULE_DIR$\" isTestSource=\"true\" />\n    </content>\n    <orderEntry type=\"inheritedJdk\" />\n    <orderEntry type=\"sourceFolder\" forTests=\"false\" />\n    <orderEntry type=\"module-library\">\n      <library name=\"JUnit5.4\">\n        <CLASSES>\n          <root url=\"jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter/5.4.2/junit-jupiter-5.4.2.jar!/\" />\n          <root url=\"jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-api/5.4.2/junit-jupiter-api-5.4.2.jar!/\" />\n          <root url=\"jar://$MAVEN_REPOSITORY$/org/apiguardian/apiguardian-api/1.0.0/apiguardian-api-1.0.0.jar!/\" />\n          <root url=\"jar://$MAVEN_REPOSITORY$/org/opentest4j/opentest4j/1.1.1/opentest4j-1.1.1.jar!/\" />\n          <root url=\"jar://$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-commons/1.4.2/junit-platform-commons-1.4.2.jar!/\" />\n          <root url=\"jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-params/5.4.2/junit-jupiter-params-5.4.2.jar!/\" />\n          <root url=\"jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-engine/5.4.2/junit-jupiter-engine-5.4.2.jar!/\" />\n          <root url=\"jar://$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-engine/1.4.2/junit-platform-engine-1.4.2.jar!/\" />\n        </CLASSES>\n        <JAVADOC />\n        <SOURCES />\n      </library>\n    </orderEntry>\n  </component>\n</module>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/kursOPR.iml b/kursOPR.iml
+--- a/kursOPR.iml	(revision a83630113b72831fbccb1ff05e95987324b62379)
++++ b/kursOPR.iml	(date 1638881296273)
+@@ -1,5 +1,10 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <module type="JAVA_MODULE" version="4">
++  <component name="CheckStyle-IDEA-Module">
++    <option name="configuration">
++      <map />
++    </option>
++  </component>
+   <component name="NewModuleRootManager" inherit-compiler-output="true">
+     <exclude-output />
+     <content url="file://$MODULE_DIR$">
+@@ -24,5 +29,33 @@
+         <SOURCES />
+       </library>
+     </orderEntry>
++    <orderEntry type="module-library">
++      <library name="JUnit4">
++        <CLASSES>
++          <root url="jar://$MAVEN_REPOSITORY$/junit/junit/4.13.1/junit-4.13.1.jar!/" />
++          <root url="jar://$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar!/" />
++        </CLASSES>
++        <JAVADOC />
++        <SOURCES />
++      </library>
++    </orderEntry>
++    <orderEntry type="module-library">
++      <library name="JUnit5.7.0">
++        <CLASSES>
++          <root url="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter/5.7.0/junit-jupiter-5.7.0.jar!/" />
++          <root url="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-api/5.7.0/junit-jupiter-api-5.7.0.jar!/" />
++          <root url="jar://$MAVEN_REPOSITORY$/org/apiguardian/apiguardian-api/1.1.0/apiguardian-api-1.1.0.jar!/" />
++          <root url="jar://$MAVEN_REPOSITORY$/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar!/" />
++          <root url="jar://$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-commons/1.7.0/junit-platform-commons-1.7.0.jar!/" />
++          <root url="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-params/5.7.0/junit-jupiter-params-5.7.0.jar!/" />
++          <root url="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-engine/5.7.0/junit-jupiter-engine-5.7.0.jar!/" />
++          <root url="jar://$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-engine/1.7.0/junit-platform-engine-1.7.0.jar!/" />
++        </CLASSES>
++        <JAVADOC />
++        <SOURCES />
++      </library>
++    </orderEntry>
++    <orderEntry type="library" name="jfree.jcommon" level="project" />
++    <orderEntry type="library" name="jfree.jfreechart" level="project" />
+   </component>
+ </module>
+\ No newline at end of file
+Index: src/com/company/Regression.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package com.company;\n\nimport java.io.File;\nimport java.io.FileNotFoundException;\nimport java.util.ArrayList;\nimport java.util.Scanner;\n\npublic class Regression {\n\n    Resultmy resultmy = new Resultmy();\n    public static final int LINEAR = 1;\n    public static final int EXP = 2;\n    public Resultmy regression(int typeregression) {\n        ArrayList<String> list = new ArrayList<String>();\n        Scanner scan = null;\n        String nameFile = \"\";\n        switch (typeregression){\n            case LINEAR:\n\n               nameFile= \"Линейная_регрессия.txt\";\n\n                break;\n            case EXP:\n\n                nameFile= \"Экспоненциальная.txt\";\n\n            default:\n\n                break;\n        }\n//        ArrayList<String> list = new ArrayList<String>();\n//        Scanner scan = null;\n//        try {\n//            scan = new Scanner(new File(\"Линейная_регрессия.txt\"));\n//        } catch (\n//                FileNotFoundException e) {\n//            e.printStackTrace();\n//        }\n//        while (scan.hasNextLine()) {\n//            String line = scan.nextLine();\n//            //System.out.println(line);\n//            list.add(line);\n//        }\n//        scan.close();\n\n\n        try {\n            scan = new Scanner(new File(nameFile));\n        } catch (\n                FileNotFoundException e) {\n\n            System.exit(4);\n            e.printStackTrace();\n\n        }\n        while (scan.hasNextLine()) {\n            String line = scan.nextLine();\n            //System.out.println(line);\n            list.add(line);\n        }\n        scan.close();\n\n        float sumx = 0;\n        float sumxx = 0;\n        float sumy = 0;\n        float sumyy = 0;\n        float sumxy = 0;\n        float x = 0, y = 0;\n        float a = 0, b1 = 0;\n        float rr = 0;\n        // float e = sumxy-(sumx*sumy)/list.size();\n\n        for (int i = 0; i < list.size(); i++) {\n            String line = list.get(i);//берем линию\n            String[] b = line.split(\" \");\n            x = (Float.parseFloat(b[0]));//преобраз в число и кладем в х\n            y = (Float.parseFloat(b[1]));//преобраз в число и кладем в у\n\n\n            switch (typeregression){\n                case LINEAR:\n\n\n\n                    break;\n                case EXP:\n                    y= (float) Math.log(y);\n//                case 3rertrP:\n//                    x= (float) Math.log(y);\n//                    x= (float) Math.log(y);\n\n\n                default:\n\n                    break;\n            }\n\n\n\n\n            sumx += x;\n            sumxx += x * x;\n            sumy += y;\n            sumyy += y * y;\n            sumxy += x * y;\n\n            a = (sumxy - (sumx) * (sumy) / list.size()) / (sumxx - (sumx) * (sumx) / list.size());\n            b1 = sumy / list.size() - a * (sumx / list.size());\n            rr = (sumxy - (sumx * sumy) / list.size()) * (sumxy - (sumx * sumy) / list.size()) / ((sumxx - ((sumx) * (sumx)) / list.size()) * (sumyy - ((sumy) * (sumy)) / list.size()));\n            System.out.println(\" \" + x + \"  \" + y + \"  \" + x * x + \"  \" + y * y + \"  \" + x * y);\n\n\n        }\n        System.out.println(\"Сумма x равна\" + \" \" + sumx + \"  | \" + \"Сумма y равна\" + \" \" + sumy + \"  | \" + \"х в квадрате равен \" + \" \" + sumxx + \"  | \" + \"y в квадрате равен \" + \" \" + sumyy + \" |  \" + \"х*y равно \" + sumxy);\n\n        System.out.println(\"Коэффициет a равен\" + \" \" + a + \" | \" + \"Коэффициент b равен\" + \" \" + b1);\n        System.out.println(\"Величина rr равна\" + \" \" + rr);\n\n        resultmy.setA(a);\n        resultmy.setB(b1);\n        resultmy.setRr(rr);\n        return resultmy;\n    }\n\n}\n\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/com/company/Regression.java b/src/com/company/Regression.java
+--- a/src/com/company/Regression.java	(revision a83630113b72831fbccb1ff05e95987324b62379)
++++ b/src/com/company/Regression.java	(date 1638801331564)
+@@ -49,7 +49,7 @@
+         } catch (
+                 FileNotFoundException e) {
+ 
+-            System.exit(4);
++          //  System.exit(4);
+             e.printStackTrace();
+ 
+         }
+Index: src/com/company/GraficMy2.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/com/company/GraficMy2.java b/src/com/company/GraficMy2.java
+new file mode 100644
+--- /dev/null	(date 1638882114741)
++++ b/src/com/company/GraficMy2.java	(date 1638882114741)
+@@ -0,0 +1,51 @@
++package com.company;
++
++import javax.swing.*;
++import java.awt.*;
++import java.awt.geom.Line2D;
++
++public class GraficMy2 {
++
++    private static void график() {
++        DrawFrame frame = new DrawFrame();
++        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
++        frame.setVisible(true);
++    }
++
++
++    static class DrawFrame extends JFrame
++    {
++        public DrawFrame()
++        {
++            setTitle("1 / 3 ^ (x + 1)");
++            setSize(DEFAULT_WIDTH, DEFAULT_HEIGHT);
++
++            add(new DrawPanel());
++        }
++
++        public static final int DEFAULT_WIDTH = 400;
++        public static final int DEFAULT_HEIGHT = 400;
++    }
++
++    static class DrawPanel extends JPanel {
++        public void paintComponent(Graphics g) {
++            super.paintComponent(g);
++            Graphics2D g2 = (Graphics2D) g;
++
++            double shX = 100;
++            double shY = 50;
++            for (int x = -6; x < 6; ++x)
++                g2.draw
++                        (
++                                new Line2D.Double
++                                        (
++                                                x + shX,
++                                                DrawFrame.DEFAULT_HEIGHT - (Math.pow(3, -x - 1) + shY),
++                                                x + 1 + shX,
++                                                DrawFrame.DEFAULT_HEIGHT - (Math.pow(3, -x - 2) + shY)
++                                        )
++                        );
++        }
++    }
++
++}
+Index: src/com/company/Main1.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/com/company/Main1.java b/src/com/company/Main1.java
+new file mode 100644
+--- /dev/null	(date 1638884438299)
++++ b/src/com/company/Main1.java	(date 1638884438299)
+@@ -0,0 +1,33 @@
++package com.company;
++
++
++import org.jfree.ui.ApplicationFrame;
++import org.jfree.ui.RefineryUtilities;
++
++import static com.company.Regression.LINEAR;
++
++//public class Main {
++public class Main1 extends ApplicationFrame
++{
++    public Main1(String title) {
++        super(title);
++    }
++    public static void main(final String[] args)
++    {
++
++      //  график();
++        Regression regression = new Regression();
++        Resultmy resultmy = regression.regression(LINEAR);
++        Resultmy ch = regression.regression(Regression.EXP);
++        System.out.println(resultmy);
++        System.out.println(ch);
++
++        final NormalDistribution normalDistribution = new NormalDistribution("TITLE");
++        normalDistribution.extracted(/*normalDistribution.setData()*/);
++        normalDistribution.pack();
++        RefineryUtilities.centerFrameOnScreen(normalDistribution);
++        normalDistribution.setVisible(true);
++    }
++
++}
++
+Index: .idea/runConfigurations.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/runConfigurations.xml b/.idea/runConfigurations.xml
+new file mode 100644
+--- /dev/null	(date 1638801212856)
++++ b/.idea/runConfigurations.xml	(date 1638801212856)
+@@ -0,0 +1,10 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="RunConfigurationProducerService">
++    <option name="ignoredProducers">
++      <set>
++        <option value="com.android.tools.idea.compose.preview.runconfiguration.ComposePreviewRunConfigurationProducer" />
++      </set>
++    </option>
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/libraries/jfree_jfreechart.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/libraries/jfree_jfreechart.xml b/.idea/libraries/jfree_jfreechart.xml
+new file mode 100644
+--- /dev/null	(date 1638881296294)
++++ b/.idea/libraries/jfree_jfreechart.xml	(date 1638881296294)
+@@ -0,0 +1,11 @@
++<component name="libraryTable">
++  <library name="jfree.jfreechart" type="repository">
++    <properties maven-id="org.jfree:jfreechart:1.0.19" />
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/jfree/jfreechart/1.0.19/jfreechart-1.0.19.jar!/" />
++      <root url="jar://$MAVEN_REPOSITORY$/org/jfree/jcommon/1.0.23/jcommon-1.0.23.jar!/" />
++    </CLASSES>
++    <JAVADOC />
++    <SOURCES />
++  </library>
++</component>
+\ No newline at end of file

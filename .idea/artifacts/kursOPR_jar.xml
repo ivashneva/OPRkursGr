@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="kursOPR:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/kursOPR_jar</output-path>
+    <root id="archive" name="kursOPR.jar">
+      <element id="module-output" name="kursOPR" />
+      <element id="library" level="project" name="jfree.jcommon" />
+      <element id="library" level="project" name="jfree.jfreechart" />
+      <element id="library" level="module" name="JUnit4" module-name="kursOPR" />
+      <element id="library" level="module" name="JUnit5.7.0" module-name="kursOPR" />
+      <element id="library" level="module" name="JUnit5.4" module-name="kursOPR" />
+    </root>
+  </artifact>
+</component>

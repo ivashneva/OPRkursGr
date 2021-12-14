@@ -1,0 +1,1067 @@
+<!DOCTYPE html>
+<html lang="ru" class="exp-vwo">
+
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="imagetoolbar" content="no">
+		<meta name="msthemecompatible" content="no">
+		<meta name="cleartype" content="on">
+		<meta name="HandheldFriendly" content="True">
+		<meta name="format-detection" content="telephone=no">
+		<meta name="format-detection" content="address=no">
+		<meta name="apple-mobile-web-app-capable" content="yes">
+		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+		<meta name="google" value="notranslate">
+		<!-- OpenGraph meta-->
+		<meta property="og:title" content="Начните торговать с IQ Option прямо сейчас">
+		<meta property="og:description" content="IQ Option одна из ведущих в мире торговых онлайн-платформ. Воспользуйтесь шансом поторговать на большом ассортименте активов с помощью первоклассных инструментов и средств анализа. Присоединяйтесь сегодня и получите бесперебойный и качественный сервис.">
+		<meta property="og:type" content="website">
+		<meta property="og:url" content="/land/start-trading/ru/">
+		<meta property="og:image" content="https://static.cdnroute.io/land/vendor/images/og/en/og__profitability_91.jpg">
+		<meta property="og:image:height" content="315">
+		<meta property="og:image:width" content="600">
+		<title>Начните торговать с IQ Option прямо сейчас</title>
+		<meta name="description" content="IQ Option одна из ведущих в мире торговых онлайн-платформ. Воспользуйтесь шансом поторговать на большом ассортименте активов с помощью первоклассных инструментов и средств анализа. Присоединяйтесь сегодня и получите бесперебойный и качественный сервис.">
+		<meta name="copyright" content="IQ Option Ltd.">
+		<!-- Common CSS-->
+		<link href="https://static.cdnroute.io/land/start-trading/assets/styles/common.css?v=3&amp;1629900315373" rel="stylesheet">
+		<!-- Favicon-->
+		<link rel="apple-touch-icon" sizes="57x57" href="https://static.cdnroute.io/land/vendor/images/favicons/apple-icon-57x57.png?1629900315373">
+		<link rel="apple-touch-icon" sizes="60x60" href="https://static.cdnroute.io/land/vendor/images/favicons/apple-icon-60x60.png?1629900315373">
+		<link rel="apple-touch-icon" sizes="72x72" href="https://static.cdnroute.io/land/vendor/images/favicons/apple-icon-72x72.png?1629900315373">
+		<link rel="apple-touch-icon" sizes="76x76" href="https://static.cdnroute.io/land/vendor/images/favicons/apple-icon-76x76.png?1629900315373">
+		<link rel="apple-touch-icon" sizes="114x114" href="https://static.cdnroute.io/land/vendor/images/favicons/apple-icon-114x114.png?1629900315373">
+		<link rel="apple-touch-icon" sizes="120x120" href="https://static.cdnroute.io/land/vendor/images/favicons/apple-icon-120x120.png?1629900315373">
+		<link rel="apple-touch-icon" sizes="144x144" href="https://static.cdnroute.io/land/vendor/images/favicons/apple-icon-144x144.png?1629900315373">
+		<link rel="apple-touch-icon" sizes="152x152" href="https://static.cdnroute.io/land/vendor/images/favicons/apple-icon-152x152.png?1629900315373">
+		<link rel="apple-touch-icon" sizes="180x180" href="https://static.cdnroute.io/land/vendor/images/favicons/apple-icon-180x180.png?1629900315373">
+		<link rel="icon" type="image/png" sizes="192x192" href="https://static.cdnroute.io/land/vendor/images/favicons/android-icon-192x192.png?1629900315373">
+		<link rel="icon" type="image/png" sizes="32x32" href="https://static.cdnroute.io/land/vendor/images/favicons/favicon-32x32.png?1629900315373">
+		<link rel="icon" type="image/png" sizes="96x96" href="https://static.cdnroute.io/land/vendor/images/favicons/favicon-96x96.png?1629900315373">
+		<link rel="icon" type="image/png" sizes="16x16" href="https://static.cdnroute.io/land/vendor/images/favicons/favicon-16x16.png?1629900315373">
+		<link rel="manifest" href="https://static.cdnroute.io/land/vendor/images/favicons/manifest.json">
+		<meta name="msapplication-TileColor" content="#ffffff">
+		<meta name="msapplication-TileImage" content="https://static.cdnroute.io/land/vendor/images/favicons/ms-icon-144x144.png?1629900315373">
+		<meta name="theme-color" content="#ffffff">
+		<!-- Critical CSS-->
+		<style>
+			.to-platform,
+			.registration {
+			    position: absolute;
+			    top: -9999px;
+			    left: -9999px;
+			}
+			
+			.is-auth .to-platform {
+			    position: static;
+			    top: inherit;
+			    left: inherit;
+			}
+			
+			.non-auth .registration {
+			    position: static;
+			    top: inherit;
+			    left: inherit;
+			    
+			}
+		</style>
+		<!-- GTM dataLayer-->
+		<script>
+			dataLayer = [];
+		</script>
+		<!-- End GTM dataLayerGoogle Tag Manager
+-->
+		<noscript>
+			<iframe src="//www.googletagmanager.com/ns.html?id=GTM-WN69JL" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+		</noscript>
+		<script>
+			(function (w, d, s, l, i) {
+			    w[l] = w[l] || [];
+			    w[l].push({
+			        'gtm.start': new Date().getTime(), event: 'gtm.js'
+			    });
+			    var f = d.getElementsByTagName(s)[0],
+			            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+			    j.async = true;
+			    j.src = '//www.googletagmanager.com/gtm.js?id=' + i + dl;
+			    f.parentNode.insertBefore(j, f);
+			})(window, document, 'script', 'dataLayer', 'GTM-WN69JL');
+		</script>
+		<!-- End Google Tag Manager-->
+		<style>
+			.hide-for-reg, .show-for-reg {
+			 display: none;
+			}
+			
+			.is-regulated .show-for-reg {
+			 display: inline;
+			}
+			
+			.non-regulated .hide-for-reg {
+			 display: inline;
+			}
+		</style>
+		<!-- Start Visual Website Optimizer Asynchronous Code-->
+		<meta name="google-site-verification" content="PM9_QvlR7C2FFOuFyhNIb2S7Eh-y3v8MiEQmUt1CD48" />
+		<script type="text/javascript" async="">
+			var _vwo_code = (function () {
+			 var account_id = 206059,
+			   settings_tolerance = 2000,
+			   library_tolerance = 2500,
+			   use_existing_jquery = false,
+			   // DO NOT EDIT BELOW THIS LINE
+			   f = false, d = document;
+			 return {
+			  use_existing_jquery: function () {
+			   return use_existing_jquery;
+			  }, library_tolerance: function () {
+			   return library_tolerance;
+			  }, finish: function () {
+			   if (!f) {
+			    f = true;
+			    var a = d.getElementById('_vis_opt_path_hides');
+			    if (a)a.parentNode.removeChild(a);
+			   }
+			  }, finished: function () {
+			   return f;
+			  }, load: function (a) {
+			   var b = d.createElement('script');
+			   b.src = a;
+			   b.type = 'text/javascript';
+			   b.innerText;
+			   b.onerror = function () {
+			    _vwo_code.finish();
+			   };
+			   d.getElementsByTagName('head')[0].appendChild(b);
+			  }, init: function () {
+			   settings_timer = setTimeout('_vwo_code.finish()', settings_tolerance);
+			   var a = d.createElement('style'), b = 'body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}', h = d.getElementsByTagName('head')[0];
+			   a.setAttribute('id', '_vis_opt_path_hides');
+			   a.setAttribute('type', 'text/css');
+			   if (a.styleSheet)a.styleSheet.cssText = b; else a.appendChild(d.createTextNode(b));
+			   h.appendChild(a);
+			   this.load('//dev.visualwebsiteoptimizer.com/j.php?a=' + account_id + '&u=' + encodeURIComponent(d.URL) + '&r=' + Math.random());
+			   return settings_timer;
+			  }
+			 };
+			}());_vwo_settings_timer = _vwo_code.init();
+		</script>
+		<!-- End Visual Website Optimizer Asynchronous Code-->
+	</head>
+
+	<body id="top">
+<!-- trace:dist/index.html -->
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			dataLayer.push({
+			  event: 'owox_pageview', 
+			  path: window.location.pathname, 
+			  title: document.title, 
+			  hostname: window.location.hostname, 
+			  //- userId:'*userid*',
+			  userAuth: 0,
+			})
+		</script>
+		<div id="cookies" class="cookies-position">
+			<div class="cookies-wrapper">
+				<div class="cookies-block">
+					<div class="cookies-text"><span class="show-for-reg">Мы используем файлы cookie, чтобы понять, как вы используете наш сайт, и сделать его еще удобнее. Нажимая кнопку “Ясно“ или продолжая пользоваться нашим сайтом, вы соглашаетесь с их использованием. <a href='/lp/regulation/privacy-reg/' target='_blank'>Подробнее</a></span><span class="hide-for-reg">Мы используем файлы cookie, чтобы понять, как вы используете наш сайт, и сделать его еще удобнее. Нажимая кнопку “Ясно“ или продолжая пользоваться нашим сайтом, вы соглашаетесь с их использованием. <a href='/lp/regulation/privacy-nonreg/' target='_blank'>Подробнее</a></span>
+					</div>
+					<button id="cookies-accept-btn">OK</button>
+				</div>
+			</div>
+		</div>
+		<section id="welcome" class="welcome">
+			<div class="welcome__nav">
+				<div class="wrapper">
+					<div class="welcome__logotype">
+						<a href="/" class="logotype logotype__link">
+							<svg width="172" height="36" class="logotype__img">
+								<use xlink:href="../assets/images/icon.svg#icon_logo__white"></use>
+							</svg>
+						</a>
+					</div>
+					<div class="lang">
+						<input id="menu__link--lang" type="checkbox" name="menu__link" class="lang__input">
+						<label for="menu__link--lang" class="lang__link">ru
+							<svg viewBox="0 0 12 10" xmlns="http://www.w3.org/2000/svg" width="12px" height="10px" class="menu__lang--svg">
+								<g fill-rule="nonzero" class="menu__lang">
+									<path d="M8.0005547,0 L4.0002891,0 C1.7909853,0 0,1.827404 0,4.0816327 C0,6.3358615 1.7909853,8.1632655 4.0002891,8.1632655 L6.9184864,8.1632655 L8.6586087,9.9408051 C8.6963458,9.9789986 8.7474431,10.0003076 8.8006265,9.9999966 C8.9110952,9.9999966 9.0006328,9.9086384 9.0006328,9.7959234 L9.0006328,8.0326615 C9.6931659,7.8526475 10.3249212,7.4844881 10.8287691,6.9673574 C11.5784937,6.2021484 11.9997655,5.1645149 11.9999999,4.0825176 C12.0004687,1.82828888 10.2098584,0.00047832 8.0005547,0 Z"
+									id="Shape"></path>
+								</g>
+							</svg>
+							<div class="lang__dropdown">
+								<div class="lang__arrow--wrap">
+									<div class="lang__arrow"></div>
+								</div>
+								<div class="lang__block"><a href="/land/start-trading/af/" title="AF" data-lang="af" class="lang__item">AF</a><a href="/land/start-trading/ar/" title="AR" data-lang="ar" class="lang__item">AR</a><a href="/land/start-trading/cn/" title="CN" data-lang="cn" class="lang__item">CN</a>
+									<a
+									href="/land/start-trading/da/" title="DA" data-lang="da" class="lang__item">DA</a><a href="/land/start-trading/de/" title="DE" data-lang="de" class="lang__item">DE</a><a href="/land/start-trading/ee/" title="EE" data-lang="ee" class="lang__item">EE</a><a href="/land/start-trading/en/" title="EN" data-lang="en" class="lang__item">EN</a>
+										<a
+										href="/land/start-trading/es/" title="ES" data-lang="es" class="lang__item">ES</a><a href="/land/start-trading/fi/" title="FI" data-lang="fi" class="lang__item">FI</a><a href="/land/start-trading/fr/" title="FR" data-lang="fr" class="lang__item">FR</a><a href="/land/start-trading/id/" title="ID" data-lang="id" class="lang__item">ID</a>
+											<a
+											href="/land/start-trading/it/" title="IT" data-lang="it" class="lang__item">IT</a><a href="/land/start-trading/ko/" title="KO" data-lang="ko" class="lang__item">KO</a><a href="/land/start-trading/lt/" title="LT" data-lang="lt" class="lang__item">LT</a><a href="/land/start-trading/lv/" title="LV" data-lang="lv" class="lang__item">LV</a>
+												<a
+												href="/land/start-trading/nl/" title="NL" data-lang="nl" class="lang__item">NL</a><a href="/land/start-trading/no/" title="NO" data-lang="no" class="lang__item">NO</a><a href="/land/start-trading/pt/" title="PT" data-lang="pt" class="lang__item">PT</a><a href="/land/start-trading/ro/" title="RO" data-lang="ro" class="lang__item">RO</a>
+													<a
+													href="/land/start-trading/ru/" title="RU" data-lang="ru" class="lang__item">RU</a><a href="/land/start-trading/se/" title="SE" data-lang="se" class="lang__item">SE</a><a href="/land/start-trading/th/" title="TH" data-lang="th" class="lang__item">TH</a><a href="/land/start-trading/tr/" title="TR" data-lang="tr" class="lang__item">TR</a>
+														<a
+														href="/land/start-trading/tw/" title="TW" data-lang="tw" class="lang__item">TW</a><a href="/land/start-trading/vn/" title="VN" data-lang="vn" class="lang__item">VN</a><a href="/land/start-trading/hu/" title="HU" data-lang="hu" class="lang__item">HU</a><a href="/land/start-trading/sr/" title="SR" data-lang="sr" class="lang__item">SR</a>
+								</div>
+							</div>
+						</label>
+					</div>
+					<div class="welcome__regulators">
+						<div class="cta"><a href="#register" class="cta__btn btn btn__full btn__full--green btn__desktop">Регистрация</a><span class="cta__btn btn btn__full btn__full--green btn__mobile apps__btn--appStore">Установить</span><span class="cta__btn btn btn__full btn__full--green btn__mobile apps__btn--googlePlay">Установить</span>
+							<a
+							href="https://app.appsflyer.com/com.iqoption-RAW_CHINA?pid=iqoption_int&amp;af_r=https://files.iqoption.com/storage/public/59/a6/943d87244.apk&amp;clickid={subid}" class="apps__btn--google-cn cta__btn btn btn__full btn__full--green btn__mobile">Установить</a>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="welcome__header">
+				<div class="wrap">
+					<div class="section__title">
+						<h1 class="title"><span class="hide-for-reg">Начните <span class='hlt'>торговать бинарными опционами</span> прямо&nbsp;сейчас</span><span class="show-for-reg">Начните <span class='hlt'>торговать FX&nbsp;опционами</span> прямо&nbsp;сейчас</span></h1>
+						<div dir="ltr" class="steps">
+							<div class="steps__item steps__item--nonregulated"><span class="hlt">1</span><span class="txt">Клик</span>
+							</div>
+							<div class="steps__item steps__item--nonregulated"><span class="hlt">1
+$</span><span class="txt">Минимальные инвестиции</span>
+							</div>
+							<div class="steps__item steps__item--nonregulated"><span class="hlt">1 min</span><span class="txt">Быстрые сделки</span>
+							</div>
+							<div id="steps__item-3" class="steps__item steps__item--nonregulated"><span class="hlt">91%</span><span class="txt">Доход *</span><span class='tooltip'><div class='tooltip__content'><span>*В случае успешного закрытия сделки</span>
+							</div>
+							</span>
+						</div>
+					</div>
+					<div class="register">
+						<div class="forbidden_block">
+							<div>
+								<div class="registration_forbidden">
+									<svg height="72" viewBox="0 0 72 72" width="72" xmlns="http://www.w3.org/2000/svg">
+										<path d="m657.420206 316.065739c5.902944 5.540656 13.84506 8.934261 22.579794 8.934261 18.225397 0 33-14.774603 33-33 0-8.610105-3.297454-16.450048-8.698409-22.325878zm-2.09247-2.149927 46.845883-46.356486c-5.858676-5.318428-13.637671-8.559326-22.173619-8.559326-18.225397 0-33 14.774603-33 33 0 8.411336 3.146964 16.087659 8.327736 21.915812zm24.672264 14.084188c-19.882251 0-36-16.117749-36-36s16.117749-36 36-36 36 16.117749 36 36-16.117749 36-36 36z"
+										fill="#ff5a3e" transform="translate(-644 -256)" />
+									</svg><span class="registration_forbidden__title">Уважаемый пользователь! На данный момент IQ Option не предоставляет услуги в вашей стране.</span><span class="registration_forbidden__subtitle">Если вы считаете, что видите это сообщение по ошибке, обратитесь в службу поддержки по адресу <a href="mailto:support@iqoption.com">support@iqoption.com</a></span>
+								</div>
+							</div>
+						</div>
+						<!-- Registration-->
+						<div class="register__title">Быстрая регистрация:</div>
+						<form id="regFrm-1" autocomplete="off" data-validate data-invalid-class="invalid" data-valid-class="valid" data-invalid-class-target="closest/.inputs__item" data-valid-class-target="closest/.inputs__item"
+						data-invalid-msg-target="siblings/.js-vld-msg" data-empty-msg-target="siblings/.js-vld-msg" data-invalid-length-msg-target="siblings/.js-vld-msg" data-empty-value-msg="Пустое поле" data-invalid-value-msg="Неверный формат"
+						data-invalid-length-msg="Слишком короткий пароль" data-min-length-msg="Слишком короткий пароль" data-invalid-country-id="Не определена страна. Возможно, проблемы в работе VPN." data-remove-invalid-class-on="" data-validate-fields-on="change" class="registration register__form">
+							<div class="inputs">
+								<div class="inputs__item inputs__item--firstname">
+									<label class="inputs__label">Имя</label>
+									<input placeholder="Ваше имя" type="text" name="first_name" value="" data-input-pattern="[^0-9]" class="inputs__field inputs__field--firstname">
+									<div class="js-vld-msg"></div>
+									<div class="js-vld-circle"></div>
+								</div>
+								<div class="inputs__item inputs__item--lastname">
+									<label class="inputs__label">Фамилия</label>
+									<input placeholder="Ваша фамилия" type="text" name="last_name" value="" data-input-pattern="[^0-9]" class="inputs__field inputs__field--lastname">
+									<div class="js-vld-msg"></div>
+									<div class="js-vld-circle"></div>
+								</div>
+								<div class="inputs__item inputs__item--email">
+									<label class="inputs__label">Электронная почта</label>
+									<input type="email" name="email" required placeholder="Электронная почта" class="inputs__field inputs__field--email">
+									<div class="js-vld-msg"></div>
+									<div class="js-vld-circle"></div>
+								</div>
+								<div class="inputs__item inputs__item--pass">
+									<label class="inputs__label">Пароль</label>
+									<input type="password" name="password" required placeholder="Пароль" minlength="6" class="inputs__field inputs__field--pass">
+									<div class="js-vld-msg"></div>
+									<div class="js-vld-circle"></div>
+									<div class="js-vld-strength-bar"></div>
+								</div>
+								<!-- 19.12.2018 remove is_demo as this param is not required for api/register https://wiki.mobbtech.com/pages/viewpage.action?pageId=27656217-->
+								<!--input#isDemo.isDemo(type='checkbox', name='is_demo', value='1', style='display:none;', checked='checked')-->
+							</div>
+							<div class="inputs__item--agree">
+								<input type="checkbox" name="agree1" value="0" id="agree1" class="agreement">
+								<label for="agree1"><span class="show-for-reg">Я соглашаюсь с <a href='/lp/regulation/terms-reg/' target='_blank'>Условиями и Положениями </a> и <a href='/lp/regulation/privacy-reg/' target='_blank'>Политикой Конфиденциальности</a></span><span class="hide-for-reg">Я соглашаюсь с <a href='/lp/regulation/terms-nonreg/' target='_blank'>Условиями и Положениями </a> и <a href='/lp/regulation/privacy-nonreg/' target='_blank'>Политикой Конфиденциальности</a></span>
+								</label>
+							</div>
+							<div class="submits">
+								<button type="submit" data-name="real" class="btn btn__full btn__full--green btn__full--flat">Попробуйте сейчас!</button>
+								<div class="js-vld-msg"></div>
+							</div>
+							<!--include ../../../../vendor/blocks/social-auth-->
+						</form>
+						<div class="to-platform">
+							<div class="to-platform__title">Вы уже авторизовались на платформе. Чтобы начать торговать, нажмите на кнопку внизу:</div><a href="/traderoom" data-test-id="auth-traderoom-button" target="_blank" dir="ltr" id="to-platform__btn" class="js-add-domain to-platform__btn btn btn__full btn__full--green">Начать торговать</a>
+						</div>
+					</div>
+					<div class="devices">
+						<img src="https://static.cdnroute.io/land/start-trading/assets/images/mockup__iphone.png?1629900315373" class="devices__img devices__img--ios">
+						<img src="https://static.cdnroute.io/land/start-trading/assets/images/mockup__samsung.png?1629900315373" class="devices__img devices__img--android">
+					</div>
+					<div class="apps">
+						<div class="apps__item apps__item--appStore">
+							<img src="https://static.cdnroute.io/land/vendor/images/app/apple/btn__apple--ru.png?1629900315373" class="apps__btn apps__btn--appStore">
+							<!--img.apps__btn.apps__btn--appStore(src="../assets/images/app/apple/btn__apple--ru.png?" + timestamp width='290' height='94')-->
+						</div>
+						<div class="apps__item apps__item--googlePlay">
+							<img src="https://static.cdnroute.io/land/vendor/images/app/google/btn__google--ru.png?1629900315373" width="280" height="109" class="apps__btn apps__btn--googlePlay">
+							<!--img.apps__btn.apps__btn--googlePlay(src="../assets/images/app/google/btn__google--ru.png?" + timestamp)-->
+							<a href="https://app.appsflyer.com/com.iqoption-RAW_CHINA?pid=iqoption_int&amp;af_r=https://files.iqoption.com/storage/public/59/a6/943d87244.apk&amp;clickid={subid}" class="apps__btn--google-cn apps__btn--apk graphic">
+								<svg width="37" height="44" viewBox="0 0 22 24">
+									<path d="M2.332 7.774a1.43 1.43 0 0 0-1.053.433C.99 8.495.847 8.84.847 9.245v6.202a1.43 1.43 0 0 0 .433 1.053 1.43 1.43 0 0 0 1.053.433 1.41 1.41 0 0 0 1.046-.433c.283-.288.425-.64.425-1.053V9.245c0-.404-.144-.75-.433-1.038s-.635-.433-1.04-.433h0zm11.942-5.567L15.3.317c.067-.125.043-.22-.072-.288-.125-.058-.22-.03-.288.087L13.9 2.02c-.914-.404-1.88-.606-2.9-.606a7.09 7.09 0 0 0-2.899.606L7.063.116C6.996.001 6.9-.028 6.775.03c-.116.068-.14.163-.072.288l1.024 1.89c-1.038.53-1.865 1.267-2.48 2.214a5.59 5.59 0 0 0-.923 3.108h13.34c0-1.125-.308-2.16-.923-3.108a6.35 6.35 0 0 0-2.466-2.214h0zm-5.92 2.748a.54.54 0 0 1-.397.166c-.154 0-.284-.055-.39-.166a.55.55 0 0 1-.159-.396c0-.154.053-.286.16-.397a.52.52 0 0 1 .389-.166.54.54 0 0 1 .397.166.54.54 0 0 1 .166.397.54.54 0 0 1-.166.396zm6.08 0c-.106.11-.236.166-.39.166a.54.54 0 0 1-.397-.166.54.54 0 0 1-.166-.396.54.54 0 0 1 .166-.397.54.54 0 0 1 .397-.166c.154 0 .283.055.39.166s.16.243.16.397a.55.55 0 0 1-.159.396zM4.38 17.654a1.53 1.53 0 0 0 .461 1.125 1.53 1.53 0 0 0 1.125.461h1.067l.015 3.274c0 .414.144.765.433 1.053S8.116 24 8.52 24c.413 0 .764-.144 1.053-.433s.433-.64.433-1.053V19.24h2v3.274c0 .414.144.765.433 1.053a1.43 1.43 0 0 0 1.053.433c.413 0 .764-.144 1.053-.433s.433-.64.433-1.053V19.24h1.082c.433 0 .803-.154 1.11-.46a1.53 1.53 0 0 0 .461-1.125V8.048H4.38v9.606zm15.29-9.88a1.43 1.43 0 0 0-1.038.425 1.41 1.41 0 0 0-.433 1.046v6.202a1.43 1.43 0 0 0 .433 1.053c.288.288.635.433 1.038.433.413 0 .764-.144 1.053-.433a1.43 1.43 0 0 0 .433-1.053V9.245a1.41 1.41 0 0 0-.433-1.046c-.288-.283-.64-.425-1.053-.425h0z"
+									fill="#a4c53b" fill-rule="nonzero"></path><span>Android APK</span>
+								</svg>
+							</a>
+						</div>
+					</div>
+					<div class="forbidden_block_apps">
+						<div class="registration_forbidden">
+							<svg height="72" viewBox="0 0 72 72" width="72" xmlns="http://www.w3.org/2000/svg">
+								<path d="m657.420206 316.065739c5.902944 5.540656 13.84506 8.934261 22.579794 8.934261 18.225397 0 33-14.774603 33-33 0-8.610105-3.297454-16.450048-8.698409-22.325878zm-2.09247-2.149927 46.845883-46.356486c-5.858676-5.318428-13.637671-8.559326-22.173619-8.559326-18.225397 0-33 14.774603-33 33 0 8.411336 3.146964 16.087659 8.327736 21.915812zm24.672264 14.084188c-19.882251 0-36-16.117749-36-36s16.117749-36 36-36 36 16.117749 36 36-16.117749 36-36 36z"
+								fill="#ff5a3e" transform="translate(-644 -256)" />
+							</svg><span class="registration_forbidden__title">Уважаемый пользователь! На данный момент IQ Option не предоставляет услуги в вашей стране.</span><span class="registration_forbidden__subtitle">Если вы считаете, что видите это сообщение по ошибке, обратитесь в службу поддержки по адресу <a href="mailto:support@iqoption.com">support@iqoption.com</a></span>
+						</div>
+					</div>
+				</div>
+			</div>
+			</div>
+			<div class="welcome__overlay"></div>
+			<div class="welcome__video">
+				<video autoplay loop muted preload="auto" poster="https://static.cdnroute.io/land/start-trading/assets/images/bg__welcome.jpg" class="video">
+					<source src="https://static.cdnroute.io/land/vendor/resources/video/platform__v4.mp4?1629900315373" type="video/mp4">
+				</video>
+			</div>
+		</section>
+		<section id="trade" class="section trade">
+			<div class="wrap">
+				<div class="section__title">
+					<h2 class="title">КАК РАБОТАЕТ НАША ПЛАТФОРМА</h2>
+				</div>
+				<div class="section__content">
+					<div dir="ltr" class="steps">
+						<div class="steps__item">
+							<div class="steps__num">1.</div>
+							<div dir="ltr" class="steps__text">Определите, каким будет курс в скором времени — <span class='green'>Выше</span> или <span class='red'>Ниже</span>, чем сейчас</div>
+						</div>
+						<div class="steps__item">
+							<div class="steps__num">2.</div>
+							<div dir="ltr" class="steps__text">Через несколько секунд проверьте правильность прогноза и потенциальную прибыль</div>
+						</div>
+					</div>
+					<div class="trade__platform">
+						<img src="https://static.cdnroute.io/land/start-trading/assets/images/mockup__macbook.png?1629900315373" class="trade__mockup">
+						<div class="traderoom">
+							<div class="platform">
+								<div class="platform__header">
+									<div class="asset">
+										<div class="currency stocksName">EUR/USD</div>
+										<div class="profit activePercent">+91%</div>
+									</div>
+									<div class="other">+</div>
+									<div class="balance">
+										<div class="balance__count"><span class="currency">$</span><span id="balance">10 000.00</span>
+										</div>
+										<div class="balance__type">Учебный счет</div>
+									</div>
+								</div>
+								<div class="platform__chart">
+									<div class="expiration"><span class="expiration__text">Время закрытия</span><span id="expiration" class="expiration__time"></span><span class="expiration__seconds">сек.</span>
+									</div>
+									<div id="chart1" data-highcharts-chart="0" class="chart"></div>
+									<div class="platform__warning">Котировки на данном игровом графике не являются реальными. Операции, предлагаемые Сайтом, могут считаться Операциями с высоким уровнем риска, а их исполнение может быть очень рискованным.</div>
+								</div>
+								<div class="platform__sidebar">
+									<div class="sidebar">
+										<div class="sidebar__block amount">
+											<div dir="ltr" class="sidebar__title amount__title">Сумма</div>
+											<div class="amount__input"><span class="currency">$</span>
+												<input id="amount" type="number" min="0" max="5000" value="500" name="email">
+											</div>
+											<div class="amount__control">
+												<div id="amount__del" class="amount__minus">-</div>
+												<div id="amount__add" class="amount__plus">+</div>
+											</div>
+										</div>
+										<div class="sidebar__block income">
+											<div dir="ltr" class="sidebar__title income__title">Доход:</div>
+											<div class="income__percent"><span id="js-percent" data-percent="0.91" class="activePercent">91%</span>
+											</div>
+											<div class="income__count"><span class="currency">+$</span>
+												<input id="profit" value="455.91" type="text">
+											</div>
+										</div>
+										<div class="sidebar__block control">
+											<button id="btn__call" data-direct="true" class="control__btn control__btn--call">
+												<div class="control__caption">
+													<svg width="18px" height="19px" class="control__icon">
+														<use xlink:href="../assets/images/icon.svg#icon_icon__call"></use>
+													</svg>
+													<div class="control__text">Выше</div>
+												</div>
+											</button>
+											<button id="btn__put" data-direct="false" class="control__btn control__btn--put">
+												<div class="control__caption">
+													<svg width="18px" height="19px" class="control__icon">
+														<use xlink:href="../assets/images/icon.svg#icon_icon__put"></use>
+													</svg>
+													<div class="control__text">Ниже</div>
+												</div>
+											</button>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div id="result" class="result">
+								<div class="result__close">✕</div>
+								<div class="result__content">
+									<div class="result__register">
+										<div class="result__block">
+											<div dir="ltr" class="result__title">Станьте трейдером</div>
+											<div dir="ltr" class="result__text">Попробуйте торговать на учебном счете с реальными графиками</div>
+											<div class="result__btn"><a href="#register" class="btn btn__full btn__full--orange">Начни торговать сейчас!</a>
+											</div>
+										</div>
+									</div>
+									<div class="result__forecast">
+										<div class="result__block">
+											<div dir="ltr" class="result__title result__title--lose">Неверный прогноз</div>
+											<div dir="ltr" class="result__title result__title--win">Верный прогноз</div>
+											<div dir="ltr" class="result__text">Вы получили прибыль <span class="currency">$</span><span id="result__bet">500</span> с инвестиции в <span class="currency">$</span><span id="result__profit">500</span>
+											</div>
+											<div class="result__profit">
+												<div class="result__bubble">
+													<div class="bubble">
+														<div class="bubble__text">Прибыль</div>
+														<div class="bubble__profit">$<span id="result__amount">500</span>
+														</div>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+									<div class="result__warning">Котировки на данном игровом графике не являются реальными. Операции, предлагаемые Сайтом, могут считаться Операциями с высоким уровнем риска, а их исполнение может быть очень рискованным.</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="cta"><a href="#register" class="cta__btn btn__desktop btn btn__full btn__full--green">Попробуйте сейчас!</a>
+						<div class="apps">
+							<div class="apps__item apps__item--appStore">
+								<img src="https://static.cdnroute.io/land/vendor/images/app/apple/btn__apple--ru.png?1629900315373" class="apps__btn apps__btn--appStore">
+								<!--img.apps__btn.apps__btn--appStore(src="../assets/images/app/apple/btn__apple--ru.png?" + timestamp width='290' height='94')-->
+							</div>
+							<div class="apps__item apps__item--googlePlay">
+								<img src="https://static.cdnroute.io/land/vendor/images/app/google/btn__google--ru.png?1629900315373" width="280" height="109" class="apps__btn apps__btn--googlePlay">
+								<!--img.apps__btn.apps__btn--googlePlay(src="../assets/images/app/google/btn__google--ru.png?" + timestamp)-->
+								<a href="https://app.appsflyer.com/com.iqoption-RAW_CHINA?pid=iqoption_int&amp;af_r=https://files.iqoption.com/storage/public/59/a6/943d87244.apk&amp;clickid={subid}" class="apps__btn--google-cn apps__btn--apk graphic">
+									<svg width="37" height="44" viewBox="0 0 22 24">
+										<path d="M2.332 7.774a1.43 1.43 0 0 0-1.053.433C.99 8.495.847 8.84.847 9.245v6.202a1.43 1.43 0 0 0 .433 1.053 1.43 1.43 0 0 0 1.053.433 1.41 1.41 0 0 0 1.046-.433c.283-.288.425-.64.425-1.053V9.245c0-.404-.144-.75-.433-1.038s-.635-.433-1.04-.433h0zm11.942-5.567L15.3.317c.067-.125.043-.22-.072-.288-.125-.058-.22-.03-.288.087L13.9 2.02c-.914-.404-1.88-.606-2.9-.606a7.09 7.09 0 0 0-2.899.606L7.063.116C6.996.001 6.9-.028 6.775.03c-.116.068-.14.163-.072.288l1.024 1.89c-1.038.53-1.865 1.267-2.48 2.214a5.59 5.59 0 0 0-.923 3.108h13.34c0-1.125-.308-2.16-.923-3.108a6.35 6.35 0 0 0-2.466-2.214h0zm-5.92 2.748a.54.54 0 0 1-.397.166c-.154 0-.284-.055-.39-.166a.55.55 0 0 1-.159-.396c0-.154.053-.286.16-.397a.52.52 0 0 1 .389-.166.54.54 0 0 1 .397.166.54.54 0 0 1 .166.397.54.54 0 0 1-.166.396zm6.08 0c-.106.11-.236.166-.39.166a.54.54 0 0 1-.397-.166.54.54 0 0 1-.166-.396.54.54 0 0 1 .166-.397.54.54 0 0 1 .397-.166c.154 0 .283.055.39.166s.16.243.16.397a.55.55 0 0 1-.159.396zM4.38 17.654a1.53 1.53 0 0 0 .461 1.125 1.53 1.53 0 0 0 1.125.461h1.067l.015 3.274c0 .414.144.765.433 1.053S8.116 24 8.52 24c.413 0 .764-.144 1.053-.433s.433-.64.433-1.053V19.24h2v3.274c0 .414.144.765.433 1.053a1.43 1.43 0 0 0 1.053.433c.413 0 .764-.144 1.053-.433s.433-.64.433-1.053V19.24h1.082c.433 0 .803-.154 1.11-.46a1.53 1.53 0 0 0 .461-1.125V8.048H4.38v9.606zm15.29-9.88a1.43 1.43 0 0 0-1.038.425 1.41 1.41 0 0 0-.433 1.046v6.202a1.43 1.43 0 0 0 .433 1.053c.288.288.635.433 1.038.433.413 0 .764-.144 1.053-.433a1.43 1.43 0 0 0 .433-1.053V9.245a1.41 1.41 0 0 0-.433-1.046c-.288-.283-.64-.425-1.053-.425h0z"
+										fill="#a4c53b" fill-rule="nonzero"></path><span>Android APK</span>
+									</svg>
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<section id="why" class="section why">
+			<div class="wrap">
+				<div class="section__title">
+					<h2 class="title">Международный <span class='hlt'>надежный</span> брокер</h2>
+				</div>
+				<div class="section__content">
+					<div class="reasons">
+						<div class="reasons__image">
+							<img src="https://static.cdnroute.io/land/start-trading/assets/images/mockup__devices.png?1629900315373" width="" height="" alt="" class="reasons__img">
+						</div>
+						<div class="devices">
+							<img src="https://static.cdnroute.io/land/start-trading/assets/images/mockup__iphone.png?1629900315373" class="devices__img devices__img--ios">
+							<img src="https://static.cdnroute.io/land/start-trading/assets/images/mockup__samsung.png?1629900315373" class="devices__img devices__img--android">
+						</div>
+						<ul dir="ltr" class="reasons__list">
+							<li class="reasons__item">
+								<p class="reasons__paragraph">Бесплатный демо-счет на $10 000</p>
+							</li>
+							<li class="reasons__item">
+								<p class="reasons__paragraph">Профессиональная система обучения</p>
+							</li>
+							<li class="reasons__item">
+								<p class="reasons__paragraph">Доступность на любом устройстве</p>
+							</li>
+							<li class="reasons__item">
+								<p class="reasons__paragraph">Широкий выбор инструментов анализа</p>
+							</li>
+							<li class="reasons__item">
+								<p class="reasons__paragraph">Более 70 активов для торговли</p>
+							</li>
+							<li class="reasons__item">
+								<p class="reasons__paragraph">Простая и надежная система вывода средств</p>
+							</li>
+						</ul>
+					</div>
+					<div class="benefits">
+						<ul class="benefits__list">
+							<li class="benefits__item">
+								<div class="benefits__content">
+									<div dir="ltr" class="benefits__num">91%<span class='tooltip'>* <div class='tooltip__content'><span>В случае успешного закрытия сделки</span>
+									</div>
+									</span>
+								</div>
+								<div dir="ltr" class="benefits__title">Высокая доходность</div>
+					</div>
+					</li>
+					<li class="benefits__item">
+						<div class="benefits__content">
+							<div dir="ltr" class="benefits__num">$
+								<div class="hide-for-reg">1</div>
+								<div class="show-for-reg">1</div>
+							</div>
+							<div dir="ltr" class="benefits__title">Минимальные инвестиции</div>
+						</div>
+					</li>
+					<li class="benefits__item">
+						<div class="benefits__content">
+							<div dir="ltr" class="benefits__num">1 min</div>
+							<div dir="ltr" class="benefits__title">Быстрые сделки</div>
+						</div>
+					</li>
+					<li class="benefits__item">
+						<div class="benefits__content">
+							<div dir="ltr" class="benefits__num">$10</div>
+							<div dir="ltr" class="benefits__title">Минимальный депозит</div>
+						</div>
+					</li>
+					</ul>
+				</div>
+				<div class="cta"><a href="#register" dir="ltr" class="cta__btn btn__desktop btn btn__full btn__full--green">Попробуйте сейчас!</a>
+					<div class="apps">
+						<div class="apps__item apps__item--appStore">
+							<img src="https://static.cdnroute.io/land/vendor/images/app/apple/btn__apple--ru.png?1629900315373" class="apps__btn apps__btn--appStore">
+							<!--img.apps__btn.apps__btn--appStore(src="../assets/images/app/apple/btn__apple--ru.png?" + timestamp width='290' height='94')-->
+						</div>
+						<div class="apps__item apps__item--googlePlay">
+							<img src="https://static.cdnroute.io/land/vendor/images/app/google/btn__google--ru.png?1629900315373" width="280" height="109" class="apps__btn apps__btn--googlePlay">
+							<!--img.apps__btn.apps__btn--googlePlay(src="../assets/images/app/google/btn__google--ru.png?" + timestamp)-->
+							<a href="https://app.appsflyer.com/com.iqoption-RAW_CHINA?pid=iqoption_int&amp;af_r=https://files.iqoption.com/storage/public/59/a6/943d87244.apk&amp;clickid={subid}" class="apps__btn--google-cn apps__btn--apk graphic">
+								<svg width="37" height="44" viewBox="0 0 22 24">
+									<path d="M2.332 7.774a1.43 1.43 0 0 0-1.053.433C.99 8.495.847 8.84.847 9.245v6.202a1.43 1.43 0 0 0 .433 1.053 1.43 1.43 0 0 0 1.053.433 1.41 1.41 0 0 0 1.046-.433c.283-.288.425-.64.425-1.053V9.245c0-.404-.144-.75-.433-1.038s-.635-.433-1.04-.433h0zm11.942-5.567L15.3.317c.067-.125.043-.22-.072-.288-.125-.058-.22-.03-.288.087L13.9 2.02c-.914-.404-1.88-.606-2.9-.606a7.09 7.09 0 0 0-2.899.606L7.063.116C6.996.001 6.9-.028 6.775.03c-.116.068-.14.163-.072.288l1.024 1.89c-1.038.53-1.865 1.267-2.48 2.214a5.59 5.59 0 0 0-.923 3.108h13.34c0-1.125-.308-2.16-.923-3.108a6.35 6.35 0 0 0-2.466-2.214h0zm-5.92 2.748a.54.54 0 0 1-.397.166c-.154 0-.284-.055-.39-.166a.55.55 0 0 1-.159-.396c0-.154.053-.286.16-.397a.52.52 0 0 1 .389-.166.54.54 0 0 1 .397.166.54.54 0 0 1 .166.397.54.54 0 0 1-.166.396zm6.08 0c-.106.11-.236.166-.39.166a.54.54 0 0 1-.397-.166.54.54 0 0 1-.166-.396.54.54 0 0 1 .166-.397.54.54 0 0 1 .397-.166c.154 0 .283.055.39.166s.16.243.16.397a.55.55 0 0 1-.159.396zM4.38 17.654a1.53 1.53 0 0 0 .461 1.125 1.53 1.53 0 0 0 1.125.461h1.067l.015 3.274c0 .414.144.765.433 1.053S8.116 24 8.52 24c.413 0 .764-.144 1.053-.433s.433-.64.433-1.053V19.24h2v3.274c0 .414.144.765.433 1.053a1.43 1.43 0 0 0 1.053.433c.413 0 .764-.144 1.053-.433s.433-.64.433-1.053V19.24h1.082c.433 0 .803-.154 1.11-.46a1.53 1.53 0 0 0 .461-1.125V8.048H4.38v9.606zm15.29-9.88a1.43 1.43 0 0 0-1.038.425 1.41 1.41 0 0 0-.433 1.046v6.202a1.43 1.43 0 0 0 .433 1.053c.288.288.635.433 1.038.433.413 0 .764-.144 1.053-.433a1.43 1.43 0 0 0 .433-1.053V9.245a1.41 1.41 0 0 0-.433-1.046c-.288-.283-.64-.425-1.053-.425h0z"
+									fill="#a4c53b" fill-rule="nonzero"></path><span>Android APK</span>
+								</svg>
+							</a>
+						</div>
+					</div>
+				</div>
+				<div class="warning">
+					<div class="warning__title">Общее Предупреждение о&nbsp;рисках<span class='warning__colon'>:</span>
+					</div>
+					<div dir="ltr" class="warning__text">Финансовые услуги, предоставляемые этим сайтом несут высокий уровень риска и могут привести к потере всех ваших средств. Не инвестируйте деньги, которые вы не можете позволить себе потерять</div>
+				</div>
+			</div>
+			</div>
+		</section>
+		<!--include ../../../../vendor/landings/start-trading/sections/section-4-payed-->
+		<section id="payments" class="section payments">
+			<div class="wrap">
+				<div class="section__title">
+					<h2 class="title"><span class='hlt'>ПРОСТОЙ И НАДЕЖНЫЙ</span> ВЫВОД СРЕДСТВ</h2>
+				</div>
+				<div class="section__content">
+					<div class="payment">
+						<div class="payment__title"><span>Простая и надежная система вывода средств</span>
+						</div>
+						<div class="payment__list">
+							<div class="payment__item payment__item--visa">
+								<svg class="payment__img">
+									<use xlink:href="../assets/images/icon.svg#icon_payment__visa"></use>
+								</svg>
+							</div>
+							<div class="payment__item payment__item--mastercard">
+								<svg class="payment__img">
+									<use xlink:href="../assets/images/icon.svg#icon_payment__mastercard"></use>
+								</svg>
+							</div>
+							<div class="payment__item payment__item--webmoney">
+								<svg class="payment__img">
+									<use xlink:href="../assets/images/icon.svg#icon_payment__webmoney"></use>
+								</svg>
+							</div>
+							<div class="payment__item payment__item--scrill">
+								<svg class="payment__img">
+									<use xlink:href="../assets/images/icon.svg#icon_payment__skrill"></use>
+								</svg>
+							</div>
+							<div class="payment__item payment__item--poli">
+								<svg class="payment__img">
+									<use xlink:href="../assets/images/icon.svg#icon_payment__poli"></use>
+								</svg>
+							</div>
+							<div class="payment__item payment__item--neteller">
+								<svg class="payment__img">
+									<use xlink:href="../assets/images/icon.svg#icon_payment__neteller"></use>
+								</svg>
+							</div>
+							<div class="payment__item payment__item--wire">
+								<svg class="payment__img">
+									<use xlink:href="../assets/images/icon.svg#icon_payment__wire"></use>
+								</svg>
+							</div>
+							<div class="payment__item payment__item--bank">
+								<svg class="payment__img">
+									<use xlink:href="../assets/images/icon.svg#icon_payment__bank"></use>
+								</svg>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<section id="reviews" class="section reviews">
+			<div class="wrap">
+				<div class="section__title">
+					<h2 class="title">Отзывы наших трейдеров</h2>
+					<p class="text">У нас самая лучшая торговая платформа в мире &mdash; убедитесь сами</p>
+				</div>
+				<div class="section__content">
+					<div class="reviews__list">
+						<div class="reviews__block facebook">
+							<div class="reviews__head">
+								<div class="author">
+									<div class="author__photo">
+										<img src="https://static.cdnroute.io/land/vendor/images/reviews/photos/user__photo--n1.jpg" width="36" height="36" alt="Donavin Lourens" />
+									</div>
+									<div class="author__info">
+										<p class="author__name">Donavin Lourens</p>
+										<p class="reviews__date review__date--facebook">3 month ago</p>
+										<p class="reviews__date author__nickname--twitter">&#64;*base.reviews.review.review-1.nickname*</p>
+									</div>
+								</div>
+							</div>
+							<div class="reviews__content">Great app to use during the day. they have great online support.If you loss any money it's a mistake you made yourself.I've read some of this reviews on here people making IQ option sound bad.If you don't trust them yet then facebook me personally i dont work for them or anything.I'll be honest with you</div>
+							<div class="reviews__footer reviews__footer--facebook">
+								<div class="reviews__info">
+									<div class="likes">
+										<img src="https://static.cdnroute.io/land/vendor/images/socials/icon__likes.png" width="16" height="16" class="icon__item icon__item--likes" />33</div>
+									<div class="comments">
+										<img src="https://static.cdnroute.io/land/vendor/images/socials/icon__comments.png" width="14" height="14" class="icon__item icon__item--comments" />6</div>
+								</div>
+							</div>
+							<div class="reviews__footer reviews__footer--twitter">
+								<div class="reviews__info">
+									<div class="date">3 month ago</div>
+									<div class="likes">
+										<img src="https://static.cdnroute.io/land/vendor/images/socials/icon__likes.png" width="16" height="16" class="icon__item icon__item--likes" />33</div>
+								</div>
+							</div>
+						</div>
+						<div class="reviews__block twitter">
+							<div class="reviews__head">
+								<div class="author">
+									<div class="author__photo">
+										<img src="https://static.cdnroute.io/land/vendor/images/reviews/photos/user__photo--n5.jpg" width="36" height="36" alt="Salem" />
+									</div>
+									<div class="author__info">
+										<p class="author__name">Salem</p>
+										<p class="reviews__date review__date--facebook">7:42 AM - 17 Jan 2017</p>
+										<p class="reviews__date author__nickname--twitter">&#64;Motseolapile1</p>
+									</div>
+								</div>
+							</div>
+							<div class="reviews__content">- I am looking forward to doing business with you guys. I activated my account, wish me luck. Lol!!!!!!</div>
+							<div class="reviews__footer reviews__footer--facebook">
+								<div class="reviews__info">
+									<div class="likes">
+										<img src="https://static.cdnroute.io/land/vendor/images/socials/icon__likes.png" width="16" height="16" class="icon__item icon__item--likes" />1</div>
+									<div class="comments">
+										<img src="https://static.cdnroute.io/land/vendor/images/socials/icon__comments.png" width="14" height="14" class="icon__item icon__item--comments" /></div>
+								</div>
+							</div>
+							<div class="reviews__footer reviews__footer--twitter">
+								<div class="reviews__info">
+									<div class="date">7:42 AM - 17 Jan 2017</div>
+									<div class="likes">
+										<img src="https://static.cdnroute.io/land/vendor/images/socials/icon__likes.png" width="16" height="16" class="icon__item icon__item--likes" />1</div>
+								</div>
+							</div>
+						</div>
+						<div class="reviews__block twitter">
+							<div class="reviews__head">
+								<div class="author">
+									<div class="author__photo">
+										<img src="https://static.cdnroute.io/land/vendor/images/reviews/photos/user__photo--n7.jpg" width="36" height="36" alt="Acialwip" />
+									</div>
+									<div class="author__info">
+										<p class="author__name">Acialwip</p>
+										<p class="reviews__date review__date--facebook">17:12 - 18 april 2016</p>
+										<p class="reviews__date author__nickname--twitter">&#64;acialwipyt</p>
+									</div>
+								</div>
+							</div>
+							<div class="reviews__content">@IQOption Great site, trustworthy and reliable. Have made about £3,600 and will continue to trade here.</div>
+							<div class="reviews__footer reviews__footer--facebook">
+								<div class="reviews__info">
+									<div class="likes">
+										<img src="https://static.cdnroute.io/land/vendor/images/socials/icon__likes.png" width="16" height="16" class="icon__item icon__item--likes" />2</div>
+									<div class="comments">
+										<img src="https://static.cdnroute.io/land/vendor/images/socials/icon__comments.png" width="14" height="14" class="icon__item icon__item--comments" /></div>
+								</div>
+							</div>
+							<div class="reviews__footer reviews__footer--twitter">
+								<div class="reviews__info">
+									<div class="date">17:12 - 18 april 2016</div>
+									<div class="likes">
+										<img src="https://static.cdnroute.io/land/vendor/images/socials/icon__likes.png" width="16" height="16" class="icon__item icon__item--likes" />2</div>
+								</div>
+							</div>
+						</div>
+						<div class="reviews__block facebook">
+							<div class="reviews__head">
+								<div class="author">
+									<div class="author__photo">
+										<img src="https://static.cdnroute.io/land/vendor/images/reviews/photos/user__photo--n2.jpg" width="36" height="36" alt="Fong Xiongkun" />
+									</div>
+									<div class="author__info">
+										<p class="author__name">Fong Xiongkun</p>
+										<p class="reviews__date review__date--facebook">2 month ago</p>
+										<p class="reviews__date author__nickname--twitter">&#64;*base.reviews.review.review-4.nickname*</p>
+									</div>
+								</div>
+							</div>
+							<div class="reviews__content"><p>Excellent interface. Great support - shoutout to Alex :) Only problem is that the risk exposure is not forthcoming. Took me months before I figured it out but by then I'd made losses. As such, I only trade EUR/USD as it regularly gives the highest risk exposure (about 2.5k).</p>Withdrawals have had no issue for me at all. It was a painful process to set up (e-wallet, sending bank card details, passport details, drivers' licence...), but once done, everything is pretty smooth. Ideal case is to deposit from a card, withdraw to a card, withdraw to the e-wallet and then withdraw from the e-wallet back to the card (especially if you're in a country that's not 'supported' by the e-wallet).</div>
+							<div class="reviews__footer reviews__footer--facebook">
+								<div class="reviews__info">
+									<div class="likes">
+										<img src="https://static.cdnroute.io/land/vendor/images/socials/icon__likes.png" width="16" height="16" class="icon__item icon__item--likes" />17</div>
+									<div class="comments">
+										<img src="https://static.cdnroute.io/land/vendor/images/socials/icon__comments.png" width="14" height="14" class="icon__item icon__item--comments" />8</div>
+								</div>
+							</div>
+							<div class="reviews__footer reviews__footer--twitter">
+								<div class="reviews__info">
+									<div class="date">2 month ago</div>
+									<div class="likes">
+										<img src="https://static.cdnroute.io/land/vendor/images/socials/icon__likes.png" width="16" height="16" class="icon__item icon__item--likes" />17</div>
+								</div>
+							</div>
+						</div>
+						<div class="reviews__block facebook">
+							<div class="reviews__head">
+								<div class="author">
+									<div class="author__photo">
+										<img src="https://static.cdnroute.io/land/vendor/images/reviews/photos/user__photo--n4.jpg" width="36" height="36" alt="Louai N. AlAdham" />
+									</div>
+									<div class="author__info">
+										<p class="author__name">Louai N. AlAdham</p>
+										<p class="reviews__date review__date--facebook">1 month ago</p>
+										<p class="reviews__date author__nickname--twitter">&#64;*base.reviews.review.review-5.nickname*</p>
+									</div>
+								</div>
+							</div>
+							<div class="reviews__content">I Love the fact that I can take you anywhere #IQoption...best #APP ever....trade with a mood guys....it matters... good luck all...</div>
+							<div class="reviews__footer reviews__footer--facebook">
+								<div class="reviews__info">
+									<div class="likes">
+										<img src="https://static.cdnroute.io/land/vendor/images/socials/icon__likes.png" width="16" height="16" class="icon__item icon__item--likes" />2</div>
+									<div class="comments">
+										<img src="https://static.cdnroute.io/land/vendor/images/socials/icon__comments.png" width="14" height="14" class="icon__item icon__item--comments" />3</div>
+								</div>
+							</div>
+							<div class="reviews__footer reviews__footer--twitter">
+								<div class="reviews__info">
+									<div class="date">1 month ago</div>
+									<div class="likes">
+										<img src="https://static.cdnroute.io/land/vendor/images/socials/icon__likes.png" width="16" height="16" class="icon__item icon__item--likes" />2</div>
+								</div>
+							</div>
+						</div>
+						<div class="reviews__block twitter">
+							<div class="reviews__head">
+								<div class="author">
+									<div class="author__photo">
+										<img src="https://static.cdnroute.io/land/vendor/images/reviews/photos/user__photo--twitter.jpg" width="36" height="36" alt="Peter Johnson" />
+									</div>
+									<div class="author__info">
+										<p class="author__name">Peter Johnson</p>
+										<p class="reviews__date review__date--facebook">18:07 - 7 July 2016 · Paddington, London</p>
+										<p class="reviews__date author__nickname--twitter">&#64;gwmseven</p>
+									</div>
+								</div>
+							</div>
+							<div class="reviews__content">@IQOption So you're giving all scamming brokers an elbow. Great job iqoption.</div>
+							<div class="reviews__footer reviews__footer--facebook">
+								<div class="reviews__info">
+									<div class="likes">
+										<img src="https://static.cdnroute.io/land/vendor/images/socials/icon__likes.png" width="16" height="16" class="icon__item icon__item--likes" />3</div>
+									<div class="comments">
+										<img src="https://static.cdnroute.io/land/vendor/images/socials/icon__comments.png" width="14" height="14" class="icon__item icon__item--comments" /></div>
+								</div>
+							</div>
+							<div class="reviews__footer reviews__footer--twitter">
+								<div class="reviews__info">
+									<div class="date">18:07 - 7 July 2016 · Paddington, London</div>
+									<div class="likes">
+										<img src="https://static.cdnroute.io/land/vendor/images/socials/icon__likes.png" width="16" height="16" class="icon__item icon__item--likes" />3</div>
+								</div>
+							</div>
+						</div>
+						<div class="reviews__block facebook">
+							<div class="reviews__head">
+								<div class="author">
+									<div class="author__photo">
+										<img src="https://static.cdnroute.io/land/vendor/images/reviews/photos/user__photo--n3.jpg" width="36" height="36" alt="Benedict Gift Mosetlo" />
+									</div>
+									<div class="author__info">
+										<p class="author__name">Benedict Gift Mosetlo</p>
+										<p class="reviews__date review__date--facebook">3 month ago</p>
+										<p class="reviews__date author__nickname--twitter">&#64;*base.reviews.review.review-7.nickname*</p>
+									</div>
+								</div>
+							</div>
+							<div class="reviews__content">Best app for beginners... really great I recommend it to anyone. Best working with Bollinger bands and RSI indicators combined. Lost of profits</div>
+							<div class="reviews__footer reviews__footer--facebook">
+								<div class="reviews__info">
+									<div class="likes">
+										<img src="https://static.cdnroute.io/land/vendor/images/socials/icon__likes.png" width="16" height="16" class="icon__item icon__item--likes" />9</div>
+									<div class="comments">
+										<img src="https://static.cdnroute.io/land/vendor/images/socials/icon__comments.png" width="14" height="14" class="icon__item icon__item--comments" />12</div>
+								</div>
+							</div>
+							<div class="reviews__footer reviews__footer--twitter">
+								<div class="reviews__info">
+									<div class="date">3 month ago</div>
+									<div class="likes">
+										<img src="https://static.cdnroute.io/land/vendor/images/socials/icon__likes.png" width="16" height="16" class="icon__item icon__item--likes" />9</div>
+								</div>
+							</div>
+						</div>
+						<div class="reviews__block twitter">
+							<div class="reviews__head">
+								<div class="author">
+									<div class="author__photo">
+										<img src="https://static.cdnroute.io/land/vendor/images/reviews/photos/user__photo--n6.jpg" width="36" height="36" alt="Ezequias Rocha" />
+									</div>
+									<div class="author__info">
+										<p class="author__name">Ezequias Rocha</p>
+										<p class="reviews__date review__date--facebook">02:24 - 28 July 2016</p>
+										<p class="reviews__date author__nickname--twitter">&#64;ezequiasrocha</p>
+									</div>
+								</div>
+							</div>
+							<div class="reviews__content">@IQOption better #ux I've ever seen on my entire life. ♥️</div>
+							<div class="reviews__footer reviews__footer--facebook">
+								<div class="reviews__info">
+									<div class="likes">
+										<img src="https://static.cdnroute.io/land/vendor/images/socials/icon__likes.png" width="16" height="16" class="icon__item icon__item--likes" />3</div>
+									<div class="comments">
+										<img src="https://static.cdnroute.io/land/vendor/images/socials/icon__comments.png" width="14" height="14" class="icon__item icon__item--comments" />15</div>
+								</div>
+							</div>
+							<div class="reviews__footer reviews__footer--twitter">
+								<div class="reviews__info">
+									<div class="date">02:24 - 28 July 2016</div>
+									<div class="likes">
+										<img src="https://static.cdnroute.io/land/vendor/images/socials/icon__likes.png" width="16" height="16" class="icon__item icon__item--likes" />3</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<section id="register" class="section signup">
+			<div class="wrap">
+				<div class="section__title">
+					<h2 class="title"><span class="hide-for-reg">Начните <span class='hlt'>торговать бинарными опционами</span> прямо&nbsp;сейчас</span><span class="show-for-reg">Начните <span class='hlt'>торговать FX&nbsp;опционами</span> прямо&nbsp;сейчас</span></h2>
+				</div>
+				<div class="section__content">
+					<div class="register">
+						<div class="forbidden_block">
+							<div>
+								<div class="registration_forbidden">
+									<svg height="72" viewBox="0 0 72 72" width="72" xmlns="http://www.w3.org/2000/svg">
+										<path d="m657.420206 316.065739c5.902944 5.540656 13.84506 8.934261 22.579794 8.934261 18.225397 0 33-14.774603 33-33 0-8.610105-3.297454-16.450048-8.698409-22.325878zm-2.09247-2.149927 46.845883-46.356486c-5.858676-5.318428-13.637671-8.559326-22.173619-8.559326-18.225397 0-33 14.774603-33 33 0 8.411336 3.146964 16.087659 8.327736 21.915812zm24.672264 14.084188c-19.882251 0-36-16.117749-36-36s16.117749-36 36-36 36 16.117749 36 36-16.117749 36-36 36z"
+										fill="#ff5a3e" transform="translate(-644 -256)" />
+									</svg><span class="registration_forbidden__title">Уважаемый пользователь! На данный момент IQ Option не предоставляет услуги в вашей стране.</span><span class="registration_forbidden__subtitle">Если вы считаете, что видите это сообщение по ошибке, обратитесь в службу поддержки по адресу <a href="mailto:support@iqoption.com">support@iqoption.com</a></span>
+								</div>
+							</div>
+						</div>
+						<!-- Registration-->
+						<form id="regFrm-2" autocomplete="off" data-validate data-invalid-class="invalid" data-invalid-class-target="closest/.inputs__item" data-valid-class-target="closest/.inputs__item" data-invalid-msg-target="siblings/.js-vld-msg" data-empty-msg-target="siblings/.js-vld-msg"
+						data-invalid-length-msg-target="siblings/.js-vld-msg" data-empty-value-msg="Пустое поле" data-invalid-value-msg="Неверный формат" data-invalid-length-msg="Слишком короткий пароль" data-invalid-country-id="Не определена страна. Возможно, проблемы в работе VPN."
+						class="registration register__form">
+							<div class="register__title">
+								<div class="register__title--register">Быстрая регистрация:</div>
+								<!--.register__title--social| Войти через соц. сети:
+-->
+							</div>
+							<div class="inputs">
+								<div class="inputs__item inputs__item--firstname">
+									<label class="inputs__label">Имя</label>
+									<input placeholder="Ваше имя" type="text" name="first_name" value="" data-input-pattern="[^0-9]" class="inputs__field inputs__field--firstname">
+									<div class="js-vld-msg"></div>
+									<div class="js-vld-circle"></div>
+								</div>
+								<div class="inputs__item inputs__item--lastname">
+									<label class="inputs__label">Фамилия</label>
+									<input placeholder="Ваша фамилия" type="text" name="last_name" value="" data-input-pattern="[^0-9]" class="inputs__field inputs__field--lastname">
+									<div class="js-vld-msg"></div>
+									<div class="js-vld-circle"></div>
+								</div>
+								<div class="inputs__item inputs__item--email">
+									<label class="inputs__label">Электронная почта</label>
+									<input type="email" name="email" required placeholder="Электронная почта" class="inputs__field inputs__field--email">
+									<div class="js-vld-msg"></div>
+									<div class="js-vld-circle"></div>
+								</div>
+								<div class="inputs__item inputs__item--pass">
+									<label class="inputs__label">Пароль</label>
+									<input type="password" name="password" required placeholder="Пароль" minlength="6" class="inputs__field inputs__field--pass">
+									<div class="js-vld-msg"></div>
+									<div class="js-vld-circle"></div>
+									<div class="js-vld-strength-bar"></div>
+								</div>
+								<!-- 19.12.2018 remove is_demo as this param is not required for api/register https://wiki.mobbtech.com/pages/viewpage.action?pageId=27656217-->
+								<!--input#isDemo.isDemo(type='checkbox', name='is_demo', value='1', style='display:none;', checked='checked')-->
+							</div>
+							<!--include ../../../../vendor/blocks/social-auth-->
+							<div class="inputs__item--agree">
+								<input type="checkbox" name="agree2" value="0" id="agree2" class="agreement">
+								<label for="agree2"><span class="show-for-reg">Я соглашаюсь с <a href='/lp/regulation/terms-reg/' target='_blank'>Условиями и Положениями </a> и <a href='/lp/regulation/privacy-reg/' target='_blank'>Политикой Конфиденциальности</a></span><span class="hide-for-reg">Я соглашаюсь с <a href='/lp/regulation/terms-nonreg/' target='_blank'>Условиями и Положениями </a> и <a href='/lp/regulation/privacy-nonreg/' target='_blank'>Политикой Конфиденциальности</a></span>
+								</label>
+							</div>
+							<div class="submits">
+								<button type="submit" data-name="real" class="btn btn__full btn__full--green">Попробуйте сейчас!</button>
+								<div class="js-vld-msg"></div>
+							</div>
+						</form>
+						<!-- Bonus-->
+						<div class="to-platform">
+							<div class="to-platform__title">Вы уже авторизовались на платформе. Чтобы начать торговать, нажмите на кнопку внизу:</div><a href="/traderoom" data-test-id="auth-traderoom-button" target="_blank" dir="ltr" id="to-platform__btn" class="js-add-domain to-platform__btn btn btn__full btn__full--green">Начать торговать</a>
+						</div>
+					</div>
+					<div class="apps">
+						<div class="apps__item apps__item--appStore">
+							<img src="https://static.cdnroute.io/land/vendor/images/app/apple/btn__apple--ru.png?1629900315373" class="apps__btn apps__btn--appStore">
+							<!--img.apps__btn.apps__btn--appStore(src="../assets/images/app/apple/btn__apple--ru.png?" + timestamp width='290' height='94')-->
+						</div>
+						<div class="apps__item apps__item--googlePlay">
+							<img src="https://static.cdnroute.io/land/vendor/images/app/google/btn__google--ru.png?1629900315373" width="280" height="109" class="apps__btn apps__btn--googlePlay">
+							<!--img.apps__btn.apps__btn--googlePlay(src="../assets/images/app/google/btn__google--ru.png?" + timestamp)-->
+							<a href="https://app.appsflyer.com/com.iqoption-RAW_CHINA?pid=iqoption_int&amp;af_r=https://files.iqoption.com/storage/public/59/a6/943d87244.apk&amp;clickid={subid}" class="apps__btn--google-cn apps__btn--apk graphic">
+								<svg width="37" height="44" viewBox="0 0 22 24">
+									<path d="M2.332 7.774a1.43 1.43 0 0 0-1.053.433C.99 8.495.847 8.84.847 9.245v6.202a1.43 1.43 0 0 0 .433 1.053 1.43 1.43 0 0 0 1.053.433 1.41 1.41 0 0 0 1.046-.433c.283-.288.425-.64.425-1.053V9.245c0-.404-.144-.75-.433-1.038s-.635-.433-1.04-.433h0zm11.942-5.567L15.3.317c.067-.125.043-.22-.072-.288-.125-.058-.22-.03-.288.087L13.9 2.02c-.914-.404-1.88-.606-2.9-.606a7.09 7.09 0 0 0-2.899.606L7.063.116C6.996.001 6.9-.028 6.775.03c-.116.068-.14.163-.072.288l1.024 1.89c-1.038.53-1.865 1.267-2.48 2.214a5.59 5.59 0 0 0-.923 3.108h13.34c0-1.125-.308-2.16-.923-3.108a6.35 6.35 0 0 0-2.466-2.214h0zm-5.92 2.748a.54.54 0 0 1-.397.166c-.154 0-.284-.055-.39-.166a.55.55 0 0 1-.159-.396c0-.154.053-.286.16-.397a.52.52 0 0 1 .389-.166.54.54 0 0 1 .397.166.54.54 0 0 1 .166.397.54.54 0 0 1-.166.396zm6.08 0c-.106.11-.236.166-.39.166a.54.54 0 0 1-.397-.166.54.54 0 0 1-.166-.396.54.54 0 0 1 .166-.397.54.54 0 0 1 .397-.166c.154 0 .283.055.39.166s.16.243.16.397a.55.55 0 0 1-.159.396zM4.38 17.654a1.53 1.53 0 0 0 .461 1.125 1.53 1.53 0 0 0 1.125.461h1.067l.015 3.274c0 .414.144.765.433 1.053S8.116 24 8.52 24c.413 0 .764-.144 1.053-.433s.433-.64.433-1.053V19.24h2v3.274c0 .414.144.765.433 1.053a1.43 1.43 0 0 0 1.053.433c.413 0 .764-.144 1.053-.433s.433-.64.433-1.053V19.24h1.082c.433 0 .803-.154 1.11-.46a1.53 1.53 0 0 0 .461-1.125V8.048H4.38v9.606zm15.29-9.88a1.43 1.43 0 0 0-1.038.425 1.41 1.41 0 0 0-.433 1.046v6.202a1.43 1.43 0 0 0 .433 1.053c.288.288.635.433 1.038.433.413 0 .764-.144 1.053-.433a1.43 1.43 0 0 0 .433-1.053V9.245a1.41 1.41 0 0 0-.433-1.046c-.288-.283-.64-.425-1.053-.425h0z"
+									fill="#a4c53b" fill-rule="nonzero"></path><span>Android APK</span>
+								</svg>
+							</a>
+						</div>
+					</div>
+					<div class="forbidden_block_apps">
+						<div class="registration_forbidden">
+							<svg height="72" viewBox="0 0 72 72" width="72" xmlns="http://www.w3.org/2000/svg">
+								<path d="m657.420206 316.065739c5.902944 5.540656 13.84506 8.934261 22.579794 8.934261 18.225397 0 33-14.774603 33-33 0-8.610105-3.297454-16.450048-8.698409-22.325878zm-2.09247-2.149927 46.845883-46.356486c-5.858676-5.318428-13.637671-8.559326-22.173619-8.559326-18.225397 0-33 14.774603-33 33 0 8.411336 3.146964 16.087659 8.327736 21.915812zm24.672264 14.084188c-19.882251 0-36-16.117749-36-36s16.117749-36 36-36 36 16.117749 36 36-16.117749 36-36 36z"
+								fill="#ff5a3e" transform="translate(-644 -256)" />
+							</svg><span class="registration_forbidden__title">Уважаемый пользователь! На данный момент IQ Option не предоставляет услуги в вашей стране.</span><span class="registration_forbidden__subtitle">Если вы считаете, что видите это сообщение по ошибке, обратитесь в службу поддержки по адресу <a href="mailto:support@iqoption.com">support@iqoption.com</a></span>
+						</div>
+					</div>
+					<div class="devices">
+						<img src="https://static.cdnroute.io/land/start-trading/assets/images/mockup__iphone.png?1629900315373" class="devices__img devices__img--ios">
+						<img src="https://static.cdnroute.io/land/start-trading/assets/images/mockup__samsung.png?1629900315373" class="devices__img devices__img--android">
+					</div>
+				</div>
+			</div>
+		</section>
+		<section class="footer">
+			<div class="wrap wrap--top">
+				<div dir="ltr" class="nav__block nav__block--1">
+					<div class="title">О компании</div>
+					<div class="nav__list">
+						<div class="nav__item"><a href="/numbers" class="nav__link js-add-domain">IQ Option в цифрах</a>
+						</div>
+						<div class="nav__item"><a href="/press" class="nav__link js-add-domain">Пресса о нас</a>
+						</div>
+						<div class="nav__item"><a href="/awards" class="nav__link js-add-domain">Награды</a>
+						</div>
+						<div class="nav__item"><a href="/blog" class="nav__link js-add-domain">Наш блог</a>
+						</div>
+						<div class="nav__item"><a href="/affiliate" class="nav__link js-add-domain">Партнерская программа</a>
+						</div>
+						<div class="nav__item"><a href="/contacts" class="nav__link js-add-domain">Контакты</a>
+						</div>
+					</div>
+				</div>
+				<div dir="ltr" class="nav__block nav__block--2">
+					<div class="title">Трейдерам</div>
+					<div class="nav__list">
+						<div class="nav__item"><a href="/assets" class="nav__link js-add-domain">Активы</a>
+						</div>
+						<div class="nav__item"><a href="/tutorials" class="nav__link js-add-domain">Видеообучение</a>
+						</div>
+						<div class="nav__item"><a href="/tournaments" class="nav__link js-add-domain">Турниры</a>
+						</div>
+						<div class="nav__item"><a href="/faq" class="nav__link js-add-domain">FAQ</a>
+						</div>
+						<div class="nav__item"><a href="/download" class="nav__link js-add-domain">Скачать</a>
+						</div>
+						<div hidden class="nav__item"><a href="/articles" class="nav__link js-add-domain">Статьи</a>
+						</div>
+						<div class="nav__item"><a href="/sitemap" class="nav__link js-add-domain">Карта сайта</a>
+						</div>
+					</div>
+				</div>
+				<div class="footer__risks">
+					<div class="risks">
+						<div class="risks__warning">
+							<div class="title">Общее Предупреждение о&nbsp;рисках<span class='warning__colon'>:</span>
+							</div>
+							<div id="footer__warning__text" class="warning__text">Финансовые услуги, предоставляемые этим сайтом несут высокий уровень риска и могут привести к потере всех ваших средств. Не инвестируйте деньги, которые вы не можете позволить себе потерять</div>
+						</div>
+					</div>
+				</div>
+				<div class="footer__social">
+					<div class="logotype">
+						<a href="/" class="logotype__link">
+							<svg width="175" height="38" class="logotype__img">
+								<use xlink:href="../assets/images/icon.svg#icon_logo__white"></use>
+							</svg>
+						</a>
+					</div>
+				</div>
+			</div>
+			<div class="footer__copyrights">
+				<div class="wrap wrap--bottom">
+					<div class="copyrights">© IQ Option, 2013 — 2021. Все права защищены.</div>
+					<div class="regulation">
+						<div class="regulation__item"><a href="/lp/regulation/privacy-reg/" target="_blank" class="regulation__link show-for-reg">Политика конфиденциальности</a><a href="/lp/regulation/privacy-nonreg/" target="_blank" class="regulation__link hide-for-reg">Политика конфиденциальности</a>
+						</div>
+						<div class="regulation__item"><a href="/lp/regulation/terms-reg/" target="_blank" class="regulation__link show-for-reg">Положения и условия</a><a href="/lp/regulation/terms-nonreg/" target="_blank" class="regulation__link hide-for-reg">Положения и условия</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<div class="risk-warning__section">
+			<div class="risk-warning__container">
+				<div class="risk-warning__block">
+					<div class="risk-warning__title">Общее Предупреждение о&nbsp;рисках</div>
+					<div dir="ltr" class="risk-warning__text"><span class="warning-full">Финансовые услуги, предоставляемые этим сайтом несут высокий уровень риска и могут привести к потере всех ваших средств. Не инвестируйте деньги, которые вы не можете позволить себе потерять</span><span class="warning-small">Торговля несет высокий уровень риска и может привести к полной потере ваших средств.</span>
+					</div>
+				</div>
+				<div class="risk-warning__cta">
+					<div class="cta"><a href="#register" class="cta__btn btn btn__full btn__full--green btn__desktop">Регистрация</a><span class="cta__btn btn btn__full btn__full--green btn__mobile apps__btn--appStore">Установить</span><span class="cta__btn btn btn__full btn__full--green btn__mobile apps__btn--googlePlay">Установить</span>
+						<a
+						href="https://app.appsflyer.com/com.iqoption-RAW_CHINA?pid=iqoption_int&amp;af_r=https://files.iqoption.com/storage/public/59/a6/943d87244.apk&amp;clickid={subid}" class="apps__btn--google-cn cta__btn btn btn__full btn__full--green btn__mobile">Установить</a>
+					</div>
+				</div>
+			</div>
+		</div>
+		<script src="https://static.cdnroute.io/land/start-trading/assets/scripts/set_country.js?1629900315373"></script>
+		<script src="https://static.cdnroute.io/land/start-trading/assets/scripts/common.min.js?1629900315373"></script>
+		<input type="hidden" id="refreshed" value="no">
+		<section id="counters"></section>
+	</body>
+
+</html>

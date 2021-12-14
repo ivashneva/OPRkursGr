@@ -1,0 +1,3641 @@
+
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=3.0, user-scalable=yes" />
+<title>CLARINS&reg; | косметика из Франции, официальный интернет-магазин французского бренда - Clarins</title>
+
+<link rel="shortcut icon" href="https://www.clarins.ru/on/demandware.static/Sites-clarinsru-Site/-/default/dwc5e58768/images/favicon.ico" type="image/x-icon" />
+<link rel="icon" type="image/png" href="/on/demandware.static/Sites-clarinsru-Site/-/default/dw113ea6dd/images/android-chrome-192x192.png" sizes="192x192">
+<link rel="apple-touch-icon" sizes="180x180" href="/on/demandware.static/Sites-clarinsru-Site/-/default/dwd16d1c28/images/apple-touch-icon-180x180.png">
+<link rel="apple-touch-icon-precomposed" href="/on/demandware.static/Sites-clarinsru-Site/-/default/dw2f96ef36/images/apple-touch-icon-precomposed.png">
+<link rel="manifest" href="/on/demandware.static/Sites-clarinsru-Site/-/default/dw17e968d0/images/manifest.json">
+<link rel="mask-icon" href="/on/demandware.static/Sites-clarinsru-Site/-/default/dw50856caa/images/safari-pinned-tab.svg" color="#be0f34">
+<meta name="application-name" content="Clarins" />
+<meta name="theme-color" content="#FFFFFF" />
+<meta name="msapplication-config" content="/on/demandware.static/Sites-clarinsru-Site/-/default/dw476389c8/images/browserconfig.xml" />
+<meta name="msapplication-TileColor" content="#be0f34" />
+<meta name="msapplication-TileImage" content="/on/demandware.static/Sites-clarinsru-Site/-/default/dw2d0e8b66/images/mstile-144x144.png" />
+<meta name="msapplication-square70x70logo" content="/on/demandware.static/Sites-clarinsru-Site/-/default/dw1a84c279/images/mstile-70x70.png" />
+<meta name="msapplication-square150x150logo" content="/on/demandware.static/Sites-clarinsru-Site/-/default/dwa5a98220/images/mstile-150x150.png" />
+<meta name="msapplication-wide310x150logo" content="/on/demandware.static/Sites-clarinsru-Site/-/default/dwfa030eca/images/mstile-310x150.png" />
+<meta name="msapplication-square310x310logo" content="/on/demandware.static/Sites-clarinsru-Site/-/default/dw1eebe5ec/images/mstile-310x310.png" />
+<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests" />
+<meta name="description" content="Средства для ухода за кожей и макияжа Clarins помогут сохранить и подчеркнуть её красоту и молодость. Создайте персональную программу ухода, подобрав необходимые средства в каталоге официального интернет-магазина Clarins.ru. Средства для ухода за кожей и макияжа Clarins помогут сохранить и..." />
+<meta name="keywords" content=" Clarins Russia,Откройте для себя средства ухода для лица и тела, солнечную линию и средства макияжа от Clarins." />
+
+<meta property="og:image" content="https://www.clarins.ru/on/demandware.static/-/Library-Sites-clarins-v3/default/images/clarins-logo.jpg" />
+<link rel="canonical" href="https://www.clarins.ru/" />
+<link rel="preload" href="/on/demandware.static/Sites-clarinsru-Site/-/ru_RU/v1639290511449/js/app.js" as="script" />
+<script>
+window.DW_PUBLIC_JS_STATIC_PATH = '/on/demandware.static/Sites-clarinsru-Site/-/ru_RU/v1639290511449/js/';
+</script>
+<link href="/on/demandware.static/Sites-clarinsru-Site/-/ru_RU/v1639290511449/css/lib.css" type="text/css" rel="stylesheet" />
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet" />
+<script id="fonts-resolver" src="/on/demandware.static/Sites-clarinsru-Site/-/ru_RU/v1639290511449/js/fonts-resolver.js" data-web-fonts-url="//cloud.typography.com/7111474/7870552/css/fonts.css" data-mobile-fonts-file="/on/demandware.static/-/Library-Sites-clarins-v3/ru_RU/v1639290511449/css/mobile/fonts.css" data-desktop-fonts-file="/on/demandware.static/-/Library-Sites-clarins-v3/ru_RU/v1639290511449/css/desktop/fonts.css">
+</script>
+<link rel="preload" as="font" type="font/woff2" href="/on/demandware.static/Sites-clarinsru-Site/-/ru_RU/v1639290511449/fonts/ClarinsRegular.woff2" crossorigin />
+<link rel="stylesheet" href="/on/demandware.static/Sites-clarinsru-Site/-/ru_RU/v1639290511449/css/header.css" />
+<link rel="stylesheet" href="/on/demandware.static/Sites-clarinsru-Site/-/ru_RU/v1639290511449/css/footer.css" />
+<link rel="stylesheet" href="/on/demandware.static/Sites-clarinsru-Site/-/ru_RU/v1639290511449/css/main.css" />
+<link rel="stylesheet" href="/on/demandware.static/Sites-clarinsru-Site/-/ru_RU/v1639290511449/css/homepage.css" />
+<script src="/on/demandware.static/Sites-clarinsru-Site/-/ru_RU/v1639290511449/js/webcomponents/webcomponents-loader.js" defer></script>
+<link rel="preload" href="/on/demandware.static/Sites-clarinsru-Site/-/ru_RU/v1639290511449/css/define_core_components.css" as="style" />
+<link rel="stylesheet" href="/on/demandware.static/Sites-clarinsru-Site/-/ru_RU/v1639290511449/css/define_core_components.css">
+<script>
+    if (!('fetch' in window) || navigator.userAgent.toLowerCase().indexOf('edge') > -1) {
+        var scriptElement = document.createElement('script');
+        scriptElement.src = '/on/demandware.static/Sites-clarinsru-Site/-/ru_RU/v1639290511449/js/polyfills.js';
+        document.head.appendChild(scriptElement);
+    }
+</script>
+<script type="text/javascript">//<!--
+/* <![CDATA[ (head-active_data.js) */
+var dw = (window.dw || {});
+dw.ac = {
+    _analytics: null,
+    _events: [],
+    _category: "",
+    _searchData: "",
+    _anact: "",
+    _anact_nohit_tag: "",
+    _analytics_enabled: "true",
+    _timeZone: "Europe/Moscow",
+    _capture: function(configs) {
+        if (Object.prototype.toString.call(configs) === "[object Array]") {
+            configs.forEach(captureObject);
+            return;
+        }
+        dw.ac._events.push(configs);
+    },
+	capture: function() { 
+		dw.ac._capture(arguments);
+		// send to CQ as well:
+		if (window.CQuotient) {
+			window.CQuotient.trackEventsFromAC(arguments);
+		}
+	},
+    EV_PRD_SEARCHHIT: "searchhit",
+    EV_PRD_DETAIL: "detail",
+    EV_PRD_RECOMMENDATION: "recommendation",
+    EV_PRD_SETPRODUCT: "setproduct",
+    applyContext: function(context) {
+        if (typeof context === "object" && context.hasOwnProperty("category")) {
+        	dw.ac._category = context.category;
+        }
+        if (typeof context === "object" && context.hasOwnProperty("searchData")) {
+        	dw.ac._searchData = context.searchData;
+        }
+    },
+    setDWAnalytics: function(analytics) {
+        dw.ac._analytics = analytics;
+    }
+};
+/* ]]> */
+// -->
+</script>
+<script type="text/javascript">//<!--
+/* <![CDATA[ (head-cquotient.js) */
+var CQuotient = window.CQuotient = {};
+CQuotient.clientId = 'aafs-clarinsru';
+CQuotient.realm = 'AAFS';
+CQuotient.siteId = 'clarinsru';
+CQuotient.instanceType = 'prd';
+CQuotient.locale = 'ru_RU';
+CQuotient.fbPixelId = '__UNKNOWN__';
+CQuotient.activities = [];
+CQuotient.cqcid='';
+CQuotient.cquid='';
+CQuotient.cqeid='';
+CQuotient.cqlid='';
+/* Turn this on to test against Staging Einstein */
+/* CQuotient.useTest= true; */
+CQuotient.initFromCookies = function () {
+	var ca = document.cookie.split(';');
+	for(var i=0;i < ca.length;i++) {
+	  var c = ca[i];
+	  while (c.charAt(0)==' ') c = c.substring(1,c.length);
+	  if (c.indexOf('cqcid=') == 0) {
+		CQuotient.cqcid=c.substring('cqcid='.length,c.length);
+	  } else if (c.indexOf('cquid=') == 0) {
+		  var value = c.substring('cquid='.length,c.length);
+		  if (value) {
+		  	var split_value = value.split("|", 3);
+		  	if (split_value.length > 0) {
+			  CQuotient.cquid=split_value[0];
+		  	}
+		  	if (split_value.length > 1) {
+			  CQuotient.cqeid=split_value[1];
+		  	}
+		  	if (split_value.length > 2) {
+			  CQuotient.cqlid=split_value[2];
+		  	}
+		  }
+	  }
+	}
+}
+CQuotient.getCQCookieId = function () {
+	if(window.CQuotient.cqcid == '')
+		window.CQuotient.initFromCookies();
+	return window.CQuotient.cqcid;
+};
+CQuotient.getCQUserId = function () {
+	if(window.CQuotient.cquid == '')
+		window.CQuotient.initFromCookies();
+	return window.CQuotient.cquid;
+};
+CQuotient.getCQHashedEmail = function () {
+	if(window.CQuotient.cqeid == '')
+		window.CQuotient.initFromCookies();
+	return window.CQuotient.cqeid;
+};
+CQuotient.getCQHashedLogin = function () {
+	if(window.CQuotient.cqlid == '')
+		window.CQuotient.initFromCookies();
+	return window.CQuotient.cqlid;
+};
+CQuotient.trackEventsFromAC = function (/* Object or Array */ events) {
+try {
+	if (Object.prototype.toString.call(events) === "[object Array]") {
+		events.forEach(_trackASingleCQEvent);
+	} else {
+		CQuotient._trackASingleCQEvent(events);
+	}
+} catch(err) {}
+};
+CQuotient._trackASingleCQEvent = function ( /* Object */ event) {
+	if (event && event.id) {
+		if (event.type === dw.ac.EV_PRD_DETAIL) {
+			CQuotient.trackViewProduct( {id:'', alt_id: event.id, type: 'raw_sku'} );
+		} // not handling the other dw.ac.* events currently
+	}
+};
+CQuotient.trackViewProduct = function(/* Object */ cqParamData){
+	var cq_params = {};
+	cq_params.cookieId = CQuotient.getCQCookieId();
+	cq_params.userId = CQuotient.getCQUserId();
+	cq_params.emailId = CQuotient.getCQHashedEmail();
+	cq_params.loginId = CQuotient.getCQHashedLogin();
+	cq_params.product = cqParamData.product;
+	cq_params.realm = cqParamData.realm;
+	cq_params.siteId = cqParamData.siteId;
+	cq_params.instanceType = cqParamData.instanceType;
+	cq_params.locale = CQuotient.locale;
+	
+	if(CQuotient.sendActivity) {
+		CQuotient.sendActivity(CQuotient.clientId, 'viewProduct', cq_params);
+	} else {
+		CQuotient.activities.push({activityType: 'viewProduct', parameters: cq_params});
+	}
+};
+/* ]]> */
+// -->
+</script>
+<meta name="yandex-verification" content="2a843521614eb21f" />
+<meta name="yandex-verification" content="302ccaf3341ddf2b" />
+<meta name="facebook-domain-verification" content="yhika33nqshpnl2awnj401dw1qihz0" />
+<script type="text/javascript" src="//try.abtasty.com/cfb2a75a6e263b9403c34afa4c0ba181.js"></script>
+<link rel="stylesheet" href="https://widget.beesender.com/3.0/widget.css">
+<div id="beesender-chat"></div>
+<link href="https://www.clarins.ru/on/demandware.static/-/Library-Sites-clarins-v3/ru_RU/v1639290511449/css/custom-homepage.css" type="text/css" rel="stylesheet" />
+<link rel="stylesheet" type="text/css" href="https://www.clarins.ru/on/demandware.static/-/Library-Sites-clarins-v3/ru_RU/v1639290511449/css/style_newaspot_abtest_bis.css">
+<link href="https://www.clarins.ru/on/demandware.static/-/Library-Sites-clarins-v3/ru_RU/v1639290511449/css/custom-clarinsusa.css" type="text/css" rel="stylesheet" />
+<link href="https://www.clarins.ru/on/demandware.static/-/Library-Sites-clarins-v3/ru_RU/v1639290511449/css/clarins_technical_support.css" type="text/css" rel="stylesheet" />
+<link href="https://www.clarins.ru/on/demandware.static/-/Library-Sites-clarins-v3/ru_RU/v1639290511449/css/customRU.css" type="text/css" rel="stylesheet" />
+
+<script type="application/ld+json">
+	{
+		"@context": "https://schema.org",
+		"@type": "WebSite",
+		"url": "https://www.clarins.ru/",
+		"potentialAction": {
+			"@type": "SearchAction",
+			"target": "https://www.clarins.ru/search?q={search_term_string}",
+			"query-input": "required name=search_term_string"
+		}
+	}
+	</script>
+<script id="dltag" type="text/javascript">
+	//<!--
+		window.universal_variable = window.universal_variable ? window.universal_variable : {};
+		window.universal_variable.version="1.1.1";
+		
+			
+				
+					window.universal_variable.page={"country":"RU","category":"Shop Homepage","template":"homepage","layout":"web","language":"ru\u005fRU","currency":"RUB"};
+				
+			
+				
+					window.universal_variable.user=
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"name":"","user_id":"ac45ciemNKGLNV7aGjqCHX96u2","email":"","returning":false,"types":["Allow\u005fpayment\u005fmethods","Everyone","Everyone\u005fexcept","Everyone\u005fexcept\u005fChinse","Everyone\u005fexcept\u005fEMPLOYEES","Unregistered","no\u005fpurchases"],"has_transacted":false,"user_state":"guest","do_not_track":"disabled","gender":"","optedin":"","category":"Unregistered\u002cEveryone","insc_date":"","ati_without_sf":"","ati_with_sf":"","tf_without_sf":"","tf_with_sf":"","tax":"","company_name":"","first_name":"","last_name":"","date_birth":"","loyalty_points":"","line_items":[],"user_logged":"no","logged_with":"","country":""}
+
+;
+				
+			
+				
+					window.universal_variable.basket=
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"id":0,"currency":"RUB","subtotal":0,"subtotal_include_tax":true,"tax":0,"shipping_cost":0,"total":0,"line_items":[],"promo_code":"","promo_discount":0,"attributes":{"delivery":{"name":"","address":"","city":"","state":"","postcode":"","country":"","confirmation_email":""},"billing":{"name":"","address":"","city":"","state":"","postcode":"","country":""}},"shipping_tax":0,"shipping_cost_total":0,"total_net":0,"merchandize_total":0,"merchandize_total_adjusted":0,"merchandize_net":0,"merchandize_net_adjusted":0,"sampleproduct":[],"giftproduct":[],"coupon_items":[],"giftcertificates":[]}
+
+
+				
+			
+		
+	//-->
+</script>
+<script type="text/javascript" src="https://www.clarins.ru/on/demandware.static/Sites-clarinsru-Site/-/ru_RU/v1639290511449/js/tagcommander.js"></script>
+<script type="text/javascript" src="//cdn.tagcommander.com/835/tc_clr_head_18.js"></script>
+<script>
+	window.TagCommanderPageID = "homepage";
+</script>
+</head>
+<body class="ru_RU">
+<script type="text/javascript" src="//cdn.tagcommander.com/835/tc_clr_body_RUS_8.js"></script>
+<script>
+	window.TagCommanderPageID = "homepage";
+</script>
+<script>
+        
+
+
+
+if ('serviceWorker' in navigator) {
+if (true) {
+window.addEventListener('load', function() {
+navigator.serviceWorker.register('/service-worker.js', {scope: '/'}).then(function(success) {
+if (false) {
+console.log('Successfully registered service worker', success);
+}
+}).catch(function(error) {
+if (false) {
+console.log('Error while registering service worker', error.message);
+}
+});
+});
+} else {
+navigator.serviceWorker.getRegistrations().then(function(registrations) {
+registrations.forEach(function(registration) {
+if (registration.active && registration.active.scriptURL.match(/service-worker.js/)) {
+registration.unregister();
+}
+});
+});
+}
+}
+
+    </script>
+<script>
+	window.SERVICES = {
+		
+			'SPCO_BILLING': 'https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/SPCO-Billing',
+		
+			'LOGIN_SUBMIT': 'https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/CoCustomer-Submit',
+		
+			'PASSWORD_RESET_DIALOG': 'https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/CustomerAccount-PasswordResetDialog',
+		
+			'PASSWORD_RESET_SUBMIT': 'https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/CustomerAccount-PasswordResetSubmit',
+		
+			'GET_CUSTOMER_ADDRESS_LIST': 'https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/CustomerAddress-GetCustomerAddressList',
+		
+			'GET_CUSTOMER_BILLING_ADDRESS_LIST': 'https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/CustomerAddress-GetCustomerAddressList',
+		
+			'GET_CHECKOUT_ADDRESS_LIST_COMPONENT': 'https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/CustomerAddress-GetCheckoutAddressList',
+		
+			'GET_CHECKOUT_BILLING_ADDRESS_LIST_COMPONENT': 'https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/CustomerAddress-GetCheckoutBillingAddressList',
+		
+			'DELETE_ADDRESS': 'https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/CustomerAddress-DeleteAddress',
+		
+			'EDIT_ADDRESS': 'https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/CustomerAddress-EditAddress',
+		
+			'CREATE_ADDRESS': 'https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/CustomerAddress-CreateAddress',
+		
+			'GET_BILLING_ADDRESS_GROUP': 'https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/COShipping-GetBillingAddressGroup',
+		
+			'GET_SHIPPING_ADDRESS_FORM_GROUP': 'https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/COShipping-GetShippingAddressGroup',
+		
+			'UPDATE_BASKET_PAYMENT': 'https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/COBilling-UpdateBasketPayment',
+		
+			'GET_ACCOUNT_GROUP': 'https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/COShipping-GetAccountGroup',
+		
+			'GET_GIFT_WRAP_GROUP': 'https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/COShipping-GetGiftWrapGroup',
+		
+			'GET_APPLICABLE_SHIPPING_METHODS': 'https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/COShipping-GetApplicableShippingMethods',
+		
+			'SELECT_SHIPPING_METHOD': 'https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/COShipping-SelectShippingMethod',
+		
+			'SHIPPING_SUBMIT': 'https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/COShipping-Submit',
+		
+			'PAYMENT_START': 'https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/COBilling-Start',
+		
+			'GET_APPLICABLE_PAYMNET_METHODS': 'https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/COBilling-GetApplicablePaymentMethods',
+		
+			'SELECT_PAYMENT_METHOD': 'https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/COBilling-SelectPaymentMethod',
+		
+			'GIFT_CARD_APPLY': 'https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/GiftCard-Apply',
+		
+			'GIFT_CARD_BALANCE': 'https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/GiftCard-Balance',
+		
+			'GIRD_CARD_REMOVE': 'https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/GiftCard-Remove',
+		
+			'GIFT_CARD_LIST': 'https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/GiftCard-List',
+		
+			'GIFT_CARD_INFO': 'https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/GiftCard-Info',
+		
+			'PAYMENT_SUBMIT': 'https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/COBilling-Submit',
+		
+			'UPDATE_SUMMARY': 'https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/CheckoutServices-UpdateSummary',
+		
+			'DONATION_ADD': 'https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/CheckoutServices-DonationAdd',
+		
+			'DONATION_REMOVE': 'https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/CheckoutServices-DonationRemove',
+		
+			'GIFT_WITH_PURCHASE_DIALOG': 'https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/Checkout-GetBonusProducts',
+		
+			'GIFTWRAP_ADD': 'https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/CheckoutServices-GiftWrapAdd',
+		
+			'GIFTWRAP_REMOVE': 'https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/CheckoutServices-GiftWrapRemove',
+		
+			'GET_TOTAL_SUM_SUMMARY_BUTTON': 'https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/CheckoutServices-GetPayNowButtonLabel',
+		
+			'TAGGING_POST_FORM_LOAD': 'https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/TagcommanderAjax-PostFormLoad',
+		
+			'CREATE_ACCOUNT': 'https://www.clarins.ru/akkaunt',
+		
+			'CREATE_ACCOUNT_REGISTRATION': 'https://www.clarins.ru/sozdat-akkaunt',
+		
+			'GET_AMBASSADOR': 'https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/COLoyalty-GetLoyaltyAmbassador',
+		
+			'GET_DELIVERY_SUMMARY': 'https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/COBilling-GetDeliverySummary',
+		
+			'CREDITCARD_SELECT': 'https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/CreditCardAjax-Select',
+		
+			'CREDITCARD_DESELECT': 'https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/CreditCardAjax-Deselect',
+		
+			'GET_SHIPPING_FORM_JSON': 'https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/COShipping-GetShippingFormJson',
+		
+			'GET_BILLING_FORM_JSON': 'https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/COBilling-GetBillingFormJson',
+		
+			'RESET_SHIPPING_SUBMIT': 'https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/COShipping-ResetSubmit',
+		
+			'CART_PAGE': 'https://www.clarins.ru/cart',
+		
+			'ESTIMATED_DELIVERY_DATE': 'https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/NarvarShipping-EstimatedDeliveryDate',
+		
+			'UPS_SHOW_MAP': 'https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/CheckoutUPS-ShowMap',
+		
+			'OXXO_DIALOG_CONTENT': 'https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/OxxoAjax-PrepareOxxoDialogContent',
+		
+			'GET_CUSTOMER_ADDRESS_FORM': 'https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/CustomerAddress-GetCustomerAddressForm',
+		
+			'HOME_PAGE': 'https://www.clarins.ru/',
+		
+			'SESSION_EXPIRY_REDIRECT': 'https://www.clarins.ru/',
+		
+			'ACCOUNTAJAX_IS_SESSION_EXPIRED': 'https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/AccountAjax-IsSessionExpired',
+		
+			'SEARCH_FILTER_INFO': 'https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/Search-GetAppliedFilterDetails',
+		
+			'SEARCH_FILTER_MENU': 'https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/Search-GetFilterMenu',
+		
+			'SEARCH_PRODUCT_LIST': 'https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/Search-GetProductListing',
+		
+			'SEARCH_PRODUCT_TILES': 'https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/Search-GetProductTiles',
+		
+			'SEARCH_LOAD_MORE': 'https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/Search-GetLoadMore',
+		
+			'CUSTOMER_LOGOUT': 'https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/Login-Logout',
+		
+			'GET_LOGIN_COMPONENT': 'https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/CartAjax-GetLoginComponent',
+		
+			'LEGAL_REQUIREMENT_DOB_SUBMIT': 'https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/LegalRequirementDobAjax-LegalRequirementDobSubmit',
+		
+			'QUICKVIEW_OVERLAY': 'https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/QuickViewAjax-Overlay',
+		
+			'CATEGORY_SEO': 'https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/Search-GetCategoryText',
+		
+			'DPD_SHOW': 'https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/DPD-Show',
+		
+			'UPSAPI_SHOW': 'https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/UpsApi-Show',
+		
+			'SITE_FOOTER_LOAD': 'https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/Footer-Load',
+		
+			'YMAL_LOAD': 'https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/RecommendationAjax-YouMayAlsoLike',
+		
+			'RECENTLY_VIEWED_LOAD': 'https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/RecentlyViewedAjax-RecentlyViewed',
+		
+			'BEAUTY_ROUTINE': 'https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/RecommendationAjax-BeautyRoutine',
+		
+			'SHADE_COMPARATOR_DIALOG': 'https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/ShadeComparatorAjax-Show',
+		
+			'NOTIFY_ME_DIALOG': 'https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/NotifyMeAjax-Show',
+		
+			'NOTIFY_ME_DIALOG_SUBMIT': 'https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/NotifyMeAjax-Submit',
+		
+			'PRODUCT_DISCOVER_MORE_BLOCK': 'https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/Product-DiscoverMoreBlock',
+		
+			'PRODUCT_HOW_TO_BLOCK': 'https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/Product-HowToBlock',
+		
+			'PRODUCT_ABOVE_THE_FOLD': 'https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/Product-AboveTheFold',
+		
+			'PRODUCT_LOYALTY_POINTS': 'https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/Product-LoyaltyPoints',
+		
+			'PRODUCT_SHIPPING_INFO': 'https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/Product-ShippingInformation',
+		
+			'PRODUCT_FREE_HTML_BLOCK': 'https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/Product-FreeHtmlBlock',
+		
+			'PRODUCT_BUNDLES': 'https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/Product-Bundles',
+		
+			'UPDATE_ANALYTICS_CONSENT': 'https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/Header-UpdateAnalyticsConsent',
+		
+			'ORDER_HISTORY': 'https://www.clarins.ru/istoriya-zakazov',
+		
+			'TRACK_ORDER_SHOW': 'https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/TrackOrder-Show',
+		
+			'PRODUCT_BAZAAR_VOICE_REVIEWS': 'https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/Product-GetBazaarVoiceReviews',
+		
+			'PRODUCT_RECOMMENDATIONS': 'https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/Product-Recommendations',
+		
+			'BUNDLE_PRODUCT': 'https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/Product-GetBundleProduct',
+		
+			'PRODUCT_ADD_TO_BAG_STICKY': 'https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/Product-AddToBagSticky',
+		
+			'CONTENT_GET_ASSET': 'https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/Content-GetAsset',
+		
+			'NEWSLETTER_DIALOG': 'https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/NewsletterAjax-PrepareNewsletterDialog',
+		
+			'PRODUCT_OLAPIC_WIDGET': 'https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/Product-OlapicWidget',
+		
+			'PRODUCT_LOAD_OLAPIC_WIDGET_CONTENT': 'https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/OlapicAjax-LoadContent',
+		
+	};
+</script>
+<link rel="preload" href="/on/demandware.static/Sites-clarinsru-Site/-/ru_RU/v1639290511449/css/navigation_styles.css" as="style" />
+<link rel="stylesheet" href="/on/demandware.static/Sites-clarinsru-Site/-/ru_RU/v1639290511449/css/navigation_styles.css" />
+<link rel="stylesheet" href="/on/demandware.static/-/Library-Sites-clarins-v3/ru_RU/v1639290511449/css/cba/custom-rewardsboutique-hamburger-menu.css" />
+<i-navigation-wrapper analytics-category="">
+<div class="header">
+<div class="header-content page-content">
+<i-hamburgermenu load-hamburger-menu-url="https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/Navigation-IncludeHamburgerMenu" tabindex="0">
+<div class="header-menu-burger__icon">
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" tabindex="-1">
+<title>Меню</title>
+<g fill="none" fill-rule="evenodd">
+<g>
+<path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2" d="M1 2.25h18m-18 8h18m-18 8h18" />
+</g>
+</g>
+</svg>
+</div>
+<components-loader value="header/HamburgerMenu"></components-loader>
+<div class="hamburger-navigation">
+</div>
+</i-hamburgermenu>
+<i-search tabindex="0">
+<i-image-observer observe-selector=".product-image" threshold="0" rootmargin="200px 50px 200px 50px">
+</i-image-observer>
+<div class="header-menu-search__icon">
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+<title>Поиск</title>
+<g fill="none" fill-rule="evenodd">
+<g>
+<g stroke-width="1.2">
+<path d="M7.268 0c3.989 0 7.268 3.19 7.268 7.268 0 3.989-3.19 7.268-7.268 7.268C3.191 14.536 0 11.346 0 7.268 0 3.191 3.19 0 7.268 0z" transform="translate(.7 .7)" />
+<path stroke-linecap="round" d="M12.409 12.498L18.702 18.614" transform="translate(.7 .7)" />
+</g>
+</g>
+</g>
+</svg>
+</div>
+<div class="cba-search-box">
+<form class="search-form page-content search-form-js" role="search" action="/search" method="get" name="simple-search">
+<fieldset>
+<input id="q" value="" name="q" type="search" class="cba-search-query" tabindex="0" placeholder="Поиск" autocomplete="off" />
+<i-svg-icon filename="transparent-cross-icon" class="cross-grey" tabindex="0"></i-svg-icon>
+<i-svg-icon filename="header-menu-search" class="submit-search" data-tc-category-id="manuel" tabindex="0"></i-svg-icon>
+</fieldset>
+</form>
+</div>
+<i-search-flyout minimum-letter-count="3.0" dynamic-content-type="text" update-section-url="/on/demandware.store/Sites-clarinsru-Site/ru_RU/SearchAjax-GetSuggestions">
+<components-loader value="header/SearchFlyout"></components-loader>
+</i-search-flyout>
+<div class="page-dimout-search"></div>
+<components-loader value="header/Search"></components-loader>
+</i-search>
+<div class="header-logo-wrapper">
+<div class="header-logo">
+<h1 class="homepage-logo-title">
+<a href="/" title="Clarins Главная страница">
+<img alt="Clarins" src="https://www.clarins.ru/on/demandware.static/-/Library-Sites-clarins-v3/default/dwa9b9de66/images/logo-cba.svg" title="" />
+</a>
+</h1>
+</div>
+</div>
+<div class="header-contact-us show-desktop">
+<div class="flex-space-between">
+<a href="https://www.clarins.ru/pomoshch.html" title="Помощь">
+<div class="header-menu-contact__icon header-menu__icon">
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+<g fill="none" fill-rule="evenodd">
+<g>
+<g>
+<path stroke-width="1.2" d="M7.971 18.579H2.645C1.185 18.579 0 17.394 0 15.934V2.645C0 1.185 1.185 0 2.645 0h5.326c1.46 0 2.645 1.185 2.645 2.645v13.289c0 1.46-1.184 2.645-2.645 2.645z" transform="translate(4.6 .6)" />
+<path d="M5.917 15.925c0 .488-.397.884-.885.884-.49 0-.885-.396-.885-.884 0-.489.396-.885.885-.885.488 0 .885.396.885.885" transform="translate(4.6 .6)" />
+<path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2" d="M3.981 2.654L6.636 2.654" transform="translate(4.6 .6)" />
+</g>
+</g>
+</g>
+</svg>
+</div>
+<div class="contact-us-text">
+Помощь
+</div>
+</a>
+</div>
+</div>
+<div class="header-login">
+<i-tooltip class="header-login-tooltip display-inline-block align-middle" element-selector=".header-login-section" content-selector=".header-login__tooltip-content">
+<div class="header-login-section" data-custgroup="null" tabindex="-1">
+<a href="https://www.clarins.ru/akkaunt" title="Войти" tabindex="0">
+<div class="header-menu-login__icon header-menu__icon">
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+<g fill="none" fill-rule="evenodd">
+<g>
+<path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2" d="M10 .6c.88 0 3.28.322 3.36 3.215.16 3.698-1.76 6.833-1.76 6.833s.465.978 1.28 1.527c2.224 1.5 3.998 1.125 4.798 2.572.8 1.447.72 4.653.72 4.653H1.602s-.08-3.286.72-4.653c.8-1.447 2.574-1.071 4.799-2.572.814-.549 1.28-1.527 1.28-1.527S6.48 7.433 6.64 3.815C6.72.922 9.12.6 10 .6z" />
+</g>
+</g>
+</svg>
+</div>
+<div class="header-login-text">
+Войти
+</div>
+</a>
+</div>
+<div class="header-login__tooltip-content header-login__flyout not-registered">
+<div class="header-login__flyout-item position-relative text-left">
+<i-link class="i-link i-button">
+<a class="link button button--primary button--centered display-block text-transform-none" href='https://www.clarins.ru/akkaunt' title='Войти'>
+Войти
+</a>
+</i-link>
+</div>
+<div class="header-login__flyout-item position-relative text-left">
+<i-link class="i-link ">
+<a class="link " href='https://www.clarins.ru/otslezhivanie-zakaza' title='Отслеживать заказ'>
+Отслеживать заказ
+</a>
+</i-link>
+</div>
+</div>
+</i-tooltip>
+</div>
+<i-minibag update-section-url="https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/MiniBagAjax-GetMiniBag" dynamic-content-type="text" watch="add:product" data-redirect-url="https://www.clarins.ru/cart">
+<div class="minibag-section" tabindex="-1">
+<div class="header-minibag-section">
+<a class="minibag-link not-active" tabindex="-1" href="https://www.clarins.ru/cart" title="Корзина">
+<div class="header-menu-bag__icon header-menu__icon">
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+<g fill="none" fill-rule="evenodd">
+<g>
+<g stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2">
+<path d="M0 5L0 18.8 16 18.8 16 5zM5 4.4v-.8C5 1.6 6.44 0 8.2 0c1.76 0 3.2 1.6 3.2 3.6v.8" transform="translate(2 .6)" />
+</g>
+</g>
+</g>
+</svg>
+</div>
+<div class="minibag-text text-uppercase show-desktop">
+Корзина
+</div>
+</a>
+</div>
+</div>
+<components-loader value="header/MiniBag"></components-loader>
+</i-minibag>
+</div>
+</div>
+<i-navigation>
+<nav id="navigation" class="cba-navigation">
+<div class="cba-navigation-menu page-content">
+<i-navigation-menu>
+<ul class="cba-menu-category">
+
+<li class="cba-level1-category first-level-category-js ">
+<i-navigation-menu-item category-id="100">
+<a href="https://www.clarins.ru/novinki_i_hity/" aria-label="Новинки и хиты" class="cba-level-1-item text-uppercase first-level-link-js col-gutter ">
+<span>
+Новинки и хиты
+</span>
+</a>
+<div class="cba-navigation-flyout hidden">
+<div class="navigation-flyout second-level-js">
+<div class="navigation-flyout__subcategories-wrapper">
+<div class="navigation-flyout__subcategories">
+<div class="navigation-flyout__subcategory subcategory-js third-level-menu-item-list-js">
+<p class="navigation-flyout__subcategory-title flex-align-vertical-center text-uppercase third-level-menu-item-title-js" data-tc-category-id="100">
+Новинки и хиты
+</p>
+<a href="https://www.clarins.ru/novinki_i_hity/" class="navigation-flyout__subcategory-see-all navigation-flyout__link">
+<span>
+Показать все
+</span>
+</a>
+<ul class="navigation-flyout__subcategory-subcategories">
+<li class="navigation-flyout__subcategory-subcategories-item flex-align-vertical-center">
+<a href="https://www.clarins.ru/novinki/" class="navigation-flyout__link navigation-flyout__subcategory-subcategories-item-link third-level-link-tc-js">
+Новинки
+</a>
+</li>
+<li class="navigation-flyout__subcategory-subcategories-item flex-align-vertical-center">
+<a href="https://www.clarins.ru/bestsellers/" class="navigation-flyout__link navigation-flyout__subcategory-subcategories-item-link third-level-link-tc-js">
+Бестселлеры Clarins
+</a>
+</li>
+<li class="navigation-flyout__subcategory-subcategories-item flex-align-vertical-center">
+<a href="https://www.clarins.ru/eksklyuzivno-na-sajte-clarins/" class="navigation-flyout__link navigation-flyout__subcategory-subcategories-item-link third-level-link-tc-js">
+Эксклюзивно на сайте Clarins
+</a>
+</li>
+<li class="navigation-flyout__subcategory-subcategories-item flex-align-vertical-center">
+<a href="https://www.clarins.ru/mini-formaty/" class="navigation-flyout__link navigation-flyout__subcategory-subcategories-item-link third-level-link-tc-js">
+Мини-форматы
+</a>
+</li>
+</ul>
+<div class="navigation-flyout__highlights">
+<p class="navigation-flyout__highlights-title third-level-menu-item-title-js">
+Рекомендуем
+</p>
+<ul class="navigation-flyout__highlights-list navigation-nopadding third-level-menu-item-list-js">
+<li class="navigation-flyout__highlights-item third-level-link-tc-js">
+<a href="https://www.clarins.ru/linya-ochishchayushchikh-sredstv/" class="navigation-flyout__link">Линия очищающих средств</a>
+</li>
+<li class="navigation-flyout__highlights-item third-level-link-tc-js">
+<a href="https://www.clarins.ru/total-eye-lift/" class="navigation-flyout__link">Total Eye Lift</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="navigation-flyout__bspot-wrapper">
+<div class="navigation-flyout__bspot">
+<i-image-observer observe-selector=".content-image-container" threshold="0" rootmargin="200px 50px 200px 50px"></i-image-observer><div class="no-margin-megaMenu menu-category verticalAssetContainer menu-vertical panes-five-columns-block-desktop hamburger-hidden">
+<div class="panes-col-gutter">
+<a href="https://www.clarins.ru/Double-Serum-2019.html">
+<img data-image="https://www.clarins.ru/on/demandware.static/-/Library-Sites-clarins-v3/ru_RU/dw69e168f4/MegaMenu/2021_HOLIDAYS_DoubleSerum_MegamenuBspot-202x150_INTE.jpg" data-image-load-on="onload" alt="" />
+<p class="promotionHeader">Легендарная сыворотка Double Serum</p>
+<p class="promotionDescription">Эффективное воздействие на&nbsp;все&nbsp;признаки старения кожи</p>
+<span class="promotionLink">КУПИТЬ</span></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<components-loader value="header/NavigationMenuItem"></components-loader>
+</i-navigation-menu-item>
+</li>
+<li class="cba-level1-category first-level-category-js ">
+<i-navigation-menu-item category-id="skincare">
+<a href="https://www.clarins.ru/uhod-za-kozhei/" aria-label="Уход за кожей" class="cba-level-1-item text-uppercase first-level-link-js col-gutter ">
+<span>
+Уход за кожей
+</span>
+</a>
+<div class="cba-navigation-flyout hidden">
+<div class="navigation-flyout second-level-js">
+<div class="navigation-flyout__subcategories-wrapper">
+<div class="navigation-flyout__subcategories">
+<div class="navigation-flyout__subcategory subcategory-js third-level-menu-item-list-js">
+<p class="navigation-flyout__subcategory-title flex-align-vertical-center text-uppercase">
+<span class="third-level-menu-item-title-js" data-tc-category-id="200">
+Лицо
+</span>
+</p>
+<a href="https://www.clarins.ru/uhod-za-kozhei/uhod-za-litsom/200/" class="navigation-flyout__subcategory-see-all navigation-flyout__link">
+<span>
+Показать все
+</span>
+</a>
+<div class="navigation-flyout__third-level display-block third-level-js">
+<ul class="navigation-flyout__subcategory-subcategories">
+<li class="navigation-flyout__subcategory-subcategories-item flex-align-vertical-center">
+<a href="https://www.clarins.ru/uhod-za-kozhei/uhod-za-litsom/ochishchenie-i-tonizirovanie/210/" class="navigation-flyout__link navigation-flyout__subcategory-subcategories-item-link third-level-link-tc-js">
+Очищение и тонизирование
+</a>
+</li>
+<li class="navigation-flyout__subcategory-subcategories-item flex-align-vertical-center">
+<a href="https://www.clarins.ru/uhod-za-kozhei/uhod-za-litsom/dnevnoj-uhod/220/" class="navigation-flyout__link navigation-flyout__subcategory-subcategories-item-link third-level-link-tc-js">
+Дневной уход
+</a>
+</li>
+<li class="navigation-flyout__subcategory-subcategories-item flex-align-vertical-center">
+<a href="https://www.clarins.ru/uhod-za-kozhei/uhod-za-litsom/syvorotki/240/" class="navigation-flyout__link navigation-flyout__subcategory-subcategories-item-link third-level-link-tc-js">
+Сыворотки
+</a>
+</li>
+<li class="navigation-flyout__subcategory-subcategories-item flex-align-vertical-center">
+<a href="https://www.clarins.ru/uhod-za-kozhei/uhod-za-litsom/masla-dlya-lica/270/" class="navigation-flyout__link navigation-flyout__subcategory-subcategories-item-link third-level-link-tc-js">
+Масла для лица
+</a>
+</li>
+<li class="navigation-flyout__subcategory-subcategories-item flex-align-vertical-center">
+<a href="https://www.clarins.ru/uhod-za-kozhei/uhod-za-litsom/nochnoj-uhod/230/" class="navigation-flyout__link navigation-flyout__subcategory-subcategories-item-link third-level-link-tc-js">
+Ночной уход
+</a>
+</li>
+<li class="navigation-flyout__subcategory-subcategories-item flex-align-vertical-center">
+<a href="https://www.clarins.ru/uhod-za-kozhei/uhod-za-litsom/otshelushivanie-i-maski/260/" class="navigation-flyout__link navigation-flyout__subcategory-subcategories-item-link third-level-link-tc-js">
+Отшелушивание и маски
+</a>
+</li>
+<li class="navigation-flyout__subcategory-subcategories-item flex-align-vertical-center">
+<a href="https://www.clarins.ru/uhod-za-kozhei/uhod-za-litsom/uhod-za-kozhej-vokrug-glaz/280/" class="navigation-flyout__link navigation-flyout__subcategory-subcategories-item-link third-level-link-tc-js">
+Уход за кожей вокруг глаз
+</a>
+</li>
+<li class="navigation-flyout__subcategory-subcategories-item flex-align-vertical-center">
+<a href="https://www.clarins.ru/uhod-za-kozhei/uhod-za-litsom/uhod-za-kozhej-shei/250/" class="navigation-flyout__link navigation-flyout__subcategory-subcategories-item-link third-level-link-tc-js">
+Уход за кожей шеи
+</a>
+</li>
+<li class="navigation-flyout__subcategory-subcategories-item flex-align-vertical-center">
+<a href="https://www.clarins.ru/uhod-za-kozhej/lico/antivozrastnye-sredstva-antivozrastnye-sredstva/" class="navigation-flyout__link navigation-flyout__subcategory-subcategories-item-link third-level-link-tc-js">
+Антивозрастные средства
+</a>
+</li>
+<li class="navigation-flyout__subcategory-subcategories-item flex-align-vertical-center">
+<a href="https://www.clarins.ru/uhod-za-kozhej/lico/matirovanie--suzhenie-por-matirovanie/" class="navigation-flyout__link navigation-flyout__subcategory-subcategories-item-link third-level-link-tc-js">
+Матирование, сужение пор
+</a>
+</li>
+<li class="navigation-flyout__subcategory-subcategories-item flex-align-vertical-center">
+<a href="https://www.clarins.ru/uhod-za-kozhei-lico-zashchitnyj-ekran-uv_protector_face/" class="navigation-flyout__link navigation-flyout__subcategory-subcategories-item-link third-level-link-tc-js">
+Защитный экран
+</a>
+</li>
+<li class="navigation-flyout__subcategory-subcategories-item flex-align-vertical-center">
+<a href="https://www.clarins.ru/uhod-za-kozhej/lico/uvlazhnenie-uvlazhnenie/" class="navigation-flyout__link navigation-flyout__subcategory-subcategories-item-link third-level-link-tc-js">
+Увлажнение
+</a>
+</li>
+</ul>
+<div class="navigation-flyout__highlights">
+<p class="navigation-flyout__highlights-title third-level-menu-item-title-js">
+Рекомендуем
+</p>
+<ul class="navigation-flyout__highlights-list navigation-nopadding third-level-menu-item-list-js">
+<li class="navigation-flyout__highlights-item third-level-link-tc-js">
+<a href="https://www.clarins.ru/bestsellers/lico/" class="navigation-flyout__link">Бестселлеры: Лицо </a>
+</li>
+<li class="navigation-flyout__highlights-item third-level-link-tc-js">
+<a href="https://www.clarins.ru/novinki/" class="navigation-flyout__link">Новинки</a>
+</li>
+<li class="navigation-flyout__highlights-item third-level-link-tc-js">
+<a href="https://www.clarins.ru/eksklyuzivno-na-sajte-clarins/" class="navigation-flyout__link">Эксклюзивно на сайте Clarins</a>
+</li>
+<li class="navigation-flyout__highlights-item third-level-link-tc-js">
+<a href="https://www.clarins.ru/personalnaya-programma-uhoda?gsid=BC_Face_RU" class="navigation-flyout__link">Ваша программа ухода</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="navigation-flyout__subcategory subcategory-js third-level-menu-item-list-js">
+<p class="navigation-flyout__subcategory-title flex-align-vertical-center text-uppercase">
+<span class="third-level-menu-item-title-js" data-tc-category-id="300">
+Тело
+</span>
+</p>
+<a href="https://www.clarins.ru/uhod-za-kozhei/uhod-za-telom/300/" class="navigation-flyout__subcategory-see-all navigation-flyout__link">
+<span>
+Показать все
+</span>
+</a>
+<div class="navigation-flyout__third-level display-block third-level-js">
+<ul class="navigation-flyout__subcategory-subcategories">
+<li class="navigation-flyout__subcategory-subcategories-item flex-align-vertical-center">
+<a href="https://www.clarins.ru/uhod-za-kozhei/uhod-za-telom/dlya-dusha-i-vanny/340/" class="navigation-flyout__link navigation-flyout__subcategory-subcategories-item-link third-level-link-tc-js">
+Для душа и ванны
+</a>
+</li>
+<li class="navigation-flyout__subcategory-subcategories-item flex-align-vertical-center">
+<a href="https://www.clarins.ru/uhod-za-kozhei/uhod-za-telom/uhod-dlya-volos/" class="navigation-flyout__link navigation-flyout__subcategory-subcategories-item-link third-level-link-tc-js">
+Уход для волос
+</a>
+</li>
+<li class="navigation-flyout__subcategory-subcategories-item flex-align-vertical-center">
+<a href="https://www.clarins.ru/uhod-za-kozhei/uhod-za-telom/otshelushivanie/370/" class="navigation-flyout__link navigation-flyout__subcategory-subcategories-item-link third-level-link-tc-js">
+Отшелушивание
+</a>
+</li>
+<li class="navigation-flyout__subcategory-subcategories-item flex-align-vertical-center">
+<a href="https://www.clarins.ru/uhod-za-kozhei/uhod-za-telom/uvlazhneniye/330/" class="navigation-flyout__link navigation-flyout__subcategory-subcategories-item-link third-level-link-tc-js">
+Увлажнение
+</a>
+</li>
+<li class="navigation-flyout__subcategory-subcategories-item flex-align-vertical-center">
+<a href="https://www.clarins.ru/uhod-za-kozhei/uhod-za-telom/modelirovaniye/310/" class="navigation-flyout__link navigation-flyout__subcategory-subcategories-item-link third-level-link-tc-js">
+Моделирование
+</a>
+</li>
+<li class="navigation-flyout__subcategory-subcategories-item flex-align-vertical-center">
+<a href="https://www.clarins.ru/uhod-za-kozhei/uhod-za-telom/ukrepleniye/320/" class="navigation-flyout__link navigation-flyout__subcategory-subcategories-item-link third-level-link-tc-js">
+Укрепление
+</a>
+</li>
+<li class="navigation-flyout__subcategory-subcategories-item flex-align-vertical-center">
+<a href="https://www.clarins.ru/uhod-za-kozhei/uhod-za-telom/masla-dlya-tela/390/" class="navigation-flyout__link navigation-flyout__subcategory-subcategories-item-link third-level-link-tc-js">
+Масла для тела
+</a>
+ </li>
+<li class="navigation-flyout__subcategory-subcategories-item flex-align-vertical-center">
+<a href="https://www.clarins.ru/uhod-za-kozhei/uhod-za-telom/dezodoranty/380-1/" class="navigation-flyout__link navigation-flyout__subcategory-subcategories-item-link third-level-link-tc-js">
+Дезодоранты
+</a>
+</li>
+<li class="navigation-flyout__subcategory-subcategories-item flex-align-vertical-center">
+<a href="https://www.clarins.ru/uhod-za-kozhei/uhod-za-telom/dlya-ruk-i-nog/380/" class="navigation-flyout__link navigation-flyout__subcategory-subcategories-item-link third-level-link-tc-js">
+Для рук и ног
+</a>
+</li>
+<li class="navigation-flyout__subcategory-subcategories-item flex-align-vertical-center">
+<a href="https://www.clarins.ru/uhod-za-kozhei/uhod-za-telom/aromaticheskii-uhod/360/" class="navigation-flyout__link navigation-flyout__subcategory-subcategories-item-link third-level-link-tc-js">
+Ароматический уход
+</a>
+</li>
+<li class="navigation-flyout__subcategory-subcategories-item flex-align-vertical-center">
+<a href="https://www.clarins.ru/uhod-za-kozhei/uhod-za-telom/dlya-beremennyh-i-molodyh-mam/350/" class="navigation-flyout__link navigation-flyout__subcategory-subcategories-item-link third-level-link-tc-js">
+Для беременных и молодых мам
+</a>
+</li>
+</ul>
+<div class="navigation-flyout__highlights">
+<p class="navigation-flyout__highlights-title third-level-menu-item-title-js">
+Рекомендуем
+</p>
+<ul class="navigation-flyout__highlights-list navigation-nopadding third-level-menu-item-list-js">
+<li class="navigation-flyout__highlights-item third-level-link-tc-js">
+<a href="https://www.clarins.ru/bestsellers/telo/" class="navigation-flyout__link">Бестселлеры: Тело</a>
+</li>
+<li class="navigation-flyout__highlights-item third-level-link-tc-js">
+<a href="https://www.clarins.ru/novinki/" class="navigation-flyout__link">Новинки</a>
+</li>
+<li class="navigation-flyout__highlights-item third-level-link-tc-js">
+<a href="https://www.clarins.ru/eksklyuzivno-na-sajte-clarins/" class="navigation-flyout__link">Эксклюзивно на сайте Clarins</a>
+</li>
+<li class="navigation-flyout__highlights-item third-level-link-tc-js">
+<a href="https://www.clarins.ru/sovety-krasoty-beremennost/" class="navigation-flyout__link">Материнство</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="navigation-flyout__subcategory subcategory-js third-level-menu-item-list-js">
+<p class="navigation-flyout__subcategory-title flex-align-vertical-center text-uppercase">
+<span class="third-level-menu-item-title-js" data-tc-category-id="400">
+Солнце
+</span>
+</p>
+<a href="https://www.clarins.ru/uhod-za-kozhei/solnce/400/" class="navigation-flyout__subcategory-see-all navigation-flyout__link">
+<span>
+Показать все
+</span>
+</a>
+<div class="navigation-flyout__third-level display-block third-level-js">
+<ul class="navigation-flyout__subcategory-subcategories">
+<li class="navigation-flyout__subcategory-subcategories-item flex-align-vertical-center">
+<a href="https://www.clarins.ru/uhod-za-kozhei/solnce/solncezashchitnye-sredstva/410/" class="navigation-flyout__link navigation-flyout__subcategory-subcategories-item-link third-level-link-tc-js">
+Солнцезащитные средства
+</a>
+</li>
+<li class="navigation-flyout__subcategory-subcategories-item flex-align-vertical-center">
+<a href="https://www.clarins.ru/uhod-za-kozhei/solnce/sredstva-uhoda-posle-zagara/420/" class="navigation-flyout__link navigation-flyout__subcategory-subcategories-item-link third-level-link-tc-js">
+Средства ухода после загара
+</a>
+</li>
+<li class="navigation-flyout__subcategory-subcategories-item flex-align-vertical-center">
+<a href="https://www.clarins.ru/uhod-za-kozhei/solnce/sredstva-dlya-iskusstvennogo-zagara/430/" class="navigation-flyout__link navigation-flyout__subcategory-subcategories-item-link third-level-link-tc-js">
+Средства для искусственного загара
+</a>
+</li>
+</ul>
+<div class="navigation-flyout__highlights">
+<p class="navigation-flyout__highlights-title third-level-menu-item-title-js">
+Рекомендуем
+</p>
+<ul class="navigation-flyout__highlights-list navigation-nopadding third-level-menu-item-list-js">
+<li class="navigation-flyout__highlights-item third-level-link-tc-js">
+<a href="https://www.clarins.ru/bestsellers/solnce/" class="navigation-flyout__link">Бестселлеры: Солнце</a>
+</li>
+<li class="navigation-flyout__highlights-item third-level-link-tc-js">
+<a href="https://www.clarins.ru/mini-formaty/" class="navigation-flyout__link">Средства Clarins в мини-формате</a>
+</li>
+<li class="navigation-flyout__highlights-item third-level-link-tc-js">
+<a href="https://www.clarins.ru/uhod-za-kozhei/solnce/400/sun-spf-30/" class="navigation-flyout__link">SPF 30</a>
+</li>
+<li class="navigation-flyout__highlights-item third-level-link-tc-js">
+<a href="https://www.clarins.ru/uhod-za-kozhei/solnce/400/sun-spf-50/" class="navigation-flyout__link">SPF 50</a>
+</li>
+
+</ul>
+</div>
+</div>
+</div>
+<div class="navigation-flyout__subcategory subcategory-js third-level-menu-item-list-js">
+<p class="navigation-flyout__subcategory-title flex-align-vertical-center text-uppercase">
+<span class="third-level-menu-item-title-js" data-tc-category-id="500">
+Для мужчин
+</span>
+</p>
+<a href="https://www.clarins.ru/uhod-za-kozhej/dlya-muzhchin-500/" class="navigation-flyout__subcategory-see-all navigation-flyout__link">
+<span>
+Показать все
+</span>
+</a>
+<div class="navigation-flyout__third-level display-block third-level-js">
+<ul class="navigation-flyout__subcategory-subcategories">
+<li class="navigation-flyout__subcategory-subcategories-item flex-align-vertical-center">
+<a href="https://www.clarins.ru/uhod-za-kozhei/dlya-muzhchin/ochishchenie/510/" class="navigation-flyout__link navigation-flyout__subcategory-subcategories-item-link third-level-link-tc-js">
+Очищение
+</a>
+</li>
+<li class="navigation-flyout__subcategory-subcategories-item flex-align-vertical-center">
+<a href="https://www.clarins.ru/uhod-za-kozhei/dlya-muzhchin/brite/520/" class="navigation-flyout__link navigation-flyout__subcategory-subcategories-item-link third-level-link-tc-js">
+Бритье
+</a>
+</li>
+<li class="navigation-flyout__subcategory-subcategories-item flex-align-vertical-center">
+<a href="https://www.clarins.ru/uhod-za-kozhei/dlya-muzhchin/uvlazhnenie/530/" class="navigation-flyout__link navigation-flyout__subcategory-subcategories-item-link third-level-link-tc-js">
+Увлажнение
+</a>
+</li>
+<li class="navigation-flyout__subcategory-subcategories-item flex-align-vertical-center">
+<a href="https://www.clarins.ru/uhod-za-kozhei/dlya-muzhchin/antivozrastnoj-uhod/540/" class="navigation-flyout__link navigation-flyout__subcategory-subcategories-item-link third-level-link-tc-js">
+Антивозрастной уход
+</a>
+</li>
+<li class="navigation-flyout__subcategory-subcategories-item flex-align-vertical-center">
+<a href="https://www.clarins.ru/uhod-za-kozhei/dlya-muzhchin/uhod-za-kozhej-vokrug-glaz/580/" class="navigation-flyout__link navigation-flyout__subcategory-subcategories-item-link third-level-link-tc-js">
+Уход за кожей вокруг глаз
+</a>
+</li>
+<li class="navigation-flyout__subcategory-subcategories-item flex-align-vertical-center">
+<a href="https://www.clarins.ru/uhod-za-kozhei/dlya-muzhchin/uhod-za-telom/550/" class="navigation-flyout__link navigation-flyout__subcategory-subcategories-item-link third-level-link-tc-js">
+Уход за телом
+</a>
+</li>
+<li class="navigation-flyout__subcategory-subcategories-item flex-align-vertical-center">
+<a href="https://www.clarins.ru/uhod-za-kozhei/dlya-muzhchin/dezodoranty/590/" class="navigation-flyout__link navigation-flyout__subcategory-subcategories-item-link third-level-link-tc-js">
+Дезодоранты
+</a>
+</li>
+</ul>
+<div class="navigation-flyout__highlights">
+<p class="navigation-flyout__highlights-title third-level-menu-item-title-js">
+Рекомендуем
+</p>
+<ul class="navigation-flyout__highlights-list navigation-nopadding third-level-menu-item-list-js">
+<li class="navigation-flyout__highlights-item third-level-link-tc-js">
+<a href="https://www.clarins.ru/bestsellers/dlya-muzhchin/" class="navigation-flyout__link">Бестселлеры: Для мужчин</a>
+</li>
+<li class="navigation-flyout__highlights-item third-level-link-tc-js">
+<a href="https://www.clarins.ru/eksklyuzivno-na-sajte-clarins/" class="navigation-flyout__link">Эксклюзивно на сайте Clarins</a>
+</li>
+
+</ul>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<components-loader value="header/NavigationMenuItem"></components-loader>
+</i-navigation-menu-item>
+</li>
+<li class="cba-level1-category first-level-category-js ">
+<i-navigation-menu-item category-id="600">
+<a href="https://www.clarins.ru/makiyazh-600/" aria-label="Макияж" class="cba-level-1-item text-uppercase first-level-link-js col-gutter ">
+<span>
+Макияж
+</span>
+</a>
+<div class="cba-navigation-flyout hidden">
+<div class="navigation-flyout second-level-js">
+<div class="navigation-flyout__subcategories-wrapper">
+<div class="navigation-flyout__subcategories">
+<div class="navigation-flyout__subcategory subcategory-js third-level-menu-item-list-js">
+<p class="navigation-flyout__subcategory-title flex-align-vertical-center text-uppercase">
+<span class="third-level-menu-item-title-js" data-tc-category-id="610">
+Тон
+</span>
+</p>
+<a href="https://www.clarins.ru/makiyazh/ton-610/" class="navigation-flyout__subcategory-see-all navigation-flyout__link">
+<span>
+Показать все
+</span>
+</a>
+<div class="navigation-flyout__third-level display-block third-level-js">
+<ul class="navigation-flyout__subcategory-subcategories">
+<li class="navigation-flyout__subcategory-subcategories-item flex-align-vertical-center">
+<a href="https://www.clarins.ru/makiyazh/ton/kisti-619_a/" class="navigation-flyout__link navigation-flyout__subcategory-subcategories-item-link third-level-link-tc-js">
+Кисти
+</a>
+</li>
+<li class="navigation-flyout__subcategory-subcategories-item flex-align-vertical-center">
+<a href="https://www.clarins.ru/makiyazh/ton/bazy-i-hajlajtery-616/" class="navigation-flyout__link navigation-flyout__subcategory-subcategories-item-link third-level-link-tc-js">
+Базы и хайлайтеры
+</a>
+</li>
+<li class="navigation-flyout__subcategory-subcategories-item flex-align-vertical-center">
+<a href="https://www.clarins.ru/makiyazh/ton/korrektory-i-konsilery-615/" class="navigation-flyout__link navigation-flyout__subcategory-subcategories-item-link third-level-link-tc-js">
+Корректоры и консилеры
+</a>
+</li>
+<li class="navigation-flyout__subcategory-subcategories-item flex-align-vertical-center">
+<a href="https://www.clarins.ru/makiyazh/ton/tonalnye-sredstva-612/" class="navigation-flyout__link navigation-flyout__subcategory-subcategories-item-link third-level-link-tc-js">
+Тональные средства
+</a>
+</li>
+<li class="navigation-flyout__subcategory-subcategories-item flex-align-vertical-center">
+<a href="https://www.clarins.ru/makiyazh/ton/pudra-614/" class="navigation-flyout__link navigation-flyout__subcategory-subcategories-item-link third-level-link-tc-js">
+Пудра
+</a>
+</li>
+<li class="navigation-flyout__subcategory-subcategories-item flex-align-vertical-center">
+<a href="https://www.clarins.ru/makiyazh/ton/rumyana-i-bronziruyushchie-sredstva-617/" class="navigation-flyout__link navigation-flyout__subcategory-subcategories-item-link third-level-link-tc-js">
+Румяна и бронзирующие средства
+</a>
+</li>
+<li class="navigation-flyout__subcategory-subcategories-item flex-align-vertical-center">
+<a href="https://www.clarins.ru/makiyazh/ton/fiksatory-611/" class="navigation-flyout__link navigation-flyout__subcategory-subcategories-item-link third-level-link-tc-js">
+Фиксаторы
+</a>
+</li>
+</ul>
+<div class="navigation-flyout__highlights">
+<p class="navigation-flyout__highlights-title third-level-menu-item-title-js">
+Рекомендуем
+</p>
+<ul class="navigation-flyout__highlights-list navigation-nopadding third-level-menu-item-list-js">
+<li class="navigation-flyout__highlights-item third-level-link-tc-js">
+<a href="https://www.clarins.ru/bestsellers/makiyazh/ton/" class="navigation-flyout__link">Бестселлеры: Тон</a>
+</li>
+<li class="navigation-flyout__highlights-item third-level-link-tc-js">
+<a href="https://www.clarins.ru/eksklyuzivno-na-sajte-clarins/" class="navigation-flyout__link">Эксклюзивно на сайте Clarins</a>
+</li>
+<li class="navigation-flyout__highlights-item third-level-link-tc-js">
+<a href="https://www.clarins.ru/gid-po-tonalnym-sredstvam/" class="navigation-flyout__link">Гид по тональным средствам</a>
+</li>
+<li class="navigation-flyout__highlights-item third-level-link-tc-js">
+<a href="https://www.clarins.ru/everlasting-youth-fluid-ustojchivyj-tonalnyj-flyuid-s-omolazhivayushchim-dejstviem-spf-15-C080033157.html" class="navigation-flyout__link">Everlasting Youth Fluid</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="navigation-flyout__subcategory subcategory-js third-level-menu-item-list-js">
+<p class="navigation-flyout__subcategory-title flex-align-vertical-center text-uppercase">
+<span class="third-level-menu-item-title-js" data-tc-category-id="620">
+Глаза
+</span>
+</p>
+<a href="https://www.clarins.ru/makiyazh/glaza-620/" class="navigation-flyout__subcategory-see-all navigation-flyout__link">
+<span>
+Показать все
+</span>
+</a>
+<div class="navigation-flyout__third-level display-block third-level-js">
+<ul class="navigation-flyout__subcategory-subcategories">
+<li class="navigation-flyout__subcategory-subcategories-item flex-align-vertical-center">
+<a href="https://www.clarins.ru/makiyazh/glaza/kisti-628/" class="navigation-flyout__link navigation-flyout__subcategory-subcategories-item-link third-level-link-tc-js">
+Кисти
+</a>
+</li>
+<li class="navigation-flyout__subcategory-subcategories-item flex-align-vertical-center">
+<a href="https://www.clarins.ru/makiyazh/glaza/teni-dlya-vek-622/" class="navigation-flyout__link navigation-flyout__subcategory-subcategories-item-link third-level-link-tc-js">
+Тени для век
+</a>
+</li>
+<li class="navigation-flyout__subcategory-subcategories-item flex-align-vertical-center">
+<a href="https://www.clarins.ru/makiyazh/glaza/podvodka-625/" class="navigation-flyout__link navigation-flyout__subcategory-subcategories-item-link third-level-link-tc-js">
+Подводка
+</a>
+</li>
+<li class="navigation-flyout__subcategory-subcategories-item flex-align-vertical-center">
+<a href="https://www.clarins.ru/makiyazh/glaza/karandashi-dlya-glaz-623/" class="navigation-flyout__link navigation-flyout__subcategory-subcategories-item-link third-level-link-tc-js">
+Карандаши для глаз
+</a>
+</li>
+<li class="navigation-flyout__subcategory-subcategories-item flex-align-vertical-center">
+<a href="https://www.clarins.ru/makiyazh/glaza/tush-dlya-resnic-621/" class="navigation-flyout__link navigation-flyout__subcategory-subcategories-item-link third-level-link-tc-js">
+Тушь для ресниц
+</a>
+</li>
+<li class="navigation-flyout__subcategory-subcategories-item flex-align-vertical-center">
+<a href="https://www.clarins.ru/makiyazh/glaza/sredstva-dlya-brovej-624/" class="navigation-flyout__link navigation-flyout__subcategory-subcategories-item-link third-level-link-tc-js">
+Средства для бровей
+</a>
+</li>
+<li class="navigation-flyout__subcategory-subcategories-item flex-align-vertical-center">
+<a href="https://www.clarins.ru/makiyazh/glaza/fiksatory-626/" class="navigation-flyout__link navigation-flyout__subcategory-subcategories-item-link third-level-link-tc-js">
+Фиксаторы
+</a>
+</li>
+<li class="navigation-flyout__subcategory-subcategories-item flex-align-vertical-center">
+<a href="https://www.clarins.ru/makiyazh/glaza/sredstva-dlya-udaleniya-makiyazha-s-glaz-627/" class="navigation-flyout__link navigation-flyout__subcategory-subcategories-item-link third-level-link-tc-js">
+Средства для удаления макияжа с глаз
+</a>
+</li>
+</ul>
+<div class="navigation-flyout__highlights">
+<p class="navigation-flyout__highlights-title third-level-menu-item-title-js">
+Рекомендуем
+</p>
+<ul class="navigation-flyout__highlights-list navigation-nopadding third-level-menu-item-list-js">
+<li class="navigation-flyout__highlights-item third-level-link-tc-js">
+<a href="https://www.clarins.ru/bestsellers/makiyazh/glaza/" class="navigation-flyout__link">Бестселлеры: Глаза</a>
+</li>
+<li class="navigation-flyout__highlights-item third-level-link-tc-js">
+<a href="https://www.clarins.ru/eksklyuzivno-na-sajte-clarins/" class="navigation-flyout__link">Эксклюзивно на сайте Clarins</a>
+</li>
+<li class="navigation-flyout__highlights-item third-level-link-tc-js">
+<a href="https://www.clarins.ru/makyaj-online/" class="navigation-flyout__link">Макияж онлайн</a>
+</li>
+<li class="navigation-flyout__highlights-item third-level-link-tc-js">
+<a href="https://www.clarins.ru/crayon-khol-karandash-dlya-glaz-s-kistyu-0421091.html" class="navigation-flyout__link">Crayon Khôl Карандаш для глаз с кистью</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="navigation-flyout__subcategory subcategory-js third-level-menu-item-list-js">
+<p class="navigation-flyout__subcategory-title flex-align-vertical-center text-uppercase">
+<span class="third-level-menu-item-title-js" data-tc-category-id="630">
+Губы
+</span>
+</p>
+<a href="https://www.clarins.ru/makiyazh/guby-630/" class="navigation-flyout__subcategory-see-all navigation-flyout__link">
+<span>
+Показать все
+</span>
+</a>
+<div class="navigation-flyout__third-level display-block third-level-js">
+<ul class="navigation-flyout__subcategory-subcategories">
+<li class="navigation-flyout__subcategory-subcategories-item flex-align-vertical-center">
+<a href="https://www.clarins.ru/makiyazh/guby/kisti-637/" class="navigation-flyout__link navigation-flyout__subcategory-subcategories-item-link third-level-link-tc-js">
+ Кисти
+</a>
+</li>
+<li class="navigation-flyout__subcategory-subcategories-item flex-align-vertical-center">
+<a href="https://www.clarins.ru/makiyazh/guby/balzamy-dlya-gub-633/" class="navigation-flyout__link navigation-flyout__subcategory-subcategories-item-link third-level-link-tc-js">
+Бальзамы для губ
+</a>
+</li>
+<li class="navigation-flyout__subcategory-subcategories-item flex-align-vertical-center">
+<a href="https://www.clarins.ru/makiyazh/guby/karandashi-dlya-gub-634/" class="navigation-flyout__link navigation-flyout__subcategory-subcategories-item-link third-level-link-tc-js">
+Карандаши для губ
+</a>
+</li>
+<li class="navigation-flyout__subcategory-subcategories-item flex-align-vertical-center">
+<a href="https://www.clarins.ru/makiyazh/guby/pomady-631/" class="navigation-flyout__link navigation-flyout__subcategory-subcategories-item-link third-level-link-tc-js">
+Помады
+</a>
+</li>
+<li class="navigation-flyout__subcategory-subcategories-item flex-align-vertical-center">
+<a href="https://www.clarins.ru/makiyazh/guby/bleski-632/" class="navigation-flyout__link navigation-flyout__subcategory-subcategories-item-link third-level-link-tc-js">
+Блески
+</a>
+</li>
+<li class="navigation-flyout__subcategory-subcategories-item flex-align-vertical-center">
+<a href="https://www.clarins.ru/makiyazh/guby/maslo-dlya-gub-635/" class="navigation-flyout__link navigation-flyout__subcategory-subcategories-item-link third-level-link-tc-js">
+Масло для губ
+</a>
+</li>
+<li class="navigation-flyout__subcategory-subcategories-item flex-align-vertical-center">
+<a href="https://www.clarins.ru/makiyazh/guby/pigment-dlya-gub-636/" class="navigation-flyout__link navigation-flyout__subcategory-subcategories-item-link third-level-link-tc-js">
+Пигмент для губ
+</a>
+</li>
+</ul>
+<div class="navigation-flyout__highlights">
+<p class="navigation-flyout__highlights-title third-level-menu-item-title-js">
+Рекомендуем
+</p>
+<ul class="navigation-flyout__highlights-list navigation-nopadding third-level-menu-item-list-js">
+<li class="navigation-flyout__highlights-item third-level-link-tc-js">
+<a href="https://www.clarins.ru/bestsellers/makiyazh/gubi/" class="navigation-flyout__link">Бестселлеры: Губы</a>
+</li>
+<li class="navigation-flyout__highlights-item third-level-link-tc-js">
+<a href="https://www.clarins.ru/eksklyuzivno-na-sajte-clarins/" class="navigation-flyout__link">Эксклюзивно на сайте Clarins</a>
+</li>
+<li class="navigation-flyout__highlights-item third-level-link-tc-js">
+<a href="https://www.clarins.ru/mini-formaty/" class="navigation-flyout__link">Средства Clarins в мини-формате</a>
+</li>
+<li class="navigation-flyout__highlights-item third-level-link-tc-js">
+<a href="https://www.clarins.ru/poisk-pomady/" class="navigation-flyout__link">Поиск помады</a>
+</li>
+<li class="navigation-flyout__highlights-item third-level-link-tc-js">
+<a href="https://www.clarins.ru/natural-lip-perfector-blesk-dlya-gub-C080033198.html" class="navigation-flyout__link">Natural Lip Perfector Блеск для губ</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="navigation-flyout__bspot-wrapper">
+<div class="navigation-flyout__bspot">
+<div class="no-margin-megaMenu menu-category verticalAssetContainer menu-vertical panes-five-columns-block-desktop hamburger-hidden">
+<div class="panes-col-gutter">
+<a href="https://www.clarins.ru/makiyazh/glaza/tush-dlya-resnic-621/supra-lift-curl-mascara-tush-dlya-resnic-s-effektom-podkruchivaniya-i-obema-CS00355935.html">
+<img alt="" data-image="https://www.clarins.ru/on/demandware.static/-/Library-Sites-clarins-v3/ru_RU/dwcc41615e/MegaMenu/supra-lift-202x150.jpg" data-image-load-on="onload" title="" />
+<p class="promotionHeader">Макияж для&nbsp;ухода за&nbsp;кожей</p>
+<p class="promotionDescription">Тушь для&nbsp;ресниц с&nbsp;эффектом подкручивания и&nbsp;объема Supra Lift &amp;&nbsp;Curl Mascara</p>
+<span class="promotionLink">Подробнее</span></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<components-loader value="header/NavigationMenuItem"></components-loader>
+</i-navigation-menu-item>
+</li>
+<li class="cba-level1-category first-level-category-js ">
+<i-navigation-menu-item category-id="700">
+<a href="https://www.clarins.ru/gid-po-podarkam/" aria-label="Дарите красоту" class="cba-level-1-item text-uppercase first-level-link-js col-gutter ">
+<span>
+Дарите красоту
+</span>
+</a>
+<div class="cba-navigation-flyout cba-navigation-flyout--wide hidden level-2 panes-xLarge-block-desktop second-level-js">
+<div class="widepromo-vertical verticalAssetContainer widePane">
+
+
+
+<div class="dp-xmas-megamenu">
+
+<div class="dp-xmas-megamenu__wrapper">
+
+<a href="https://www.clarins.ru/darite-krasotu/nabory-730a/" class="dp-xmas-megamenu__item" target="_blank">
+<img src="https://www.clarins.ru/on/demandware.static/-/Library-Sites-clarins-v3/default/dw6a10b408/content/Christmas-2021/img/megamenu-xmas-box.png" alt="Новогодние наборы" />
+<span class="dp-xmas-megamenu__title">Новогодние наборы</span>
+<span class="dp-xmas-megamenu__link" style="width: 30%;">ПОДРОБНЕЕ</span>
+</a>
+
+
+
+<a href="https://www.clarins.ru/gid-po-podarkam/" class="dp-xmas-megamenu__item" target="_blank">
+<img src="https://www.clarins.ru/on/demandware.static/-/Library-Sites-clarins-v3/default/dwda6318e3/content/Christmas-2021/img/megamenu-finder-visual.png" alt="Гид по подаркам" />
+<span class="dp-xmas-megamenu__title">Гид по подаркам</span>
+ <span class="dp-xmas-megamenu__link" style="width: 30%;">ПОДРОБНЕЕ</span>
+</a>
+
+<a href="https://www.clarins.ru/e-podarochnyj-sertifikat" class="dp-xmas-megamenu__item" target="_blank">
+<img src="https://www.clarins.ru/on/demandware.static/-/Library-Sites-clarins-v3/ru_RU/dw4eec72a4/content/Christmas-2021/img/megamenu-gift-card.png" alt="Подарочный сертификат" />
+<span class="dp-xmas-megamenu__title">Подарочный сертификат</span>
+<span class="dp-xmas-megamenu__link" style="width: 30%;">ПОДРОБНЕЕ</span>
+</a>
+
+</div>
+</div>
+<style>
+    .dp-xmas-megamenu__wrapper {
+        display: flex;
+        justify-content: center;
+    }
+
+    .dp-xmas-megamenu__item {
+        display: flex;
+        max-width: 286px;
+        flex-basis: calc(25% - 10px);
+        flex-direction: column;
+        margin: 0 5px;
+        text-decoration: none;
+        color: #333;
+        cursor: pointer;
+        align-items: center;
+    }
+
+    .dp-xmas-megamenu__item img {
+        display: block;
+        width: 100%;
+        margin: 0 auto;
+        max-width: 286px;
+    }
+
+    .dp-xmas-megamenu__title {
+        font-size: 30px;
+        line-height: 1em;
+        font-family: ClarinsRegular, Clarins;
+        padding: 15px 0;
+        flex: 1;
+        text-align: center;
+    }
+
+    .dp-xmas-megamenu__link {
+        font-size: 11px;
+        line-height: 1em;
+        font-family: "Gotham SSm book A", "Gotham SSm book B", Helvetica, Arial, sans-serif;
+        border-bottom: 1px solid #d1d1d1;
+        text-transform: uppercase;
+        height: 1em;
+        flex-basis: 1em;
+    }
+
+    /*edit edit*/
+    @media screen and (max-width: 761px){
+        .dp-xmas-megamenu__title{
+            font-size: 13px;
+        }
+    }
+</style>
+
+
+
+</div>
+</div>
+<components-loader value="header/NavigationMenuItem"></components-loader>
+</i-navigation-menu-item>
+</li>
+<li class="cba-level1-category first-level-category-js ">
+<i-navigation-menu-item category-id="specialoffers">
+<a href="https://www.clarins.ru/promotions/" aria-label="Акции" class="cba-level-1-item text-uppercase first-level-link-js col-gutter ">
+<span>
+Акции
+</span>
+</a>
+<components-loader value="header/NavigationMenuItem"></components-loader>
+</i-navigation-menu-item>
+</li>
+<li class="cba-navigation-menu__divider"></li>
+<li class="cba-level1-category first-level-category-js ">
+<i-navigation-menu-item category-id="services-and-spa">
+<a href="https://www.clarins.ru/spa-i-servisy/" aria-label="Spa и сервисы" class="cba-level-1-item text-uppercase first-level-link-js col-gutter ">
+<span>
+Spa и сервисы
+</span>
+</a>
+<div class="cba-navigation-flyout hidden">
+<div class="navigation-flyout second-level-js">
+<div class="navigation-flyout__subcategories-wrapper">
+<div class="navigation-flyout__subcategories">
+<div class="navigation-flyout__subcategory subcategory-js third-level-menu-item-list-js">
+<p class="navigation-flyout__subcategory-title flex-align-vertical-center text-uppercase">
+<span class="third-level-menu-item-title-js" data-tc-category-id="1000">
+Все секреты красоты
+ </span>
+</p>
+<a href="https://www.clarins.ru/vse-sekrety-krasoty/" class="navigation-flyout__subcategory-see-all navigation-flyout__link">
+<span>
+Показать все
+</span>
+</a>
+<div class="navigation-flyout__third-level display-block third-level-js">
+<ul class="navigation-flyout__subcategory-subcategories">
+<li class="navigation-flyout__subcategory-subcategories-item flex-align-vertical-center">
+<a href="https://www.clarins.ru/Clarins-Mixologie.html" class="navigation-flyout__link navigation-flyout__subcategory-subcategories-item-link third-level-link-tc-js">
+Clarins Mixologie
+</a>
+</li>
+<li class="navigation-flyout__subcategory-subcategories-item flex-align-vertical-center">
+<a href="https://www.clarins.ru/spa-i-servisy/vse-sekrety-krasoty/clarinsmag.html" class="navigation-flyout__link navigation-flyout__subcategory-subcategories-item-link third-level-link-tc-js">
+Блог Clarinsmag
+</a>
+</li>
+<li class="navigation-flyout__subcategory-subcategories-item flex-align-vertical-center">
+<a href="https://www.clarins.ru/ochishcheniye-kozhi-litsa.html" class="navigation-flyout__link navigation-flyout__subcategory-subcategories-item-link third-level-link-tc-js">
+Очищение кожи лица
+</a>
+</li>
+<li class="navigation-flyout__subcategory-subcategories-item flex-align-vertical-center">
+<a href="https://www.clarins.ru/antivozrastnye-programmy-uhoda-3/" class="navigation-flyout__link navigation-flyout__subcategory-subcategories-item-link third-level-link-tc-js">
+Антивозрастной уход
+</a>
+</li>
+<li class="navigation-flyout__subcategory-subcategories-item flex-align-vertical-center">
+<a href="https://www.clarins.ru/potrebnosti.html" class="navigation-flyout__link navigation-flyout__subcategory-subcategories-item-link third-level-link-tc-js">
+Потребности кожи
+</a>
+</li>
+<li class="navigation-flyout__subcategory-subcategories-item flex-align-vertical-center">
+<a href="https://www.clarins.ru/maquillage-de-mariage.html" class="navigation-flyout__link navigation-flyout__subcategory-subcategories-item-link third-level-link-tc-js">
+Свадебный макияж
+</a>
+</li>
+<li class="navigation-flyout__subcategory-subcategories-item flex-align-vertical-center">
+<a href="https://www.clarins.ru/maquillage-de-soiree.html" class="navigation-flyout__link navigation-flyout__subcategory-subcategories-item-link third-level-link-tc-js">
+Вечерний макияж
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="navigation-flyout__subcategory subcategory-js third-level-menu-item-list-js">
+<p class="navigation-flyout__subcategory-title flex-align-vertical-center text-uppercase">
+<span class="third-level-menu-item-title-js" data-tc-category-id="exclusive-services">
+Подобрать средства
+</span>
+</p>
+<a href="https://www.clarins.ru/nos-services/podobrat-sredstva/" class="navigation-flyout__subcategory-see-all navigation-flyout__link">
+<span>
+Показать все
+</span>
+</a>
+<div class="navigation-flyout__third-level display-block third-level-js">
+<ul class="navigation-flyout__subcategory-subcategories">
+<li class="navigation-flyout__subcategory-subcategories-item flex-align-vertical-center">
+<a href="https://www.clarins.ru/clarins-online.html" class="navigation-flyout__link navigation-flyout__subcategory-subcategories-item-link third-level-link-tc-js">
+Консультация с экспертом
+</a>
+</li>
+<li class="navigation-flyout__subcategory-subcategories-item flex-align-vertical-center">
+<a href="https://www.clarins.ru/vasha-programma-uhoda/consultation-clarins.html" class="navigation-flyout__link navigation-flyout__subcategory-subcategories-item-link third-level-link-tc-js">
+Программа ухода для женщин
+</a>
+</li>
+<li class="navigation-flyout__subcategory-subcategories-item flex-align-vertical-center">
+<a href="https://www.clarins.ru/muzskaya-programma-uhoda/consultation-clarins-men.html" class="navigation-flyout__link navigation-flyout__subcategory-subcategories-item-link third-level-link-tc-js">
+Программа ухода для мужчин
+</a>
+</li>
+<li class="navigation-flyout__subcategory-subcategories-item flex-align-vertical-center">
+<a href="https://www.clarins.ru/gid-po-sivorotkam/" class="navigation-flyout__link navigation-flyout__subcategory-subcategories-item-link third-level-link-tc-js">
+Гид по сывороткам
+</a>
+</li>
+<li class="navigation-flyout__subcategory-subcategories-item flex-align-vertical-center">
+<a href="https://www.clarins.ru/mask-finder-2018.html" class="navigation-flyout__link navigation-flyout__subcategory-subcategories-item-link third-level-link-tc-js">
+Гид по маскам
+</a>
+</li>
+<li class="navigation-flyout__subcategory-subcategories-item flex-align-vertical-center">
+<a href="https://www.clarins.ru/gid-po-tonalnym-sredstvam/" class="navigation-flyout__link navigation-flyout__subcategory-subcategories-item-link third-level-link-tc-js">
+Гид по тональным средствам
+</a>
+</li>
+<li class="navigation-flyout__subcategory-subcategories-item flex-align-vertical-center">
+<a href="https://www.clarins.ru/poisk-pomady/" class="navigation-flyout__link navigation-flyout__subcategory-subcategories-item-link third-level-link-tc-js">
+Поиск помады
+</a>
+</li>
+<li class="navigation-flyout__subcategory-subcategories-item flex-align-vertical-center">
+<a href="https://www.clarins.ru/makyaj-online/" class="navigation-flyout__link navigation-flyout__subcategory-subcategories-item-link third-level-link-tc-js">
+Макияж онлайн
+</a>
+</li>
+<li class="navigation-flyout__subcategory-subcategories-item flex-align-vertical-center">
+<a href="https://www.clarins.ru/eye-finder/" class="navigation-flyout__link navigation-flyout__subcategory-subcategories-item-link third-level-link-tc-js">
+Гид по уходу за кожей вокруг глаз
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="navigation-flyout__subcategory subcategory-js third-level-menu-item-list-js">
+<p class="navigation-flyout__subcategory-title flex-align-vertical-center text-uppercase">
+<span class="third-level-menu-item-title-js" data-tc-category-id="universe-spa">
+Spa Clarins
+</span>
+</p>
+<a href="https://www.clarins.ru/spa/" class="navigation-flyout__subcategory-see-all navigation-flyout__link">
+<span>
+Показать все
+</span>
+</a>
+<div class="navigation-flyout__third-level display-block third-level-js">
+ <ul class="navigation-flyout__subcategory-subcategories">
+<li class="navigation-flyout__subcategory-subcategories-item flex-align-vertical-center">
+<a href="https://www.clarins.ru/spa/skinspa/" class="navigation-flyout__link navigation-flyout__subcategory-subcategories-item-link third-level-link-tc-js">
+Clarins SkinSpa
+</a>
+</li>
+<li class="navigation-flyout__subcategory-subcategories-item flex-align-vertical-center">
+<a href="https://www.clarins.ru/spa/programmy/" class="navigation-flyout__link navigation-flyout__subcategory-subcategories-item-link third-level-link-tc-js">
+Подобрать Spa-программу
+</a>
+</li>
+<li class="navigation-flyout__subcategory-subcategories-item flex-align-vertical-center">
+<a href="https://www.clarins.ru/spa/spa-by-clarins/" class="navigation-flyout__link navigation-flyout__subcategory-subcategories-item-link third-level-link-tc-js">
+Spa by Clarins
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="navigation-flyout__bspot-wrapper">
+<div class="navigation-flyout__bspot">
+<div class="no-margin-megaMenu menu-category verticalAssetContainer menu-vertical panes-five-columns-block-desktop hamburger-hidden">
+<div class="panes-col-gutter">
+<a href="https://www.clarins.ru/clarins-online.html">
+<img data-image="https://www.clarins.ru/on/demandware.static/-/Library-Sites-clarins-v3/ru_RU/dw8ebc28f3/MegaMenu/MMB-1000.jpg" data-image-load-on="onload" alt="" />
+<p class="promotionHeader">Консультация с экспертом</p>
+<p class="promotionDescription">Пройдите бесплатную онлайн видеоконсультацию с экспертом Clarins!</p>
+<span class="promotionLink">ПРОЙТИ ТЕСТ</span></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<components-loader value="header/NavigationMenuItem"></components-loader>
+</i-navigation-menu-item>
+</li>
+<li class="cba-level1-category first-level-category-js ">
+<i-navigation-menu-item category-id="clarins-universe">
+<a href="https://www.clarins.ru/mir-clarins/" aria-label="Мир Clarins" class="cba-level-1-item text-uppercase first-level-link-js col-gutter ">
+<span>
+Мир Clarins
+</span>
+</a>
+<div class="cba-navigation-flyout hidden">
+<div class="navigation-flyout second-level-js">
+<div class="navigation-flyout__subcategories-wrapper">
+<div class="navigation-flyout__subcategories">
+<div class="navigation-flyout__subcategory subcategory-js third-level-menu-item-list-js">
+<p class="navigation-flyout__subcategory-title flex-align-vertical-center text-uppercase">
+<span class="third-level-menu-item-title-js" data-tc-category-id="inside-clarins">
+Кто мы?
+</span>
+</p>
+<a href="https://www.clarins.ru/mir-clarins/" class="navigation-flyout__subcategory-see-all navigation-flyout__link">
+<span>
+Показать все
+</span>
+</a>
+<div class="navigation-flyout__third-level display-block third-level-js">
+<ul class="navigation-flyout__subcategory-subcategories">
+<li class="navigation-flyout__subcategory-subcategories-item flex-align-vertical-center">
+<a href="https://www.clarins.ru/live-beautifully-1.html/" class="navigation-flyout__link navigation-flyout__subcategory-subcategories-item-link third-level-link-tc-js">
+Live Beautifully
+</a>
+</li>
+<li class="navigation-flyout__subcategory-subcategories-item flex-align-vertical-center">
+<a href="https://www.clarins.ru/responsible-beauty-2021.html" class="navigation-flyout__link navigation-flyout__subcategory-subcategories-item-link third-level-link-tc-js">
+Ответственная красота
+</a>
+</li>
+<li class="navigation-flyout__subcategory-subcategories-item flex-align-vertical-center">
+<a href="https://www.clarins.ru/mir-clarins/10-prichin-doverit-clarins-zabotu-o-vashej-krasote/" class="navigation-flyout__link navigation-flyout__subcategory-subcategories-item-link third-level-link-tc-js">
+10 причин доверить Clarins заботу о вашей красоте
+</a>
+</li>
+</ul>
+<div class="navigation-flyout__highlights">
+<p class="navigation-flyout__highlights-title third-level-menu-item-title-js">
+Рекомендуем
+</p>
+<ul class="navigation-flyout__highlights-list navigation-nopadding third-level-menu-item-list-js">
+<li class="navigation-flyout__highlights-item third-level-link-tc-js">
+<a href="https://www.clarins.ru/bestsellers/lico/" class="navigation-flyout__link">Бестселлеры: Лицо </a>
+</li>
+<li class="navigation-flyout__highlights-item third-level-link-tc-js">
+<a href="https://www.clarins.ru/novinki/" class="navigation-flyout__link">Новинки</a>
+</li>
+<li class="navigation-flyout__highlights-item third-level-link-tc-js">
+<a href="https://www.clarins.ru/eksklyuzivno-na-sajte-clarins/" class="navigation-flyout__link">Эксклюзивно на сайте Clarins</a>
+</li>
+<li class="navigation-flyout__highlights-item third-level-link-tc-js">
+<a href="https://www.clarins.ru/personalnaya-programma-uhoda?gsid=BC_Face_RU" class="navigation-flyout__link">Ваша программа ухода</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="navigation-flyout__subcategory subcategory-js third-level-menu-item-list-js">
+<p class="navigation-flyout__subcategory-title flex-align-vertical-center text-uppercase">
+<span class="third-level-menu-item-title-js" data-tc-category-id="clarins-commitments">
+Наши принципы устойчивого развития
+</span>
+</p>
+<a href="https://www.clarins.ru/mir-clarins/nashi-principy-ustoychivogo-razvitya/" class="navigation-flyout__subcategory-see-all navigation-flyout__link">
+<span>
+Показать все
+</span>
+</a>
+<div class="navigation-flyout__third-level display-block third-level-js">
+<ul class="navigation-flyout__subcategory-subcategories">
+<li class="navigation-flyout__subcategory-subcategories-item flex-align-vertical-center">
+<a href="https://www.clarins.ru/mir-clarins/nashi-principy-ustoychivogo-razvitya/solar-impulse-i-clarins.html" class="navigation-flyout__link navigation-flyout__subcategory-subcategories-item-link third-level-link-tc-js">
+Solar Impulse
+</a>
+</li>
+<li class="navigation-flyout__subcategory-subcategories-item flex-align-vertical-center">
+<a href="https://www.clarins.ru/mir-clarins/nashi-principy-ustoychivogo-razvitya/clarins-i-arthritis/" class="navigation-flyout__link navigation-flyout__subcategory-subcategories-item-link third-level-link-tc-js">
+Clarins и фонд Arthritis
+</a>
+</li>
+<li class="navigation-flyout__subcategory-subcategories-item flex-align-vertical-center">
+<a href="https://www.clarins.ru/mir-clarins/nashi-principy-ustoychivogo-razvitya/ecologuichnye-upakovki/" class="navigation-flyout__link navigation-flyout__subcategory-subcategories-item-link third-level-link-tc-js">
+Plastic Odysee
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="navigation-flyout__subcategory subcategory-js third-level-menu-item-list-js">
+<p class="navigation-flyout__subcategory-title flex-align-vertical-center text-uppercase">
+<span class="third-level-menu-item-title-js" data-tc-category-id="ingredients">
+Ингредиенты
+</span>
+</p>
+<a href="https://www.clarins.ru/search?fdid=active-ingredients" class="navigation-flyout__subcategory-see-all navigation-flyout__link">
+<span>
+Показать все
+</span>
+</a>
+<div class="navigation-flyout__third-level display-block third-level-js">
+<ul class="navigation-flyout__subcategory-subcategories">
+<li class="navigation-flyout__subcategory-subcategories-item flex-align-vertical-center">
+<a href="https://www.clarins.ru/mir-clarins/nashi-principy-ustoychivogo-razvitya/ecologuichnye-ingredienty/" class="navigation-flyout__link navigation-flyout__subcategory-subcategories-item-link third-level-link-tc-js">
+Экологичные ингредиенты
+</a>
+</li>
+<li class="navigation-flyout__subcategory-subcategories-item flex-align-vertical-center">
+<a href="https://www.clarins.ru/mir-clarins/opyt-i-innovatsii/" class="navigation-flyout__link navigation-flyout__subcategory-subcategories-item-link third-level-link-tc-js">
+Опыт и инновации
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="navigation-flyout__bspot-wrapper">
+<div class="navigation-flyout__bspot">
+<div class="menu-category verticalAssetContainer menu-vertical panes-five-columns-block-desktop hamburger-hidden" style="margin-top: 0;">
+<div>
+<a href="https://www.clarins.ru/live-beautifully-1.html/">
+<img alt="Live Beautifully" data-image="https://www.clarins.ru/on/demandware.static/-/Library-Sites-clarins-v3/ru_RU/dwc4ff663f/1-Clarins/2021/cba-mmbspot-clarins-universe.jpg" data-image-load-on="onload" src="https://www.clarins.ru/on/demandware.static/-/Library-Sites-clarins-v3/default/dw6108d469/images/megamenu-placeholder.gif">
+<p class="promotionHeader">Live Beautifully</p>
+<p class="promotionDescription">Мы верим в то, что красота начинается изнутри</p>
+<span class="promotionLink">Подробнее</span>
+</img>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<components-loader value="header/NavigationMenuItem"></components-loader>
+</i-navigation-menu-item>
+</li>
+</ul>
+<i-navigation-tagging>
+<components-loader value="header/NavigationTagging"></components-loader>
+</i-navigation-tagging>
+<components-loader value="header/NavigationMenu"></components-loader>
+</i-navigation-menu>
+</div>
+</nav>
+<div class="page-dimout-flyout hidden"></div>
+<components-loader value="generic/SvgIcon"></components-loader>
+<components-loader value="layout/Navigation"></components-loader>
+</i-navigation>
+<script type="text/javascript"><!--
+		document.onreadystatechange = function () {
+			if (document.readyState === 'interactive') {
+				var navigationWrapper = document.querySelector('i-navigation-wrapper');
+				var navigationWrapperHeight = navigationWrapper ? navigationWrapper.offsetHeight : 0;
+				var offerBumperToggle = document.querySelector('.offer-bumper-toggle');
+				var offerBumperToggleHeight = offerBumperToggle ? offerBumperToggle.offsetHeight : 0;
+				var offerBumperHeight = 0;
+				var offerBumperPlaceholder = document.querySelector('.offerbumper-loader:not(.hide-loader)');
+				if (offerBumperPlaceholder) { //offer bumper not loaded
+					offerBumperHeight = offerBumperPlaceholder.offsetHeight;
+				} else { //offer bumper is loaded
+					var offerBumperContentList = document.querySelectorAll('.offer-bumper-content');
+					offerBumperHeight = offerBumperContentList.length > 0 ? Math.max(...Array.from(offerBumperContentList).map((el) => {return el['offsetHeight']})) : 0;
+				}
+
+				var navigationHeight = navigationWrapperHeight + offerBumperHeight - offerBumperToggleHeight;
+				document.querySelector('#wrapper').style.paddingTop = navigationHeight + 'px';
+			}
+		}
+	//--></script>
+<div class="offerbumper-loader component-loader" data-static-loader="false">
+<div class="carousel-wrapper bumper-wrapper horizontal">
+<button class="bumper-section__controls-prev horizontal tns-prev hide" aria-label="Prev" type="button" tabindex="-1">
+<i-svg-icon class="display-block" filename="arrow-left-black">
+</i-svg-icon>
+</button>
+<i-slider items='1' class='offerbumper' wrapper='div' items-view-tablet='1' items-view-desktop='1' nav='false' rewind='true' autoplay='true' touch='false' prev-button='.bumper-section__controls-prev' next-button='.bumper-section__controls-next' stop-button='false' autoplay-timeout='5000' play-pause-key='carousel:control:play' custom-accessibility='true'>
+<div horizontal class="">
+<i-offer-bumper component-name="offerbumper" manual-loader="true">
+<div class="offer-bumper">
+<div class="offer-bumper-content text-center">
+<div class="offer-bumper-content__wrapper">
+<i-toggle-state state-key="header:offerbumper:open" class="offer-bumper-watch-more offer-bumper-content__toggle">
+<span class="offer-bumper-message" tabindex="0">
+<b>Уважаемые клиенты,</b> возможно увеличение сроков доставки...
+</span>
+<div class="offer-bumper-readmore" tabindex="0">
+<span class="offer-bumper-more--button">Подробнее</span>
+<span class="offer-bumper-more--less text-underline hidden">Закрыть</span>
+</div>
+</i-toggle-state>
+</div>
+<div class="offer-bumper-close offer-bumper-close-js" tabindex="0" aria-label="Close">
+<i-svg-icon filename="transparent-cross-icon" class="cross-grey"></i-svg-icon>
+</div>
+</div>
+</div>
+<i-toggle-state-watcher state-key="header:offerbumper:open" effect="expand" class="hide">
+<style>
+    .offer-bumper-toggle .body-content {
+        display: flex;
+    }
+    .offer-bumper-toggle--image .left-img {
+        float: right;
+        padding-right: 30px;
+    }
+    @media only screen and (min-width: 600px) {
+        .offer-bumper-toggle .body-content .offer-bumper-toggle--image {
+            width: 50%;
+        }
+ 
+        .offer-bumper-toggle .body-content .offer-bumper-toggle--text {
+            padding-right: 20%;
+            width: 50%;
+            text-align: left;
+        }
+    }
+    .offer-bumper-toggle .readmore-asset {
+        width: 100%;
+        display: block
+    }
+    .offer-bumper-toggle .offer-bumper-toggle--badge {
+        font-size: 11px;
+        font-weight: 500;
+        letter-spacing: 0.22px;
+        margin-bottom: 15px;
+        text-align: center;
+        color: #ba0c2f;
+        text-align: left;
+        font-weight: bold;
+    }
+    .offer-bumper-toggle .offer-bumper-toggle--title {
+        font-size: 34px;
+        letter-spacing: 0.44px;
+        line-height: 40px;
+        font-weight: normal;
+        margin-bottom: 10px;
+    }
+    .offer-bumper-toggle .bumper-attributes {
+        padding: 20px;
+    }
+    .offer-bumper-toggle .bumper-attributes li {
+        list-style-type: disc;
+    }
+    .offer-bumper-toggle .attribute-title {
+        font-weight: bold;
+    }
+    .offer-bumper-toggle .bumper-bottom {
+        font-size: 14px;
+        font-weight: normal;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: normal;
+        letter-spacing: normal;
+        color: #333333;
+        margin-bottom: 20px;
+    }
+    .offer-bumper-toggle .bumper-bottom a {
+        color: #ba0c2f
+    }
+	.offer-bumper-toggle--subtitle
+	{
+		font-size:16px;
+		font-weight: normal;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.3;
+        letter-spacing: normal;
+	}
+	.offer-bumper-watch-more.active .offer-bumper-more--less
+	{
+		text-decoration: none;
+	}
+.offer-bumper-readmore{
+    text-align:center;
+    margin:20px 0px 21px 10px;
+}
+    @media only screen and (max-width: 600px) {
+        .offer-bumper-toggle .body-content {
+            display: flex;
+            flex-direction: column;
+        }
+        .offer-bumper-toggle .offer-bumper-toggle--image, .offer-bumper-toggle .offer-bumper-toggle--image img, .offer-bumper-toggle .offer-bumper-toggle--text {
+            width: 100%;
+        }
+        .offer-bumper-toggle .offer-bumper-toggle--image .left-img, .offer-bumper-toggle .offer-bumper-toggle--text {
+            float: none;
+            padding: 0;
+        }
+		.offer-bumper-readmore
+		{
+			margin:0;
+		}
+    }
+
+</style>
+<div class="offer-bumper-toggle">
+<div class="body-content" tabindex="0">
+<div class="offer-bumper-toggle--image">
+<img src="https://www.clarins.ru/on/demandware.static/-/Library-Sites-clarins-v3/ru_RU/dw1a7bc2a5/otherpages-1/informing.jpg" data-src="https://www.clarins.ru/on/demandware.static/-/Library-Sites-clarins-v3/ru_RU/dw1a7bc2a5/otherpages-1/informing.jpg" class="left-img" />
+</div>
+<div class="offer-bumper-toggle--text">
+<div class="offer-bumper-toggle--title display-inline-block">Уважаемые клиенты,</div>
+<div class="offer-bumper-toggle--subtitle">Акция "Новогодний бутик" в&nbsp;интернет-магазине Clarins.ru пользуется большой популярностью, возможно увеличение сроков доставки.<br>
+В&nbsp;период с&nbsp;7&nbsp; по&nbsp;13&nbsp;декабря все&nbsp;заказы интернет-магазин подтверждает по&nbsp;электронной почте и смс.<br>
+Если у&nbsp;вас&nbsp;возникли вопросы по&nbsp;заказам или&nbsp;пожелания по&nbsp;доставке заказов, вы&nbsp;можете позвонить по телефонам <nobr>8-495-775-06-06,</nobr> <nobr>8-800-770-06-06</nobr> или&nbsp;написать на&nbsp;электронную почту <nobr>order@russia.clarins.com.</nobr>
+</div>
+</div>
+</div>
+<i-toggle-state state-key="header:offerbumper:open" class="offer-bumper-readmore readmore-asset active text-underline text-uppercase">
+<span class="offer-bumper-more--close text-underline" tabindex="0" rolle="button">Закрыть</span>
+</i-toggle-state>
+</div>
+</i-toggle-state-watcher>
+<components-loader value="header/OfferBumper"></components-loader>
+</i-offer-bumper>
+ </div>
+<div horizontal class="">
+<i-offer-bumper component-name="offerbumper" manual-loader="true">
+<div class="offer-bumper">
+<div class="offer-bumper-content text-center">
+<div class="offer-bumper-content__wrapper">
+<div class="offer-bumper-watch-more offer-bumper-content__simple">
+<a href="https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/Account-Show">
+<span class="offer-bumper-message"> Войдите в аккаунт, чтобы узнать своё уникальное предложение!</span>
+<div class="offer-bumper-readmore">
+<span class="offer-bumper-more--button">Войти</span>
+</div>
+</a>
+</div>
+</div>
+<div class="offer-bumper-close offer-bumper-close-js" tabindex="0" aria-label="Close">
+<i-svg-icon filename="transparent-cross-icon" class="cross-grey"></i-svg-icon>
+</div>
+</div>
+</div>
+<components-loader value="header/OfferBumper"></components-loader>
+</i-offer-bumper>
+</div>
+<div horizontal class="">
+<i-offer-bumper component-name="offerbumper" manual-loader="true">
+<div class="offer-bumper">
+<div class="offer-bumper-content text-center">
+<div class="offer-bumper-content__wrapper">
+<i-toggle-state state-key="header:offerbumper:open" class="offer-bumper-watch-more offer-bumper-content__toggle">
+<span class="offer-bumper-message" tabindex="0">
+Бьюти-набор: 3&nbsp;полноразмерных средства за <b>2790</b> руб.!
+</span>
+<div class="offer-bumper-readmore" tabindex="0">
+<span class="offer-bumper-more--button">🛈Подробнее</span>
+<span class="offer-bumper-more--less text-underline hidden">Закрыть</span>
+</div>
+</i-toggle-state>
+</div>
+<div class="offer-bumper-close offer-bumper-close-js" tabindex="0" aria-label="Close">
+<i-svg-icon filename="transparent-cross-icon" class="cross-grey"></i-svg-icon>
+</div>
+</div>
+</div>
+<i-toggle-state-watcher state-key="header:offerbumper:open" effect="expand" class="hide">
+<style>
+    .offer-bumper-toggle .body-content {
+        display: flex;
+    }
+    .offer-bumper-toggle--image .left-img {
+        float: right;
+        padding-right: 30px;
+    }
+    @media only screen and (min-width: 600px) {
+        .offer-bumper-toggle .body-content .offer-bumper-toggle--image {
+            width: 50%;
+        }
+ 
+        .offer-bumper-toggle .body-content .offer-bumper-toggle--text {
+            padding-right: 20%;
+            width: 50%;
+            text-align: left;
+        }
+    }
+    .offer-bumper-toggle .readmore-asset {
+        width: 100%;
+        display: block
+    }
+    .offer-bumper-toggle .offer-bumper-toggle--badge {
+        font-size: 11px;
+        font-weight: 500;
+        letter-spacing: 0.22px;
+        margin-bottom: 15px;
+        text-align: center;
+        color: #ba0c2f;
+        text-align: left;
+        font-weight: bold;
+    }
+    .offer-bumper-toggle .offer-bumper-toggle--title {
+        font-size: 34px;
+        letter-spacing: 0.44px;
+        line-height: 40px;
+        font-weight: normal;
+        margin-bottom: 10px;
+    }
+    .offer-bumper-toggle .bumper-attributes {
+        padding: 20px;
+    }
+    .offer-bumper-toggle .bumper-attributes li {
+        list-style-type: disc;
+    }
+    .offer-bumper-toggle .attribute-title {
+        font-weight: bold;
+    }
+    .offer-bumper-toggle .bumper-bottom {
+        font-size: 14px;
+        font-weight: normal;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: normal;
+        letter-spacing: normal;
+        color: #333333;
+        margin-bottom: 20px;
+    }
+    .offer-bumper-toggle .bumper-bottom a {
+        color: #ba0c2f
+    }
+	.offer-bumper-toggle--subtitle
+	{
+		font-size:16px;
+		font-weight: normal;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.3;
+        letter-spacing: normal;
+	}
+	.offer-bumper-watch-more.active .offer-bumper-more--less
+	{
+		text-decoration: none;
+	}
+.offer-bumper-readmore{
+    text-align:center;
+    margin:20px 0px 21px 10px;
+}
+    @media only screen and (max-width: 600px) {
+        .offer-bumper-toggle .body-content {
+            display: flex;
+            flex-direction: column;
+        }
+        .offer-bumper-toggle .offer-bumper-toggle--image, .offer-bumper-toggle .offer-bumper-toggle--image img, .offer-bumper-toggle .offer-bumper-toggle--text {
+            width: 100%;
+        }
+        .offer-bumper-toggle .offer-bumper-toggle--image .left-img, .offer-bumper-toggle .offer-bumper-toggle--text {
+            float: none;
+            padding: 0;
+        }
+		.offer-bumper-readmore
+		{
+			margin:0;
+		}
+    }
+
+</style>
+<div class="offer-bumper-toggle">
+<div class="body-content" tabindex="0">
+<div class="offer-bumper-toggle--image">
+<img src="https://www.clarins.ru/on/demandware.static/-/Library-Sites-clarins-v3/ru_RU/dw5dd142c4/otherpages-1/2021-winter-vinity-kit.jpg" data-src="https://www.clarins.ru/on/demandware.static/-/Library-Sites-clarins-v3/ru_RU/dw5dd142c4/otherpages-1/2021-winter-vinity-kit.jpg" class="left-img" />
+</div>
+<div class="offer-bumper-toggle--text">
+<div class="offer-bumper-toggle--title display-inline-block">Лимитированный <nobr>бьюти-набор</nobr>!</nobr></div>
+<div class="offer-bumper-toggle--subtitle">Соберите косметичку c&nbsp;3&nbsp;полноразмерными средствами макияжа на&nbsp;выбор ценностью до&nbsp;9300&nbsp;рублей по&nbsp;специальной цене – <b>2790 руб</b>.<br><br></nobr>
+</div>
+<div class="bumper-bottom"><a href="https://www.clarins.ru/vash-beauty-nabor">КУПИТЬ</a></div>
+</div>
+</div>
+<i-toggle-state state-key="header:offerbumper:open" class="offer-bumper-readmore readmore-asset active text-underline text-uppercase">
+<span class="offer-bumper-more--close text-underline" tabindex="0" rolle="button">Закрыть</span>
+</i-toggle-state>
+</div>
+</i-toggle-state-watcher>
+<components-loader value="header/OfferBumper"></components-loader>
+</i-offer-bumper>
+</div>
+<div horizontal class="">
+<i-offer-bumper component-name="offerbumper" manual-loader="true">
+<div class="offer-bumper">
+<div class="offer-bumper-content text-center">
+<div class="offer-bumper-content__wrapper">
+<div class="offer-bumper-watch-more offer-bumper-content__simple">
+<a href="https://www.clarins.ru/wow-predlozheniya-wow-special-offer/">
+<span class="offer-bumper-message">Специальное предложение на ваши любимые средства!</span>
+<div class="offer-bumper-readmore">
+<span class="offer-bumper-more--button">За покупками</span>
+</div>
+</a>
+</div>
+</div>
+<div class="offer-bumper-close offer-bumper-close-js" tabindex="0" aria-label="Close">
+<i-svg-icon filename="transparent-cross-icon" class="cross-grey"></i-svg-icon>
+</div>
+</div>
+</div>
+<components-loader value="header/OfferBumper"></components-loader>
+</i-offer-bumper>
+</div>
+</i-slider>
+<i-toggle-state-watcher state-key="header:offerbumper:open" effect="expand" class="hide">
+<div class="page-dimout-slider"></div>
+</i-toggle-state-watcher>
+<components-loader value="generic/Slider"></components-loader>
+<button class="bumper-section__controls-next horizontal tns-next hide" aria-label="Next" type="button" tabindex="-1">
+<i-svg-icon class="display-block" filename="arrow-right-black">
+</i-svg-icon>
+</button>
+</div>
+</div>
+<components-loader value="header/NavigationWrapper"></components-loader>
+</i-navigation-wrapper>
+<div id="wrapper" class="pt_wrapper pt_storefront ">
+<div id="main" role="main" class="main-homepage homepage-tc-js">
+<div class="homepage-hero-content-wrapper">
+<div class="html-slot-container">
+<div class="wrapper-aspots-2020">
+<div class="row1">
+<div class="content-asset">
+<style>
+  .blocktext-responsive-mobile{
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 25px;
+  }
+  @media only screen 
+and (min-device-width : 375px) 
+and (max-device-width : 667px) 
+and (orientation : portrait){
+  .css-fix{
+    margin-left: -447px;
+  }
+}
+
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px) 
+and (orientation : portrait){
+  .css-fix{
+    transform: translateX(-255px);
+  }
+}
+</style>
+<article class="aspot major A-Spot-Main">
+<a href="https://www.clarins.ru/promotions/">
+<figure>
+<img src="https://www.clarins.ru/on/demandware.static/-/Library-Sites-clarins-v3/ru_RU/dw49037be0/content/Aspot/Private-Sale-AspotMajor.gif" alt="Public sale">
+</figure>
+<div class="blocktext dflex-mobile">
+
+<div class="blocktext-responsive-mobile">
+<h2 class="Title"><small></h2>
+<p class="Text"><strong>Добро пожаловать</strong> <br><br><b><span style="color:#B22222;"> <span style="font-size: 25px;">в Новогодний бутик!</span></span></b><br><br>
+Новогоднее волшебство начинается уже сейчас. Только 7 дней на Clarins.ru действует праздничное предложение:<br>
+<strong>-40% на все!*</strong>
+</p>
+<div class="no-margin">
+<span class="btn-Aspot">ЗА ПОКУПКАМИ</span>
+</div>
+</div>
+</div>
+</a>
+</article>
+</div> 
+
+</div>
+<div class="row2 d-flex">
+<div class="content-asset">
+<article class="aspot minor A-Spot-Secondary">
+<a href="https://www.clarins.ru/wow-predlozheniya-wow-special-offer/" data-tc-content="Wow NY Sales" data-tc-event="clickMainPush" data-tc-location="A2">
+<figure>
+<img src="https://www.clarins.ru/on/demandware.static/-/Library-Sites-clarins-v3/ru_RU/dw961fd744/content/Aspot/794-220-wow-new-year-Minor-Aspot.jpg" alt="Wow Sales" />
+</figure>
+<div class="blocktext">
+<div class="content-minor-aspot">
+
+<h2 class="Title">WOW-предложения</h2>
+<p class="Text">
+Найдите любимые средства в разделе<br>специальных цен!
+</p>
+<div class="no-margin">
+<span class="btn-Aspot">НАЧАТЬ ПОКУПКИ</span>
+</div>
+</div>
+</div>
+</a>
+</article>
+</div> 
+
+<div class="content-asset">
+<article class="aspot minor A-Spot-Secondary">
+<a href="https://www.clarins.ru/novogodnie-chudesa.html#koleso-fortuny" data-tc-content="колесо чудес" data-tc-event="clickMainPush" data-tc-location="A2">
+<figure>
+<img src="https://www.clarins.ru/on/demandware.static/-/Library-Sites-clarins-v3/ru_RU/dw3ce5941c/content/Aspot/wonder-wheel-Aspot-Minor.jpg" alt="clarinsmag" />
+</figure>
+<div class="blocktext">
+<div class="content-minor-aspot">
+
+<h2 class="Title">Время новогодних чудес</h2>
+<p class="Text">Крутите волшебное колесо чудес и&nbsp;получайте подарки!
+</p>
+<div class="no-margin">
+<span class="btn-Aspot">ПОДРОБНЕЕ</span>
+</div>
+</div>
+</div>
+</a>
+</article>
+</div> 
+
+</div>
+</div>
+</div>
+</div>
+<link href="https://www.clarins.ru/on/demandware.static/-/Library-Sites-clarins-v3/ru_RU/v1639290511449/css/customRU.css" type="text/css" rel="stylesheet" />
+<div class="row homepage-reassurance homepage-reassurance_bis">
+<hr />
+<h2>НАШИ ПРЕИМУЩЕСТВА</h2>
+<div class="col col-3-desktop col-3-tablet col-3-mobile">
+<a href="https://www.clarins.ru/pomoshch.html?question=kak-s-nami-sviazatsia" id="homepage-reassurance-1">
+<span class="picto"></span>
+<span class="visibility-hidden" id="homepage-reassurance-1-hover"></span>
+<div class="reassurance-title">
+<p><strong>Контакты</strong></p>
+</div>
+</a>
+</div>
+<div class="col col-3-desktop col-3-tablet col-3-mobile">
+<a href="https://www.clarins.ru/probnik/" id="homepage-reassurance-2">
+<span class="picto"></span>
+<span class="visibility-hidden" id="homepage-reassurance-2-hover"></span>
+<div class="reassurance-title">
+<p><strong>Пробники</strong></p>
+<p class="reassurance-subtitle">с каждым заказом</p>
+</div>
+</a>
+</div>
+<div class="col col-3-desktop col-3-tablet col-3-mobile">
+<a href="https://www.clarins.ru/online-reward-program.html" id="homepage-reassurance-3">
+<span class="picto"></span>
+<span class="visibility-hidden" id="homepage-reassurance-3-hover"></span>
+<div class="reassurance-title">
+<p><strong>Программа</strong></p>
+<p class="reassurance-subtitle">лояльности</p>
+</div>
+</a>
+</div>
+<div class="col col-3-desktop col-3-tablet col-3-mobile">
+<a href="https://www.clarins.ru/eksklyuzivno-na-sajte-clarins-online-exclusives/" id="homepage-reassurance-4">
+<span class="picto"></span>
+<span class="visibility-hidden" id="homepage-reassurance-4-hover"></span>
+<div class="reassurance-title">
+<p><strong> Эксклюзивно</strong></p>
+<p class="reassurance-subtitle">на сайте Clarins</p>
+</div>
+</a>
+</div>
+</div>
+<div class="html-slot-container">
+<div class="section-title-separator-wrapper row">
+<div class="col col-gutter col-12-desktop col-12-tablet col-6-mobile section-title-separator-container">
+<hr class="section-top-left-hr">
+<h2 class="section-title-text text-center text-uppercase">
+ОТКРОЙТЕ ДЛЯ СЕБЯ МИР КРАСОТЫ CLARINS
+</h2>
+<hr class="section-top-right-hr">
+</div>
+</div>
+<div class="row homepage-product-categories text-center text-uppercase">
+<div class="col col-gutter col-3-desktop col-3-tablet col-3-mobile">
+<a class="homepage-category-content" href="https://www.clarins.ru/uhod-za-kozhei/uhod-za-litsom/200/">
+<div class="homepage-category-img-container">
+<img class="homepage-category-img" src="https://www.clarins.ru/on/demandware.static/-/Sites/ru_RU/dweceb3ac8/1-Clarins/00-HTML-Elements/ShopSpot-placeholder.gif" data-image="https://www.clarins.ru/on/demandware.static/-/Sites/ru_RU/dwd36e22aa/1-Clarins/00-HTML-Elements/2021_HOLIDAYS_Visage_ShopSlot-260x300-NewHP_1404.jpg" data-image-load-on="onload" alt="ЛИЦО" />
+</div>
+<h3>ЛИЦО</h3>
+<p class="text-link text-underline">НАЧАТЬ ПОКУПКИ</p>
+</a>
+</div>
+<div class="col col-gutter col-3-desktop col-3-tablet col-3-mobile">
+<a class="homepage-category-content" href="https://www.clarins.ru/makiyazh-600/">
+<div class="homepage-category-img-container">
+<img class="homepage-category-img" src="https://www.clarins.ru/on/demandware.static/-/Sites/ru_RU/dweceb3ac8/1-Clarins/00-HTML-Elements/ShopSpot-placeholder.gif" data-image="https://www.clarins.ru/on/demandware.static/-/Sites/ru_RU/dwe4807df5/1-Clarins/00-HTML-Elements/2021_HOLIDAYS_Maquillage_ShopSlot-260x300-NewHP_1404.jpg" data-image-load-on="onload" alt="МАКИЯЖ" />
+</div>
+<h3>МАКИЯЖ</h3>
+<p class="text-link text-underline">НАЧАТЬ ПОКУПКИ</p>
+</a>
+</div>
+<div class="col col-gutter col-3-desktop col-3-tablet col-3-mobile">
+<a class="homepage-category-content" href="https://www.clarins.ru/uhod-za-kozhei/uhod-za-telom/300/">
+<div class="homepage-category-img-container">
+<img class="homepage-category-img" src="https://www.clarins.ru/on/demandware.static/-/Sites/ru_RU/dweceb3ac8/1-Clarins/00-HTML-Elements/ShopSpot-placeholder.gif" data-image="https://www.clarins.ru/on/demandware.static/-/Sites/ru_RU/dw6ef74f14/1-Clarins/00-HTML-Elements/2021_HOLIDAYS_Corps_ShopSlot-260x300-NewHP_1404.jpg" data-image-load-on="onload" alt="ТЕЛО" />
+</div>
+<h3>ТЕЛО</h3>
+<p class="text-link text-underline">НАЧАТЬ ПОКУПКИ</p>
+</a>
+</div>
+<div class="col col-gutter col-3-desktop col-3-tablet col-3-mobile">
+<a class="homepage-category-content" href="https://www.clarins.ru/uhod-za-kozhej/dlya-muzhchin-500/">
+<div class="homepage-category-img-container">
+<img class="homepage-category-img" src="https://www.clarins.ru/on/demandware.static/-/Sites/ru_RU/dweceb3ac8/1-Clarins/00-HTML-Elements/ShopSpot-placeholder.gif" data-image="https://www.clarins.ru/on/demandware.static/-/Sites/ru_RU/dw445d76a8/1-Clarins/00-HTML-Elements/2021_HOLIDAYS_Homme_ShopSlot-260x300-NewHP_1404.jpg" data-image-load-on="onload" alt="ДЛЯ МУЖЧИН" />
+</div>
+<h3>ДЛЯ МУЖЧИН</h3>
+<p class="text-link text-underline">НАЧАТЬ ПОКУПКИ</p>
+</a>
+</div>
+</div>
+<style>
+
+.homepage-product-categories {
+  font-family: "Gotham SSm medium A", "Gotham SSm medium B", Helvetica, Arial, sans-serif;
+}
+
+.homepage-category-content {
+  margin-bottom: 20px;
+  display: inline-block;
+}
+
+.homepage-product-categories h3 {
+  font-size: 20px;
+  line-height: 30px;
+  letter-spacing: 0.02em;
+  margin: 10px auto 0px;
+  font-weight: normal;
+  font-family: "Gotham SSm medium A", "Gotham SSm medium B", Helvetica, Arial, sans-serif;
+}
+
+.homepage-category-content .text-link {
+  font-size: 11px;
+  letter-spacing: 0.1em;
+}
+
+.homepage-category-img-container {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+}
+.homepage-category-img {
+  max-width: 100%;
+  max-height: 300px;
+  transition: all 0.3s;
+}
+
+@media only screen and (min-width: 768px) {
+  .homepage-category-content {
+    margin-bottom: 30px;
+  }
+  
+  .homepage-product-categories h3 {
+    margin-bottom: 2px;
+  }
+}
+
+@media only screen and (min-width: 1024px) {
+  .homepage-product-categories h3 {
+    font-size: 25px;
+  }
+}
+h2.section-title-text{
+  background-image: url(https://www.clarins.ru/on/demandware.static/-/Sites/default/dwb80d0bc2/images/homepage/2020-08_update/leaf-left.png), url(https://www.clarins.ru/on/demandware.static/-/Sites/default/dw47f4e933/images/homepage/2020-08_update/leaf-right.png);
+  background-repeat: no-repeat;
+  background-position: top left, top right;
+  padding-left: 50px;
+    padding-right: 50px;
+}
+.newsletter-body .newsletter-heading .heading-text{
+  background-image: url(https://www.clarins.ru/on/demandware.static/-/Sites/default/dwb80d0bc2/images/homepage/2020-08_update/leaf-left.png), url(https://www.clarins.ru/on/demandware.static/-/Sites/default/dw47f4e933/images/homepage/2020-08_update/leaf-right.png);
+  background-repeat: no-repeat;
+  background-position: top left, top right;
+  padding-left: 50px!important;
+    padding-right: 50px!important;
+}
+span.oneline-title-wrapper{
+  background-image: url(https://www.clarins.ru/on/demandware.static/-/Sites/default/dwb80d0bc2/images/homepage/2020-08_update/leaf-left.png), url(https://www.clarins.ru/on/demandware.static/-/Sites/default/dw47f4e933/images/homepage/2020-08_update/leaf-right.png);
+  background-repeat: no-repeat;
+  background-position: top left, top right;
+  padding-left: 55px!important;
+    padding-right: 55px!important;
+}
+.oneline-title .oneline-title-wrapper{
+  padding: 5px 50px!important;
+  line-height: 35px;
+}
+.newsletter-body .newsletter-heading .heading-text{
+  padding: 5px 55px!important;
+  line-height: 35px;
+}
+</style>
+</div>
+
+<div class="homepage-tab-container col col-gutter">
+<div class="tab tab-container-js event-homepage-tc-js row" data-multiple-expand="false">
+<ul class="tab__parent tab-parent-js desktop">
+<li data-link="best-sellers" class="tab__child tab-child-js tab--selected event-tab-click-tc-js">
+<div class="tab__title text-uppercase" id="best-sellers">
+<h2 class="tab__heading">
+Бестселлеры
+</h2>
+</div>
+</li>
+<li data-link="top-rated" class="tab__child tab-child-js event-tab-click-tc-js">
+<div class="tab__title text-uppercase" id="top-rated">
+<h2 class="tab__heading">
+Новинки
+</h2>
+</div>
+</li>
+<li data-link="online-exclusive" class="tab__child tab-child-js event-tab-click-tc-js">
+<div class="tab__title text-uppercase" id="online-exclusive">
+<h2 class="tab__heading">
+СПЕЦИАЛЬНЫЕ ЦЕНЫ
+</h2>
+</div>
+</li>
+</ul>
+<div class="tab-content tab-content-js" id="mobile-best-sellers">
+<div class="tab-content__parent mobile tab-parent-js">
+<div data-link="best-sellers" class="tab-content__child text-uppercase tab--selected tab-child-js event-tab-click-tc-js">
+<div class="expand-title">
+Бестселлеры
+</div>
+<span class="expand-item"> </span>
+</div>
+</div>
+<div class="tab-content__description best-sellers tab-content-description-js" data-contentloaded="false">
+<div hidden class="dynamic-content" data-url="/on/demandware.store/Sites-clarinsru-Site/ru_RU/SlotAjax-Start?slotid=homepage-product-recommendations" data-callback="homepageTab"></div>
+</div>
+</div>
+<div class="tab-content tab-content-js" id="mobile-top-rated">
+<div class="tab-content__parent mobile tab-parent-js">
+<div data-link="top-rated" class="tab-content__child text-uppercase tab-child-js event-tab-click-tc-js">
+<div class="expand-title">
+Новинки
+</div>
+<span class="expand-item"> </span>
+</div>
+</div>
+<div class="tab-content__description top-rated tab-content-description-js" data-contentloaded="false">
+<div hidden class="dynamic-content" data-url="/on/demandware.store/Sites-clarinsru-Site/ru_RU/SlotAjax-Start?slotid=homepage-product-recommendations2" data-callback="homepageTab"></div>
+</div>
+</div>
+<div class="tab-content tab-content-js" id="mobile-online-exclusive">
+<div class="tab-content__parent mobile tab-parent-js">
+<div data-link="online-exclusive" class="tab-content__child text-uppercase tab-child-js event-tab-click-tc-js">
+<div class="expand-title">
+СПЕЦИАЛЬНЫЕ ЦЕНЫ
+</div>
+<span class="expand-item"> </span>
+</div>
+</div>
+<div class="tab-content__description online-exclusive tab-content-description-js" data-contentloaded="false">
+<div hidden class="dynamic-content" data-url="/on/demandware.store/Sites-clarinsru-Site/ru_RU/SlotAjax-Start?slotid=homepage-product-recommendations3" data-callback="homepageTab"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="BeautySection-Block" onclick="this.querySelector('a').click();">
+<div class="Wrapper">
+<p class="Title">Подобрать средства</p>
+<p>Мы разработали комплексную программу ухода, <br>чтобы&nbsp;вы&nbsp;могли понять, <br>в&nbsp;чем&nbsp;именно нуждается ваша&nbsp;кожа!</p>
+<p class="TextLink"><a href="https://www.clarins.ru/nos-services/podobrat-sredstva/">ПОДРОБНЕЕ</a></p>
+</div>
+</div>
+<link href="https://www.clarins.ru/on/demandware.static/-/Library-Sites-clarins-v3/ru_RU/v1639290511449/content/Homepage/style-beautyconsult.css" type="text/css" rel="stylesheet" />
+
+
+
+<div class="section-title-separator-wrapper row">
+<div class="col col-gutter col-12-desktop col-12-tablet col-6-mobile section-title-separator-container">
+<hr class="section-top-left-hr">
+<h2 class="section-title-text text-center text-uppercase">Наши ценности, наши обязательства</h2>
+<hr class="section-top-right-hr">
+</div>
+</div>
+<div id="Banner-2019" onclick="this.querySelector('a').click()">
+<div class="Wrapper">
+<div class="Title">10 причин доверить Clarins заботу о вашей красоте</div>
+<div class="TextLink"><a href="https://www.clarins.ru/mir-clarins/10-prichin-doverit-clarins-zabotu-o-vashej-krasote/">Подробнее</a></div>
+</div>
+</div>
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="https://www.clarins.ru/on/demandware.static/-/Library-Sites-clarins-v3/ru_RU/v1639290511449/content/Clarins-We-Care-Encart-2021/we-care-custom.js"></script>
+</div>
+
+<style>
+/* Brand */
+#Banner-2019{
+    background-position:top center;
+    background-repeat:no-repeat;
+    display:flex;
+    height:342px;
+    background-image:url(https://www.clarins.ru/on/demandware.static/-/Library-Sites-clarins-v3/default/dwde2e0467/images/homepage/2020_update/2020_10-RAISONS_1600x342.jpg);
+    justify-content:center;
+    align-items:center;
+}
+@media screen and (max-width: 1023px) {
+#Banner-2019{
+    height:280px;
+    background-image:url(https://www.clarins.ru/on/demandware.static/-/Library-Sites-clarins-v3/default/dw58031e0e/images/homepage/2020_update/banner-2020-visual-tablet_10.jpg);
+}   
+}
+@media screen and (max-width: 761px) {
+#Banner-2019{
+    height:280px;
+    background-position:top right;
+}   
+}
+@media screen and (max-width: 500px) {
+#Banner-2019{
+    height:186px;
+    background-size:auto 100%;
+    background-position:top right;
+}   
+}
+#Banner-2019 .Wrapper{
+    background-color:#fff;
+    box-sizing:border-box;
+    padding:40px;
+    max-width:566px;
+    display:block;
+    text-align:center;
+}
+@media screen and (max-width: 1023px) {
+#Banner-2019 .Wrapper{
+    padding:25px;
+    max-width:400px;
+}   
+}
+@media screen and (max-width: 761px) {
+#Banner-2019 .Wrapper{
+    padding:15px;
+    max-width:210px;
+}   
+}
+#Banner-2019 .Wrapper .Title{
+    font-family:ClarinsRegular, Clarins;
+    font-size:50px;
+    line-height:1em;
+}
+@media screen and (max-width: 1023px) {
+#Banner-2019 .Wrapper .Title{
+    font-size:30px;
+}   
+}
+@media screen and (max-width: 761px) {
+#Banner-2019 .Wrapper .Title{
+    font-size:24px;
+}       
+}
+#Banner-2019 .Wrapper .TextLink{
+    line-height:1em;
+    padding-top:20px;
+}
+#Banner-2019 .Wrapper .TextLink a{
+    font-family:'Gotham SSm medium A', 'Gotham SSm medium B', Helvetica, Arial, sans-serif;
+      border-bottom: 1px solid #bfbfbf;
+    text-transform: uppercase;    
+    letter-spacing: 0.1em;
+
+}
+    /*Ipad Air 3 Landscape*/
+@media only screen
+and (min-device-width : 834px)
+and (max-device-width : 1112px)
+and (orientation : landscape)
+and (-webkit-min-device-pixel-ratio: 2) {
+.banner-domaine-clarins {
+    display: flex;
+    width: 100%;
+    margin-left: 0;
+}
+}
+/*Ipad Air 3 Portrait*/
+@media only screen
+and (min-device-width : 834px)
+and (max-device-width : 1112px)
+and (orientation : portrait)
+and (-webkit-min-device-pixel-ratio: 2) { 
+    .banner-domaine-clarins {
+    width: 100%;
+    margin-left: 0%;
+}
+}
+    /* Domaine Clarins */
+    .banner-domaine-clarins {
+    display: flex;
+    width: 57%;
+    margin-left: 22%;
+    align-items: center;
+}
+
+    .banner-domaine-clarins__visual {
+        flex: 1;
+    }
+
+    .banner-domaine-clarins__visual img {
+        display: block;
+        max-width: 100%;
+    }
+
+    .banner-domaine-clarins__content {
+        flex-basis: 474px;
+        box-sizing: border-box;
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+        flex-direction: column;
+        text-align: center;
+        padding: 0 20px;
+    }
+
+    .banner-domaine-clarins__logo {
+        width: 164px;
+        height: 164px;
+        display: block;
+        margin-bottom: 20px;
+    }
+
+    .banner-domaine-clarins__title {
+        font-family: ClarinsRegular, Clarins;
+        font-size: 40px;
+        line-height: 1em;
+        padding-bottom: 15px;
+    }
+
+    .banner-domaine-clarins__link {
+        line-height: 1em;
+        padding-top: 20px;
+    }
+
+    .banner-domaine-clarins__link a {
+        font-family: "Gotham SSm book A", "Gotham SSm book B", Helvetica, Arial, sans-serif;
+        border-bottom: 1px solid #bfbfbf;
+        text-transform: uppercase;
+    }
+
+    @media screen and (max-width: 1023px) {
+        .banner-domaine-clarins {
+            display: block;
+        }
+
+        .banner-domaine-clarins__title br {
+            display: none;
+        }
+
+        .banner-domaine-clarins__logo {
+            padding-top: 20px;
+            width: 120px;
+            height: 120px;
+        }
+        .banner-domaine-clarins__title{
+            font-size: 24px !important;
+        }
+    }
+
+    @media screen and (max-width:761px) {
+        .banner-domaine-clarins__title {
+            font-size: 25px;
+        }
+
+        .banner-domaine-clarins__title br {
+            display: none;
+        }
+
+        .banner-domaine-clarins__logo {
+            padding-top: 20px;
+            width: 92px;
+            height: 92px;
+        }
+        .banner-domaine-clarins {
+    display: flex;
+    width: 100%;
+    margin-left: 0%;
+}
+    }
+
+
+
+/* EDIT EDIT */
+
+.banner-domaine-clarins__visual img {
+    display: block !important;
+    max-width: 750px !important;
+    width: 750px !important;
+}
+
+/*
+  @media screen and (max-width: 1025px){
+    .banner-domaine-clarins__content{
+    flex-basis: 250px !important;
+    }
+        .banner-domaine-clarins__content{
+         flex-basis: 175px !important;
+         margin-right: -150px;
+         padding-right: 0px;
+        }
+        .banner-domaine-clarins__title{
+            font-size: 24px !important;
+            padding-bottom: 0px !important;
+        }
+        .banner-domaine-clarins__logo{
+            width: 125px;
+            height: 137px;
+            margin-bottom: 0px !important;
+        }
+
+
+}
+  @media screen and (min-width: 1026px) and (max-width: 1580px){
+    .banner-domaine-clarins__content{
+    flex-basis: 250px !important;
+    }
+        .banner-domaine-clarins__content{
+         flex-basis: 175px !important;
+         margin-right: -150px;
+         padding-right: 0px;
+        }
+        .banner-domaine-clarins__title{
+            font-size: 24px !important;
+            padding-bottom: 0px !important;
+        }
+        .banner-domaine-clarins__logo{
+            width: 125px;
+            height: 137px;
+            margin-bottom: 0px !important;
+        }
+
+}
+
+*/
+</style>
+<div class="bspot-wrapper row">
+<div class="col col-gutter">
+</div>
+</div>
+</div>
+<script type="text/javascript">
+var Elmt_RelatedContent_1=document.querySelectorAll(".RelatedContent")[0]
+Elmt_RelatedContent_1.onclick=function(){Elmt_RelatedContent_1.querySelector("a").click()}
+var Elmt_RelatedContent_2=document.querySelectorAll(".RelatedContent")[1]
+Elmt_RelatedContent_2.onclick=function(){Elmt_RelatedContent_2.querySelector("a").click()}
+</script>
+
+<div class="identify-home identify-home-rework hide"></div>
+
+<div id="browser-check">
+<noscript>
+<div class="browser-compatibility-alert">
+<p class="browser-error">В браузере отключена функция JavaScript. Пожалуйста, включите ее, чтобы иметь доступ ко всем возможностям этого сайта.</p>
+</div>
+</noscript>
+</div>
+</div>
+</div>
+<section class="footer-wrapper">
+<div class="homepage-newsletter-section row">
+<div class="newsletter-body clearfix col col-12-desktop col-12-tablet col-6-mobile">
+<div class="newsletter-heading col-gutter text-center">
+<h3>
+<span class="heading-text section-title-text text-uppercase">Подпишитесь на рассылку clarins</span>
+</h3>
+</div>
+<div class="newsletter-content col-gutter text-center">
+<p class="content-text">Узнавайте первыми о новинках, закрытых акциях и специальных предложениях Clarins.ru!</p>
+</div>
+<div class="dropdown-header">Дата рождения</div>
+<div class="newsletter-form-wrapper">
+<div class="newsletter-form-4-container">
+<form id="newsLetterForm-ed23db842dc7eb0d3ae2fc0f27" method="post">
+<input id="optin_source-e055d264de96db6a5219edc0fe" type="hidden" name="optin_source" value="" value />
+<input id="send_email-bcb4cd2b7bd0287b81ffd139c9" type="hidden" name="send_email" value="false" />
+<div class="email-field col col-gutter col-4-desktop col-4-tablet col-6-mobile">
+<div class="form-row required">
+<div class="form-group">
+<input id="newsletterEmail-e18e88ad1bd76a02c6beaf3e84" type="text" name="newsletterEmail" value="" class="input-text email required email-autocomplete" maxlength="50" value />
+<label for="newsletterEmail-e18e88ad1bd76a02c6beaf3e84">
+Адрес электронной почты*
+</label>
+</div>
+</div>
+</div>
+<div class="name-field col col-gutter col-2-desktop col-4-tablet col-6-mobile">
+<div class="form-row required">
+<div class="form-group">
+<input id="newsletterFirstName-d929ee5c232197fe5e66836a4d" type="text" name="newsletterFirstName" value="" class="input-text required name-field" maxlength="50" value />
+<label for="newsletterFirstName-d929ee5c232197fe5e66836a4d">
+Имя*
+</label>
+</div>
+</div>
+</div>
+<div class="name-field second col col-gutter col-2-desktop col-4-tablet col-6-mobile">
+<div class="form-row required">
+<div class="form-group">
+<input id="newsletterLastName-9bd15b3e4cf88db4f2a597dbc0" type="text" name="newsletterLastName" value="" class="input-text required name-field" maxlength="50" value />
+<label for="newsletterLastName-9bd15b3e4cf88db4f2a597dbc0">
+Фамилия*
+</label>
+</div>
+</div>
+</div>
+<div class="dob-validator date-of-birthday-js col col-gutter col-4-desktop col-push-0-desktop col-8-tablet col-6-mobile col-push-0-mobile">
+<div class="date-field">
+<span class="date-header">
+Дата рождения
+</span>
+</div>
+<div class="birthdayday birthdate-field col col-4-desktop col-4-tablet col-2-mobile">
+<div class="form-row col">
+<div class="form-group">
+<select name="newsletterDay" id="newsletter-day-81575c3049bcfd525a871f743a" class="birthday-field">
+<option value="">
+День
+</option>
+<option value="1">
+1
+</option>
+<option value="2">
+2
+</option>
+<option value="3">
+3
+</option>
+<option value="4">
+4
+</option>
+ <option value="5">
+5
+</option>
+<option value="6">
+6
+</option>
+<option value="7">
+7
+</option>
+<option value="8">
+8
+</option>
+<option value="9">
+9
+</option>
+<option value="10">
+10
+</option>
+<option value="11">
+11
+</option>
+<option value="12">
+12
+</option>
+<option value="13">
+13
+</option>
+<option value="14">
+14
+</option>
+<option value="15">
+15
+</option>
+<option value="16">
+16
+</option>
+<option value="17">
+17
+</option>
+<option value="18">
+18
+</option>
+<option value="19">
+19
+</option>
+<option value="20">
+20
+</option>
+<option value="21">
+21
+</option>
+<option value="22">
+22
+</option>
+<option value="23">
+23
+</option>
+<option value="24">
+24
+</option>
+<option value="25">
+25
+</option>
+<option value="26">
+26
+</option>
+<option value="27">
+27
+</option>
+<option value="28">
+28
+</option>
+<option value="29">
+29
+</option>
+<option value="30">
+30
+</option>
+<option value="31">
+31
+</option>
+</select>
+<label for="newsletter-day-81575c3049bcfd525a871f743a" class="">
+День
+</label>
+</div>
+</div>
+</div>
+<div class="birthdaymonth birthdate-field col col-4-desktop col-4-tablet col-2-mobile">
+<div class="form-row col">
+<div class="form-group">
+<select name="newsletterMonth" id="newsletter-month-087bcd6984484511322ec6c7ce" class="birthday-field">
+<option value="">Месяц</option>
+<option value="01">Январь</option>
+<option value="02">Февраль</option>
+<option value="03">Март</option>
+<option value="04">Апрель</option>
+<option value="05">Май</option>
+<option value="06">Июнь</option>
+<option value="07">Июль</option>
+<option value="08">Август</option>
+<option value="09">Сентябрь</option>
+<option value="10">Октябрь</option>
+<option value="11">Ноябрь</option>
+<option value="12">Декабрь</option>
+</select>
+<label for="newsletter-month-087bcd6984484511322ec6c7ce" class="">
+Месяц
+</label>
+</div>
+</div>
+</div>
+<div class="birthdayyear birthdate-field col col-4-desktop col-4-tablet col-2-mobile">
+<div class="form-row col">
+<div class="form-group">
+<select name="newsletterYear" id="newsletter-year-fc8b5ef044959e8207d3eb6344" class="birthday-field">
+<option label="Год" value="">
+Год
+</option>
+<option label="2008" value="2008">
+2008
+</option>
+<option label="2007" value="2007">
+2007
+</option>
+<option label="2006" value="2006">
+2006
+</option>
+<option label="2005" value="2005">
+2005
+</option>
+<option label="2004" value="2004">
+2004
+</option>
+<option label="2003" value="2003">
+2003
+</option>
+<option label="2002" value="2002">
+2002
+</option>
+<option label="2001" value="2001">
+2001
+</option>
+<option label="2000" value="2000">
+2000
+</option>
+<option label="1999" value="1999">
+1999
+</option>
+<option label="1998" value="1998">
+1998
+</option>
+<option label="1997" value="1997">
+1997
+</option>
+<option label="1996" value="1996">
+1996
+</option>
+
+<option label="1995" value="1995">
+1995
+</option>
+<option label="1994" value="1994">
+1994
+</option>
+<option label="1993" value="1993">
+1993
+</option>
+<option label="1992" value="1992">
+1992
+</option>
+<option label="1991" value="1991">
+1991
+</option>
+<option label="1990" value="1990">
+1990
+</option>
+<option label="1989" value="1989">
+1989
+</option>
+<option label="1988" value="1988">
+1988
+</option>
+<option label="1987" value="1987">
+1987
+</option>
+<option label="1986" value="1986">
+1986
+</option>
+<option label="1985" value="1985">
+1985
+</option>
+<option label="1984" value="1984">
+1984
+</option>
+<option label="1983" value="1983">
+1983
+</option>
+<option label="1982" value="1982">
+1982
+</option>
+<option label="1981" value="1981">
+1981
+</option>
+<option label="1980" value="1980">
+1980
+</option>
+<option label="1979" value="1979">
+1979
+</option>
+<option label="1978" value="1978">
+1978
+</option>
+<option label="1977" value="1977">
+1977
+</option>
+<option label="1976" value="1976">
+1976
+</option>
+<option label="1975" value="1975">
+1975
+</option>
+<option label="1974" value="1974">
+1974
+</option>
+<option label="1973" value="1973">
+1973
+</option>
+<option label="1972" value="1972">
+1972
+</option>
+<option label="1971" value="1971">
+1971
+</option>
+<option label="1970" value="1970">
+1970
+</option>
+<option label="1969" value="1969">
+1969
+</option>
+<option label="1968" value="1968">
+1968
+</option>
+<option label="1967" value="1967">
+1967
+</option>
+<option label="1966" value="1966">
+1966
+</option>
+<option label="1965" value="1965">
+1965
+</option>
+<option label="1964" value="1964">
+1964
+</option>
+<option label="1963" value="1963">
+1963
+</option>
+<option label="1962" value="1962">
+1962
+</option>
+<option label="1961" value="1961">
+1961
+</option>
+<option label="1960" value="1960">
+1960
+</option>
+<option label="1959" value="1959">
+1959
+</option>
+<option label="1958" value="1958">
+1958
+</option>
+<option label="1957" value="1957">
+1957
+</option>
+<option label="1956" value="1956">
+1956
+</option>
+<option label="1955" value="1955">
+1955
+</option>
+<option label="1954" value="1954">
+1954
+</option>
+<option label="1953" value="1953">
+1953
+</option>
+<option label="1952" value="1952">
+1952
+</option>
+<option label="1951" value="1951">
+1951
+</option>
+<option label="1950" value="1950">
+1950
+</option>
+<option label="1949" value="1949">
+1949
+</option>
+<option label="1948" value="1948">
+1948
+</option>
+<option label="1947" value="1947">
+1947
+</option>
+<option label="1946" value="1946">
+1946
+</option>
+<option label="1945" value="1945">
+1945
+</option>
+<option label="1944" value="1944">
+1944
+</option>
+<option label="1943" value="1943">
+1943
+</option>
+<option label="1942" value="1942">
+1942
+</option>
+<option label="1941" value="1941">
+ 1941
+</option>
+<option label="1940" value="1940">
+1940
+</option>
+<option label="1939" value="1939">
+1939
+</option>
+<option label="1938" value="1938">
+1938
+</option>
+<option label="1937" value="1937">
+1937
+</option>
+<option label="1936" value="1936">
+1936
+</option>
+<option label="1935" value="1935">
+1935
+</option>
+<option label="1934" value="1934">
+1934
+</option>
+<option label="1933" value="1933">
+1933
+</option>
+<option label="1932" value="1932">
+1932
+</option>
+<option label="1931" value="1931">
+1931
+</option>
+<option label="1930" value="1930">
+1930
+</option>
+</select>
+<label for="newsletter-year-fc8b5ef044959e8207d3eb6344" class="">
+Год
+</label>
+</div>
+</div>
+</div>
+</div>
+<div class="form-row required checkbox col-gutter col-12-desktop col-push-0-desktop col-8-tablet col-push-0-tablet col-6-mobile col-push-0-mobile">
+<input id="newsletter-form-4-terms-ed23db842dc7eb0d3ae2fc0f27" type="checkbox" name="newsletterTerms" value="true" class="input-text newsletterTerms" />
+<label for="newsletter-form-4-terms-ed23db842dc7eb0d3ae2fc0f27">
+Я даю своё согласие на получение информационных и рекламных сообщений от ООО«КЛАРАНС» и его партнёров в соответствии с <a href="/help-privacy-security/privacy-policy.html" target="_blank" class="text-underline">Политикой конфиденциальности</a> в целях продвижения товаров*
+</label>
+</div>
+<div class="form-row required checkbox col-gutter col-12-desktop col-push-0-desktop col-8-tablet col-push-0-tablet col-6-mobile col-push-0-mobile">
+<div class="privacy-policy-terms">
+<input id="privacypolicyCheckbox-ba45c2e4603604dfa59e74756d" type="checkbox" name="privacypolicyCheckbox" value="true" class="privacy-policy-checkbox required" />
+<label for="privacypolicyCheckbox-ba45c2e4603604dfa59e74756d">
+Я даю своё согласие на обработку моих персональных данных в соответствии с <a href="/help-privacy-security/privacy-policy.html" target="_blank" class="text-underline">Политикой конфиденциальности*</a>
+</label>
+</div>
+</div>
+<div class="form-row subscribe text-center">
+<button class="button-primary newsletter-form-4-button text-center" type="submit" value="Подписаться" name="newsletter-subscribe">
+<span>
+Подписаться
+</span>
+</button>
+</div>
+</form>
+</div>
+</div>
+</div>
+</div>
+<style>
+.newsletter-body .newsletter-heading .heading-text 
+{
+    max-width: 600px;
+    display: block;
+    margin: 0 auto;
+    line-height: 1.2;
+}
+
+@media screen and (max-width: 761px){
+   .section-title-text {
+    font-size: 14px!important;
+   }
+}
+</style>
+<footer class="footer-main">
+<div class="footer-container">
+<div class="row row--relative">
+<a href="javascript:;" class="go-to-top">
+<img alt="Наверх" src="https://www.clarins.ru/on/demandware.static/-/Library-Sites-clarins-v3/default/dwa5e405dd/go to top.png" title="Наверх" />
+</a>
+<div class="col-gutter">
+<div class="footer-advantages-hr">&nbsp;</div>
+</div>
+<div class="footer-advantages">
+<h2>Наши преимущества</h2>
+<ul style="touch-action:pan-y;" id="footer-jcarousel" class="text-center">
+<li class="col col-gutter col-2-desktop col-4-tablet slick-item">
+<a href="https://www.clarins.ru/online-reward-program.html">
+<span class="picto ru-picto footer-avantage-7"></span>
+<strong>Программа лояльности</strong>
+</a>
+</li>
+<li class="col col-gutter col-2-desktop col-4-tablet slick-item">
+<a href="https://www.clarins.ru/e-podarochnyj-sertifikat">
+<span class="picto ru-picto footer-avantage-8"></span>
+<strong>Подарочный сертификат</strong>
+</a>
+</li>
+<li class="col col-gutter col-2-desktop col-4-tablet slick-item">
+<a href="https://www.clarins.ru/eksklyuzivno-na-sajte-clarins-online-exclusives/">
+<span class="picto ru-picto footer-avantage-3"></span>
+<strong>Эксклюзивы Clarins.ru</strong>
+</a>
+</li>
+<li class="col col-gutter col-2-desktop col-4-tablet slick-item">
+<a href="https://www.clarins.ru/clarins-online.html">
+<span class="picto ru-picto footer-avantage-10"></span>
+<strong>Clarins Online</strong>Видеоконсультация
+с экспертом
+</a>
+</li>
+<li class="col col-gutter col-2-desktop col-4-tablet slick-item">
+<a href="https://www.clarins.ru/nos-services/podobrat-sredstva/">
+<span class="picto ru-picto footer-avantage-11"></span>
+<strong>Подобрать средства</strong>
+</a>
+</li>
+<li class="col col-gutter col-2-desktop col-4-tablet slick-item">
+<a href="https://www.clarins.ru/makyaj-online/">
+<span class="picto ru-picto footer-avantage-6"></span>
+<strong>Макияж онлайн</strong>
+</a>
+</li>
+</ul>
+</div>
+<!-- -->
+<div class="col col-gutter">
+<div class="footer-logos2">
+<ul>
+<li>
+<img src="https://www.clarins.ru/on/demandware.static/-/Library-Sites-clarins-v3/ru_RU/dwc6a72d11/images/sp.png" alt="Samsung Pay" />
+</li>
+<li>
+<img src="https://www.clarins.ru/on/demandware.static/-/Library-Sites-clarins-v3/ru_RU/dwa5cd438d/images/ap.png" alt="Apple Pay" />
+</li>
+<li>
+<img src="https://www.clarins.ru/on/demandware.static/-/Library-Sites-clarins-v3/default/dw2be76845/images/visa-2.jpg" alt="Visa" />
+</li>
+<li>
+<img src="https://www.clarins.ru/on/demandware.static/-/Library-Sites-clarins-v3/ru_RU/dw5a170d31/images/gp.png" alt="Google Pay" />
+</li>
+<li>
+<img src="https://www.clarins.ru/on/demandware.static/-/Library-Sites-clarins-v3/ru_RU/dwe96a03c3/images/mc_vrt_pos.png" alt="MasterCode SecureCode" />
+</li>
+<li>
+<img src="https://www.clarins.ru/on/demandware.static/-/Library-Sites-clarins-v3/default/dwe06ef8de/images/mnp.jpg" alt="MNP" />
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="row footerSEO-gb">
+<div class="col col-gutter col-4-desktop">
+<div class="SEO-services superfooter-bestsellers">
+<button class="plus-btn">+</button>
+<h2 class="text-uppercase">Категории</h2>
+<ul>
+<li><a href="https://www.clarins.ru/vse-sredstva-clarins/">Все средства Clarins</a></li>
+<li><a href="https://www.clarins.ru/uhod-za-kozhei/uhod-za-litsom/ochishchenie-i-tonizirovanie/210/">Очищение и тонизирование</a></li>
+<li><a href="https://www.clarins.ru/uhod-za-kozhei/uhod-za-litsom/masla-dlya-lica/270/">Масла для лица</a></li>
+<li><a href="https://www.clarins.ru/uhod-za-kozhei/uhod-za-litsom/uhod-za-kozhej-vokrug-glaz/280/">Уход за кожей вокруг глаз</a></li>
+<li><a href="https://www.clarins.ru/uhod-za-kozhei/uhod-za-litsom/syvorotki/240/">Сыворотки</a></li>
+<li><a href="https://www.clarins.ru/uhod-za-kozhei/solnce/sredstva-dlya-iskusstvennogo-zagara/430/">Средства для искусственного загара</a></li>
+<li><a href="https://www.clarins.ru/uhod-za-kozhei/uhod-za-telom/masla-dlya-tela/390/">Масла для тела</a></li>
+<li><a href="https://www.clarins.ru/uhod-za-kozhei/uhod-za-telom/dlya-dusha-i-vanny/340/">Средства для душа и ванны</a></li>
+<li><a href="https://www.clarins.ru/uhod-za-kozhei/uhod-za-telom/modelirovaniye/310/">Моделирующие средства</a></li>
+<li><a href="https://www.clarins.ru/uhod-za-kozhei/dlya-muzhchin/brite/520/">Мужские средства для бритья</a></li>
+</ul>
+</div>
+</div>
+<div class="col col-gutter col-4-desktop">
+<div class="SEO-services superfooter-mostpopular">
+<button class="plus-btn">+</button>
+<h2 class="text-uppercase">Самые популярные</h2>
+<ul>
+<li>
+<a href="/double-serum-kompleksnaya-omolazhivayushchaya-dvojnaya-syvorotka-30ml-C070400090.html">Double Serum Комплексная омолаживающая двойная сыворотка</a>
+</li>
+<li>
+<a href="/orchidee-bleue-maslo-dlya-litsa-dlya-obezvozhennoj-kozhi-C010401002.html">Orchid&eacute;e Bleue Масло для лица для обезвоженной кожи</a>
+</li>
+<li>
+<a href="/body-partner-krem-protiv-rastyazhek-C080033118.html">Body Partner Крем против растяжек</a>
+</li>
+<li>
+<a href="/tonic-toniziruyushchee-maslo-dlya-tela-C020101003.html">Tonic Тонизирующее масло для тела</a>
+</li>
+<li>
+<a href="/wonder-perfect-mascara-4d-tush-dlya-resnits-s-effektom-4d-C080033195.html">Wonder Perfect Mascara 4D Тушь для ресниц с эффектом 4D</a>
+</li>
+<li>
+<a href="/uhod-za-kozhei/solnce/sredstva-dlya-iskusstvennogo-zagara/430/addition-concentre-eclat-visage-koncentrat-s-effektom-iskusstvennogo-zagara-dlya-lica-CS00356124.html">Addition Concentr&eacute; Eclat Visage Концентрат с эффектом искусственного загара для лица</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="col col-gutter col-4-desktop">
+<div class="SEO-services superfooter-mostpopular">
+<button class="plus-btn">+</button>
+<h2 class="text-uppercase">Новинки</h2>
+<ul>
+<li>
+<a href="/uhod-za-kozhej/lico/dnevnoj-uhod/dnevnye-sredstva-uhoda-221/calm-essentiel-vosstanavlivayushchij-balzam-dlya-chuvstvitelnoj-kozhi-lica-i-tela-CS00566078.html">Calm-Essentiel Восстанавливающий бальзам для чувствительной кожи лица и тела</a>
+</li>
+<li>
+<a href="/darite-krasotu/nabory-730a/nabor-sredstv-uhoda--multi-active-CS00519972.html">Набор средств ухода Multi-Active</a>
+</li>
+<li>
+<a href="/darite-krasotu/nabory-730a/nabor-sredstv-uhoda-extra-firming-CS00519988.html">Набор средств ухода Extra-Firming</a>
+</li>
+<li>
+<a href="/my-clarins-my-clarins-2/my-clarins-maska-dlya-lica--ustranyayushchaya-sledy-ustalosti-C080033259.html">My Clarins Маска для лица, устраняющая следы усталости</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col col-gutter col-4-desktop col-12-tablet col-6-mobile">
+<div class="footer-item footer-service">
+<button class="plus-btn" id="customer-service-btn">-</button>
+<h2 class="text-uppercase">Помощь и информация</h2>
+<ul>
+<li><a href="https://www.clarins.ru/pomoshch.html">Помощь</a></li>
+<li><a href="https://www.clarins.ru/pomoshch.html?question=kak-otsledit-dostavku-zakaza">Отслеживание заказа</a></li>
+<li><a href="https://www.clarins.ru/pomoshch.html?question=kakovy-usloviia-i-stoimost-dostavki">Доставка</a></li>
+<li><a href="https://www.clarins.ru/pomoshch.html?question=kak-oplatit-zakaz">Оплата</a></li>
+<li><a href="https://www.clarins.ru/online-reward-program.html"> Программа лояльности</a></li>
+<li><a href="https://www.clarins.ru/akkaunt">Личный кабинет</a></li>
+<li><a href="https://www.clarins.ru/servis">Связаться с нами</a></li>
+<li><a href="https://www.clarins.ru/karta-sayta.html">Карта сайта</a></li>
+<li><a href="https://www.clarins.ru/Podpiska-na-rassilku.html">Подписаться на рассылку</a></li>
+</ul>
+</div>
+</div>
+<div class="col col-gutter col-4-desktop col-6-tablet col-6-mobile">
+<div class="second-column">
+<div class="footer-item footer-about">
+<button class="plus-btn" id="about-clarins-btn">-</button>
+<h2 class="text-uppercase">Мир Clarins</h2>
+<ul>
+<li> <a href="https://www.clarins.ru/mir-clarins/otvetstvennaya-krasota/">Ответственная Красота</a></li>
+<li><a href="https://www.clarins.ru/spa/">Спа</a></li>
+<li> <a href="https://www.clarins.ru/live-beautifully-1.html/">Live Beautifully </a></li>
+<li><a href="https://www.clarins.ru/mir-clarins/nashi-principy-ustoychivogo-razvitya/">Наши принципы устойчивого развития</a></li>
+<li><noindex><a href="https://hh.ru/employer/7144" target="_blank" rel="nofollow">Вакансии</a></noindex></li>
+</ul>
+</div>
+<div class="footer-item footer-social event-social-interactions-follow-tc-js">
+<h2 class="text-uppercase">Присоединяйтесь</h2>
+<ul>
+<li>
+<noindex><a href="https://www.facebook.com/ClarinsRussia/" target="_blank" rel="nofollow" title="Facebook > Откроется в новом окне">
+<img alt="Facebook" data-image-load-on="oncontentload" data-image="https://www.clarins.ru/on/demandware.static/-/Library-Sites-clarins-v3/ru_RU/dw03229743/facebook.png" data-tc-social-network="facebook" />
+</a></noindex>
+</li>
+<li>
+<noindex><a href="https://www.youtube.com/user/ClarinsRussia" target="_blank" rel="nofollow" title="Youtube > Откроется в новом окне">
+<img alt="Youtube" data-image-load-on="oncontentload" data-image="https://www.clarins.ru/on/demandware.static/-/Library-Sites-clarins-v3/default/dw0d5d02b7/images/Footer Advantages/youtube.png" data-tc-social-network="youtube" />
+</a></noindex>
+</li>
+<li>
+<noindex><a href="https://www.instagram.com/clarinsrussia/" target="_blank" rel="nofollow" title="Instagram > Откроется в новом окне">
+<img alt="Instagram" data-image-load-on="oncontentload" data-image="https://www.clarins.ru/on/demandware.static/-/Library-Sites-clarins-v3/default/dwc6cd65d6/Pictograms/Instagram_V3.svg" data-tc-social-network="instagram" />
+</a></noindex>
+</li>
+<li>
+<noindex><a href="https://vk.com/clarins" target="_blank" rel="nofollow" title="VKontakte > Откроется в новом окне">
+<img alt="VKontakte" data-image-load-on="oncontentload" data-image="https://www.clarins.ru/on/demandware.static/-/Library-Sites-clarins-v3/ru_RU/dw8c70f05c/images/vk_icon.png" data-tc-social-network="vkontakte" />
+</a></noindex>
+</li>
+<li>
+<noindex><a href="https://www.pinterest.com/clarinsint/" target="_blank" rel="nofollow" title="Pinterest > Откроется в новом окне">
+<img alt="Pinterest" data-image-load-on="oncontentload" data-image="https://www.clarins.ru/on/demandware.static/-/Library-Sites-clarins-v3/default/dw8745a239/pinterest.png" data-tc-social-network="pinterest" />
+</a></noindex>
+</li>
+<li>
+<noindex><a href="https://zen.yandex.ru/clarinsrussia" target="_blank" rel="nofollow" title="Яндекс.Дзен > Откроется в новом окне">
+<img alt="Яндекс.Дзен" data-image-load-on="oncontentload" data-image="https://www.clarins.ru/on/demandware.static/-/Library-Sites-clarins-v3/ru_RU/dwf0dc62dc/zen.png" data-tc-social-network="YandexZen" />
+</a></noindex>
+</li>
+<br>
+<li>
+<noindex><a class="chatbot-btn-footer" href="https://www.clarins.ru/welcome-chat-bot.html" target="_blank" rel="nofollow" title="Chatbot">
+официальный чат-бот clarins
+</a></noindex>
+</li>
+<style>
+.chatbot-btn-footer
+{
+    background:black;
+    color:white;
+    text-transform:uppercase;
+    padding:10px;
+    font-size: 7.8px;
+}
+.chatbot-btn-footer:hover
+{
+    color:white;
+}
+</style>
+
+
+</ul>
+</div>
+</div>
+</div>
+<div class="col col-gutter col-4-desktop col-6-tablet col-6-mobile">
+<div class="third-column">
+<div class="col footer-item footer-help">
+<h2 class="text-uppercase">Контакты</h2>
+<p><a href="tel:+788007700606">8-800-770-06-06</a> | <a href="tel:+74957750606">+7 (495) 775-06-06</a><br><br></p>
+<p><strong> <A href="mailto:order@russia.clarins.com">order@russia.clarins.com</a></strong> по&nbsp;вопросам оформления заказа, условиям доставки, консультации по&nbsp;продуктам <br><br>
+<strong> <A href="mailto:service@russia.clarins.com">service@russia.clarins.com</a></strong> по&nbsp;всем остальным вопросам</p><br><br>
+<strong> <a href="https://www.clarins.ru/rozygrish-materik.html" target="_blank">ПОБЕДИТЕЛИ В РОЗЫГРЫШЕ СУПЕРПРИЗОВ В ЭКСПЕДИЦИИ НА НОВЫЙ МАТЕРИК КРАСОТЫ</a></strong><br><br>
+<strong> <a href="https://www.clarins.ru/lidery-reytinga.html" target="_blank">ЛИДЕРЫ РЕЙТИНГА</a></strong><br><br>
+<strong> <a class="link-pdf" href="https://www.clarins.ru/on/demandware.static/-/Library-Sites-clarins-v3/ru_RU/dwaecd0fd4/documents/pravila-akcii-rozygrysh-100-naborov.pdf" target="_blank"> ПРАВИЛА АКЦИИ «РОЗЫГРЫШ 100 НАБОРОВ»</a></strong><br><br>
+<strong> <a class="link-pdf" href="https://www.clarins.ru/on/demandware.static/-/Library-Sites-clarins-v3/ru_RU/dw0d68f13e/documents/pravila-akcii-rozygrysh-superprizov.pdf" target="_blank"> ПРАВИЛА АКЦИИ «РОЗЫГРЫШ СУПЕРПРИЗОВ»</a></strong><br><br>
+</div>
+<div class="col footer-item footer-country form-row">
+<h2 class="text-uppercase">Выберите сайт</h2>
+<select id="country-selector">
+<option value="https://www.clarins.com.au/">Clarins Australia</option>
+<option value="https://www.clarins.at/">Clarins Austria</option>
+<option value="https://bnl.clarins.com/on/demandware.store/Sites-clarinsbnl-Site/fr">Clarins Belgium (Français)</option>
+<option value="https://bnl.clarins.com/">Clarins Belgium (Nederlands)</option>
+<option value="https://www.clarins.ca/on/demandware.store/Sites-clarinsca-Site/fr_CA">Clarins Canada (Français)</option>
+<option value="https://www.clarins.ca/">Clarins Canada (English)</option>
+<option value="https://www.clarins.com.cn/">Clarins China</option>
+<option value="https://www.clarins.dk/">Clarins Denmark</option>
+<option value="https://www.clarins.de/">Clarins Deutschland</option>
+<option value="https://www.clarins.es/">Clarins España</option>
+<option value="https://www.clarins.fr/">Clarins France</option>
+<option value="https://www.clarins.com.hk/">Clarins Hong Kong, SAR China</option>
+<option value="https://www.clarins.in/">Clarins India</option>
+<option value="https://int.clarins.com/">Clarins International</option>
+<option value="https://www.clarins.it/">Clarins Italia</option>
+<option value="https://www.clarins.ie">Clarins Ireland</option>
+<option value="https://www.clarins.jp/">Clarins Japan</option>
+<option value="https://bnl.clarins.com/">Clarins Luxembourg</option>
+<option value="https://www.clarins.com.my/">Clarins Malaysia</option>
+<option value="https://www.clarins.mx/">Clarins Mexico</option>
+<option value="https://ae.clarins.com/">Clarins Middle East</option>
+<option value="https://bnl.clarins.com/">Clarins Nederland</option>
+<option value="https://www.clarinsnewzealand.co.nz/">Clarins New Zealand</option>
+<option value="https://www.clarins.pl/">Clarins Poland</option>
+<option value="https://www.clarins.pt/">Clarins Portugal</option>
+<option value="https://www.clarins.ru/" selected="selected">Clarins Russia</option>
+<option value="https://www.clarins.com.sg/">Clarins Singapore</option>
+<option value="https://www.clarins.co.za/">Clarins South Africa</option>
+<option value="https://www.clarins.co.kr/">Clarins South Korea</option>
+<option value="https://www.clarins.se/">Clarins Sweden</option>
+<option value="https://www.clarins.ch/on/demandware.store/Sites-clarinsch-Site/fr_CH">Clarins Switzerland (French)</option>
+<option value="https://www.clarins.ch/on/demandware.store/Sites-clarinsch-Site/de_CH">Clarins Switzerland (Deutsch)</option>
+<option value="https://www.clarins.com.tw/">Clarins Taiwan, China</option>
+<option value="https://www.clarins.co.th/">Clarins Thailand</option>
+<option value="https://www.clarins.co.uk/">Clarins United Kingdom</option>
+<option value="https://www.clarinsusa.com/">Clarins USA (English)</option>
+</select>
+<script type="text/javascript">
+window.onload = function() {
+  jQuery('#country-selector').on('change', function(){window.location.href=jQuery(this).val()});
+}
+</script>
+</div>
+</div>
+</div>
+</div>
+<div class="row footer-terms footer-terms-gb">
+<div class="col-gutter">
+<div class="creditcards_delivery_icons_gb">
+</div>
+<nav class="nav_footer-terms">
+<ul>
+<li>
+<a href="https://www.clarins.ru/help-privacy-security/privacy-policy.html">Политика конфиденциальности</a>
+</li>
+<li>|</li>
+<li>
+<a href="https://www.clarins.ru/termsAndConditions.html">Условия продажи</a>
+</li>
+<li>|</li>
+<li class="margLeft10">
+©Clarins. Все права защищены
+</li>
+</ul>
+</nav>
+</div>
+</div>
+<script type="text/javascript">
+
+
+(function(){
+window.Constants = {"AVAIL_STATUS_IN_STOCK":"IN_STOCK","AVAIL_STATUS_PREORDER":"PREORDER","AVAIL_STATUS_BACKORDER":"BACKORDER","AVAIL_STATUS_NOT_AVAILABLE":"NOT_AVAILABLE","NOT_LOGGED_IN":"NOT_LOGGED_IN","CHECKOUT_SECTION_SLIDE_SPEED":500,"ANIMATION_SCROLL_SPEED":500,"CUSTOMER_ID_DO_NOT_MATCH":2000,"STORELOCATOR_OVERLAY_WIDTH":330,"STORELOCATOR_PIN_LABEL_DESTINATION":"B","STORELOCATOR_PIN_LABEL_FONT_SIZE":"12px","STORELOCATOR_PIN_LABEL_FONT_COLOR":"#FFFFFF","MOBILE_NUMBER_INVALID":1,"MOBILE_NUMBER_EXISTS":2,"MODE_REGISTER_ACCOUNT_WITH_MOBILE_NOT_ENABLE":3,"SUBSCRIBE_MOBILE_SUCCESS":4,"EMAIL_INVALID":5,"EMAIL_EXISTS":6,"NEWSLETTER_FAILED":7,"ADDRESS_DOCTOR_BILLING_PAGE_ID":1,"ADDRESS_DOCTOR_SHIPPING_PAGE_ID":2,"ADDRESS_DOCTOR_ACCOUNT_ADDRESS_PAGE_ID":3,"CAPTCHA_INVALID":8,"MOBILE_NUMBER_NOT_EXISTS":9,"MOBILE_PASSWORD_RESET_NOT_ENABLED":10,"MOBILE_VERIFY_CODE_INVALID":11,"SITE_COUNTRY_CODE":"RU","NO_PRODUCT_LIST_ERROR_CODE":1000,"NO_IMAGE_FILE_NAME_STARTS_WITH":"noimage","SITE_ID":"clarinsru","REQUEST_LOCALE":"ru_RU","REQUEST_LOCALE_LANG":"ru","HIDE_SUCCESS_MESSAGE_AFTER_MS":5000,"TAG_COMMANDER_HEADER_CONTAINER_ID":"headerContainer","TAG_COMMANDER_BODY_TOP_CONTAINER_ID":"bodyTopContainer","TAG_COMMANDER_BODY_BOTTOM_CONTAINER_ID":"bodyBottomContainer","DUBLIN":"Dublin","FEMALE":"FEMALE","MALE":"MALE","SPC_STEP_ID_SHIPPING":"shipping","SPC_STEP_ID_BILLING":"billing","SPC_STEP_ID_SUMMARY":"summary"};
+window.Resources = {"I_AGREE":"Я согласен(на)","CLOSE":"Закрыть","NO_THANKS":"Нет, спасибо","SHIP_QualifiesFor":"Этот способ доставки позволяет","CC_LOAD_ERROR":"Невозможно загрузить данные платежной карты","ADDRESS_DEFAULT":"Адрес по умолчанию","REG_ADDR_ERROR":"Невозможно загрузить адрес","REG_LINK_LABEL":"Условия и положения","VOICE_SEARCH_LISTENING":"Говорите…","SEARCH_PLACEHOLDER":"Поиск","BONUS_PRODUCT":"Бонусное средство","BONUS_PRODUCTS":"бонусные средства","SELECT_BONUS_PRODUCTS":"Выбрать бонусное(ые) средство(а)","SELECT_BONUS_PRODUCT":"product.selectbonusproduct","BONUS_PRODUCT_MAX":"Выбрано максимальное количество бонусных средств.","BONUS_PRODUCT_TOOMANY":"Вы выбрали слишком много бонусных средств. Пожалуйста, измените количество.","SIMPLE_SEARCH":"Что Вы хотели бы найти сегодня?","SUBSCRIBE_EMAIL_DEFAULT":"Адрес электронной почты","CURRENCY_SYMBOL":"руб","MISSINGVAL":"Пожалуйста, введите {0}","SERVER_ERROR":"Потеряно соединение с сервером!","MISSING_LIB":"Запрос не определен.","BAD_RESPONSE":"Неверный ответ, ошибка синтаксического разбора","INVALID_PHONE":"Введите номер телефона в формате +79998887766","INVALID_POST_CODE":"Укажите действительный индекс","INVALID_PASSWORD":"Ваш пароль должен быть не короче 6 символов, содержать буквы верхнего регистра и цифры.","INVALID_EMAIL":"Этот адрес электронной почты недействителен.","REQUIRED_FIELD_ERROR":"Заполните это поле","INVALID_PHONE_OR_EMAIL":"mobile.subcription.message.error.not.valid","REMOVE":"Удалить","QTY":"Кол-во","EMPTY_IMG_ALT":"Удалить","COMPARE_BUTTON_LABEL":"Сравнить продукты","COMPARE_CONFIRMATION":"Это приведет к удалению первого продукта, добавленного к сравнению.  Продолжить?","COMPARE_REMOVE_FAIL":"Невозможно удалить продукт из списка","COMPARE_ADD_FAIL":"Невозможно добавить продукт к списку","ADD_TO_CART_FAIL":"Невозможно поместить продукт '{0}' в корзину","REGISTRY_SEARCH_ADVANCED_CLOSE":"Закрыть расширенный поиск","GIFT_FORM_ILLEAGAL_CHARS":"Использование специальных символов недопустимо, пожалуйста, пересмотрите свое сообщение.","GIFT_CERT_INVALID":"Недействительный код подарочного сертификата","GIFT_CERT_BALANCE":"Текущий баланс подарочного сертификата составляет","GIFT_CERT_AMOUNT_INVALID":"giftcert.amountvalueerror","GIFT_CERT_NO_FUNDS_REDEEMED":"You still have {0} left on this egift certificate","GIFT_CERT_FUNDS_REDEEMED":"You have {0} left on this egift certificate","GIFT_CERT_MISSING":"Пожалуйста, введите код подарочного сертификата.","GIFT_CERT_EXPIRED":"Действие Вашего подарочного сертификата истекло","GIFT_CERT_REMOVE_ERROR":"Произошла ошибка при удалении подарочного сертификата","INVALID_OWNER":"Это похоже на номер платежной карты.  Пожалуйста, введите имя владельца платежной карты.","INVALID_CVN":"Недействительный код безопасности","INVALID_CREDITCARDNUMBER":"Недействительный номер платежной карты","COUPON_CODE_MISSING":"Пожалуйста, введите код купона","ZIP_CODE_INVALID":"Налог не может быть вычислен. Введите верный почтовый индекс.","ZIP_CODE_MISSING":"Налог не может быть вычислен. Введите верный почтовый индекс.","COOKIES_DISABLED":"Ваш браузер в данный момент не настроен на прием файлов Cookies. Пожалуйста, включите прием или убедитесь в отсутствии программы, блокирующей файлы Cookies.","BML_AGREE_TO_TERMS":"Необходимо поставить отметку о согласии с условиями","CHAR_LIMIT_MSG":"Осталось {0} символов из {1}","CONFIRM_DELETE":"Хотите удалить {0}?","TITLE_GIFTREGISTRY":"список подарков","TITLE_ADDRESS":"адрес","TITLE_CREDITCARD":"платежная карта","SERVER_CONNECTION_ERROR":"Потеряно соединение с сервером!","IN_STOCK_DATE":"В наличии","ITEM_STATUS_NOTAVAILABLE":"Нет в наличии","SEARCH":"Найти","CONTINUE":"Продолжить","QUICK_VIEW":"Быстрая покупка","MANDATORY":"Заполните это поле","DATE_INVALID":"Заполните это поле","DATE_INVALID_AGE":"Please enter a valid date of birth over 13 years.","DATE_PAST_INVALID":"The date you entered is invalid. Please enter a date in the past.","EMAILS_DONT_MATCH":"Email не совпадают","PASSWORDS_DONT_MATCH":"Пароли не совпадают","FIELDS_DONT_MATCH":"Поля не совпадают","FIELD_MINLENGTH_ERROR":"Введите как минимум {0} символ(-ов).","INVALID_FIELD_VALUE":"Некорректно заполнено поле","SAMPLESSEARCH_PROCEED_WITH_SELECTION":"Перейти к оформлению","SAMPLESEARCH_PROCEED":"Пропустить и оформить заказ","SAMPLES_READ_MORE":"","SAMPLES_READ_LESS":"","ADD_GIFT_MESSAGE_INFO":"Please select Add Gift Message - Free checkbox.","GOOGLE_RECAPTCHA_MISSING":"ReCaptcha is required","GLOBAL_GOOGLE_RECAPTCHA_MISSING":"","CITY":"Город","SUBURB":"Suburb","REQUIRED":"*","COUNTRY_NOT_DEFAULT":"account.address.country.not.default","ADDRESS_LINE_LINK_TEXT_DEFAULT":"+ добавить адрес","ADDRESS_LINE_LINK_TEXT_2":"","ADDRESS_LINE_LINK_TEXT_3":"+ добавить адресную строку","SAVED_ADDRESS_DEFAULT_NAME":"По умолчанию","AD_NOT_VALID_SUGGESTIONS":"Введенный Вами адрес не может быть подтвержден, но обнаружено близкое соответствие. Пожалуйста, подтвердите правильный адрес.","AD_NO_SUGGESTIONS_FOUND":"Мы не нашли адрес, соответствующий введенным данным, пожалуйста, откорректируйте информацию","AD_BTN_SELECT_ADDRESS":"Продолжить","AD_BTN_NO_SUGGESTIONS_FOUND":"ОК","AD_TITLE":"ПОДТВЕРДИТЕ ВАШ АДРЕС","AD_CURRENT_ADDRESS":"Текущий адрес","AD_MATCHING_ADDRESS":"Соответствующий адрес","AD_BACK":"Вернуться к адресу","GS_PLEASE_SELECTITEMS_FOR_PURCHASE":"Пожалуйста, выберите продукты для покупки","SPC_CANNOT_DELETE_ADDRESS":"Невозможно удалить адрес. Попробуйте обновить страницу, а затем попытайтесь удалить адрес еще раз.","SPC_CANNOT_DELETE_CC":"Невозможно удалить платежную карту. Попробуйте обновить страницу, а затем попытайтесь удалить адрес еще раз.","SPC_SUBMIT_ORDER_PROCESSING":"Обработка...","DPD_SHIP_TO_SHOP":"SHIP TO THIS SHOP","DPD_OPEN_WINDOW_DAYS":"Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday","DPD_OPEN_WINDOW_TIME":"{0}am to {1}pm","DPD_SHOP_SELECTED":"SHOP SELECTED","DPD_SERVICE_UNAVAILABLE":"SERVICE UNAVAILABLE","DPD_NO_STORES":"Failed to find address!","DPD_DISTANCE":"Miles","GS_SEND_PREVIEW":"Предварительный просмотр","GS_SERVER_CONNECTION_ERROR":"Потеряно соединение с сервером!","GS_PRODUCTS_ADDED_TO_CART":"{0} средство(а) добавлено(ы) в корзину.","SPC_CANNOT_SET_DEFAULT_CC":"Невозможно установить платежную карту по умолчанию. Обновите страницу и попробуйте еще раз.","CREATE_ACCOUNT":"Регистрация","DECLARE_PURCHASE_FILE_REJECTED":"File already uploaded","CONTACT_US_FORM_TEXT_AREA_COUNTER":"Введите комментарий (осталось <span class=\"counter\">250</span> символов)","COMMUNITY_QUESTION_FORM_TEXT_AREA_COUNTER":"","COMMUNITY_DISCUSSION_FORM_TEXT_AREA_COUNTER":"","NEWSLETTER_THANK_YOU":"СПАСИБО, ЧТО ОФОРМИЛИ ПОДПИСКУ!","NEWSLETTER_ERROR":"Подписка не выполнена!","NEWSLETTER_WAYSOFCOMMUNICATION_MISSING":"Вы должны выбрать как минимум один способ связи для подписки!","NEWSLETTER_TERMS_ERROR":"<!-- dwMarker=\"content\" dwContentID=\"3649df3495dd91d29e76595159\" -->Заполните это поле","NEWSLETTER_SUBSCRIBE_ERROR":"Заполните это поле","NEWSLETTER_SUBSCRIBE_EXISTS":"mobile.subcription.message.error.existed","NEWSLETTER_EMAIL_EXISTS":"email.subcription.message.error.existed","NEWSLETTER_SUBSCRIBE_MOBILE_ADD_FAIL":"mobile.subcription.message.error.failed","NEWSLETTER_SUBSCRIBE_BUTTON_SHORT":"global.newsletter.subscribe.short","NEWSLETTER_SUBSCRIBE_SHIPPING_ERROR":"Заполните это поле","TAX_LABEL":"НДС:","EGS_HINT":"Осталось XXX символов из 250.","EGS_MESSAGE_SYMBOLS_COUNT":250,"BUTTON_TITLE_ENABLED":"ДОБАВИТЬ В КОРЗИНУ","BUTTON_TITLE_DISABLED":"НЕТ В НАЛИЧИИ","WISHLIST_PRODUCT_ALREADY_ADDED":"в списке желаний","VIEW_ALL_STORES":"ВСЕ","OPEN_NOW_STORES":"СЕЙЧАС ОТКРЫТЫ","CURR_POS_HINT_TEXT":"Ваше местоположение","CHOOSE_STORE_BUTTON":"","PRIVACY_POLICY_MISSING":"Заполните это поле","UPS_NO_POINT_ENTERED":"Вы должны выбрать пункт UPS, чтобы использовать метод доставки UPS.","UPS_MODIFY":"Изменить&raquo;","UPS_PLEASE_SELECT":"Пожалуйста, выберите","MOBILE_VERIRY_CODE_EXPIRE":"forms.profile.verifycode.expire","MOBILE_VERIFY_CODE_INVALID":"forms.profile.verifycode.invalid","MOBILE_NUMBER_INVALID":"forms.profile.phonemobile.error","ADD_MOBILE_NUMBER_FAIL":"forms.mobile.add.fail","MOBILE_NUMBER_EXISTS":"Mobile phone already exist.","MODE_REGISTER_ACCOUNT_WITH_MOBILE_NOT_ENABLE":"mode.register.account.with.mobile.not.enable","BUNDLE_SELECTED_COLOR":"Color:","MOBILE_PASSWORD_RESET_NOT_ENABLED":"mobile.password.reset.not.enabled","CAPTCHA_INVALID":"captcha.invalid","MOBILE_NUMBER_NOT_EXISTS":"forms.profile.phonemobile.not.exists","PRICE_FROM_TO":"refinements.price.from.to","PRICE_FROM":"%%priceFrom%% руб","PRICE_TO":"%%priceTo%% руб","GIFT_KIT_SELECT":"ВЫБРАТЬ","GIFT_KIT_DESELECT":"СНЯТЬ ВЫБОР","INVALID_REMOTE_ERROR":"Внесите исправление в это поле.","INVALID_URL_ERROR":"Введите действительный URL.","INVALID_DATE_ERROR":"Введите корректную дату.","INVALID_DATE_ISO_ERROR":"Введите корректную дату (ISO).","INVALID_DATE_DE_ERROR":"Введите корректную дату.","INVALID_NUMBER_ERROR":"Введите действительный номер.","INVALID_NUMBER_DE_ERROR":"Введите действительный номер.","INVALID_DIGITS_ERROR":"Введите только цифры.","INVALID_EQUALTO_ERROR":"Введите то же значение еще раз.","INVALID_FILESIZE_ERROR":"File's size exceeds the limit.","INVALID_ACCEPT_ERROR":"Введите значение с допустимым расширением.","INVALID_MAX_LENGTH_ERROR":"Введите не более {0} символов.","INVALID_RANGE_LENGTH_ERROR":"Введите значение от {0} до {1} символов.","INVALID_RANGE_ERROR":"Введите значение от {0} до {1}.","INVALID_MAX_VALUE_ERROR":"Введите значение меньшее или равное {0}.","INVALID_MIN_VALUE_ERROR":"Введите значение большее или равное {0}. ","POSTAL_ERROR":"Укажите действительный индекс","INVALID_SMS_MISSING_PHONE_LIP":"Please enter your mobile number first if you wish to receive SMS from Clarins","INVALID_SMS_MISSING_PHONE":"Пожалуйста, введите свой номер телефона, чтобы получать смс-сообщения от Clarins","INVALID_FIRSTNAME_ERROR":"Пожалуйста, используйте только буквы","INVALID_LASTNAME_ERROR":"Пожалуйста, используйте только буквы","INVALID_NAME_ERROR":"Недопустимые символы","INVALID_CHARS_SEQUENCE":"Недопустимо применение 3х одинаковых букв подряд","INVALID_DIRECTMAIL_MISSING_ADDRESS":"Please enter your address in the tab on the right first if you want to receive direct mail from Clarins","INVALID_DIRECTMAIL_MISSING_ADDRESS_NO_LIP":"Для получения рассылки от Clarins укажите свой почтовый адрес в разделе \"Адреса\"","INVALID_PERSONALIZED_EMAIL":"Please select sms or phone","INVALID_DATA_OPT_IN_AGREEMENT":"","PASSWORD_SECURITY_WEAK":"Слабая","PASSWORD_SECURITY_MEDIUM":"Средняя","PASSWORD_SECURITY_HIGH":"Высокая","PASSWORD_SECURITY_LENGTH":"как минимум {0} символов (обязательно)","CUSTOMER_ADDRESS_INVALID_PROVINCE":"Укажите корректное название региона","CUSTOMER_ADDRESS_INVALID_CITY":"Укажите корректное название города","CONTENT_PAGE_QUICKVIEW_PRODUCT_NOT_AVAILABLE":"","CATEGORY_DROPDOWN_OPTION":"все","SHARE_ERROR_MESSAGE":"","DOUBLE_SHARE_ERROR_MESSAGE":"","POPSTATION_SELECT_ADDRESS":"Select Address","POPSTATION_ADDRESSES_NOT_AVAILABLE":"PopStation Addresses are not available","POPSTATION_DEFAULT":"Default","SEVEN_ELEVEN_SELECT_ADDRESS":"You must select a store.","SEVEN_ELEVEN_DEFAULT":"Default","PICK_POST_DEFAULT":"Default","COMPANY_INVOICE_DEFAULT":"Default","ADDRESS_FINDER_SELECT_ADDRESS":"Please select an address","IS_NON_TRANSACTIONAL_SITE":false,"ACCESSIBILITY_CAROUSEL_PAGE_DOT_LABEL":"Carousel page %%PAGE_NUMBER%%","SVS_ERROR_MSG_INVALID_DATE":"Please enter a date between {0} and {1}","SVS_ERROR_MSG_BALANCE_ERROR":"Error retreiving balance","SVS_ERROR_MSG_INVALID_CHARACTERS":"Использование специальных символов недопустимо, пожалуйста, пересмотрите свое сообщение.","ROUTINE_EMAIL_SENT_SUCCESS_MSG":"<h3 class='send-routine-title'>Ваша программа ухода отправлена на {0}</h3><h2 class='text-center routine-sent-text'>Персональная программа ухода отправлена на ваш электронный адрес.</h2>","ROUTINE_EMAIL_SENT_ERROR_MSG":"<h3>Ошибка отправки письма. Попробуйте ещё раз. {0} </h3>","ROUTINE_EMAIL_SENT_SUCCESS_MSG_MEN":"<h3 class='send-routine-title'>Ваша программа ухода отправлена на указанный e-mail: {0}</h3><h2 class='text-center routine-sent-text'>Ваша программа ухода успешно отправлена на указанный e-mail!</h2>","ROUTINE_EMAIL_SENT_ERROR_MSG_MEN":"<h3>При отправке программы ухода на указанный e-mail произошла ошибка. {0} </h3>","BEAUTY_ROUTINE_FREE_PRODUCT":"Ваш подарок","IN_STOCK":"В наличии","QTY_IN_STOCK":"{0} Продукт(ов) на складе","PREORDER":"Предварительный заказ","QTY_PREORDER":"{0} Продукт(ов) доступно для предварительного заказа.","REMAIN_PREORDER":"Оставшиеся продукты доступны для предварительного заказа.","BACKORDER":"Заказ отложен","QTY_BACKORDER":"Продукт(ы) в отложенном заказе {0}","REMAIN_BACKORDER":"Оставшиеся продукты доступны в отложенном заказе.","NOT_AVAILABLE":"Нет в наличии","REMAIN_NOT_AVAILABLE":"Оставшиеся продукты временно недоступны. Пожалуйста, отрегулируйте количество."};
+window.Urls = {"wishListProductCount":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/WishlistAjax-ProductCount","routineEmailAjax":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/RoutineEmailAjax-SendRoutineStart","emailCaputure":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/EmailCaptureHandler-Start","appResources":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/Resources-Load","pageInclude":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/Page-Include","continueUrl":"https://www.clarins.ru/","staticPath":"/on/demandware.static/Sites-clarinsru-Site/-/ru_RU/v1639290511449/","addGiftCert":"/e-podarochnyj-sertifikat","minicartGC":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/GiftCert-ShowMiniCart","addProduct":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/Cart-AddProduct","removeProduct":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/Cart-RemoveProduct","chooseBonusProduct":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/ChooseBonusProducts-ChooseBonusProduct","minicart":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/Cart-MiniAddProduct","cartShow":"/cart","homeShow":"/","giftRegAdd":"https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/AddressAjax-GetAddressDetails?addressID=","paymentsList":"https://www.clarins.ru/oplata","paymentsAdd":"https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/PaymentInstrumentsAjax-Add","paymentsDelete":"https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/PaymentInstrumentsAjax-Delete","paymentsDeleteCC":"https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/PaymentInstrumentsAjax-DeleteCreditCard","paymentsDefault":"https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/PaymentInstrumentsAjax-Default","paymentsHandleCvnForm":"https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/PaymentInstrumentsAjax-HandleCVNForm","addressesList":"https://www.clarins.ru/adresa","wishlistAddress":"https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/Wishlist-SetShippingAddress","editAddressForm":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/AddressAjax-EditAddressForm","loadAddressForm":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/AddressAjax-LoadAddressForm","newAddressForm":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/AddressAjax-NewAddressForm","makeAddressDefault":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/AddressAjax-MakeDefault","getSavedAddresses":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/AddressAjax-GetSavedAddresses","getProductUrl":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/Product-Show","getBonusProducts":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/Product-GetBonusProducts","addBonusProduct":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/Cart-AddBonusProduct","getSetItem":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/Product-GetSetItem","productDetail":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/Product-Detail","productRewards":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/ProductAjax-GetRewardPoints","getAvailability":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/Product-GetAvailability","removeImg":"/on/demandware.static/Sites-clarinsru-Site/-/default/dw35e810f0/images/interface/icon_remove.gif","searchsuggest":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/SearchAjax-GetSuggestions","productNav":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/ProductAjax-Productnav","summaryRefreshURL":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/COBillingAjax-UpdateSummary","useSameAsShipping":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/COBillingAjax-UseSameAsShipping","billingSelectCC":"https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/COBillingAjax-SelectCreditCard","shippingMethodsJSON":"https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/COShippingAjax-GetApplicableShippingMethodsJSON","shippingMethodsList":"https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/COShippingAjax-UpdateShippingMethodList","selectShippingMethodsList":"https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/COShippingAjax-SelectShippingMethod","setDefaultShipment":"https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/COShippingAjax-SetDefaultShipment","deleteAddress":"https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/COShippingAjax-DeleteAddress","deleteAddress2":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/AddressAjax-Delete","compareShow":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/Compare-Show","compareAdd":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/Compare-AddProduct","compareRemove":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/Compare-RemoveProduct","compareEmptyImage":"/on/demandware.static/Sites-clarinsru-Site/-/default/dw94af6392/images/comparewidgetempty.png","headImage":"/on/demandware.static/Sites-clarinsru-Site/-/ru_RU/v1639290511449/routine-email/headImage.png","giftCardCheckBalance":"https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/GiftCertAjax-GetGiftCertificateBalance","redeemGiftCert":"https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/COBillingAjax-RedeemGiftCertificateJson","applyGiftCert":"https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/COBillingAjax-RedeemGiftCertificate","addCoupon":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/CartAjax-AddCouponJson","billing":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/COBilling-Start","formBuilderLoadForm":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/FormBuilderAjax-LoadForm","currencyConverter":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/Currency-SetSessionCurrency","cookieHint":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/Page-Include?cid=cookie_hint","adValidateAddress":"https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/ValidateAddressAjax-Start","adLoadingImage":"/on/demandware.static/Sites-clarinsru-Site/-/default/dw039dd818/images/loading-small.gif","getPaymentMethod":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/COBillingAjax-GetPaymentMethod","updatePaymentMethodsSection":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/COBillingAjax-UpdatePaymentMethodsSection","spcShippingForm":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/COShipping-Start","spcShippingSummary":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/COShippingAjax-Summary","spcBillingForm":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/COBilling-Start","spcBillingSummary":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/COBillingAjax-Summary","spcSummaryForm":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/COSummary-Start","coSummarySubmit":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/COSummary-Submit","spcUpdateGiftWrap":"https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/COShippingAjax-UpdateGiftWrap","spcUpdateGiftMessage":"https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/COShippingAjax-UpdateGiftMessage","removeCoupon":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/CartAjax-RemoveCouponJson","gsSaveURL":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/GuidedSearch-Save","gsSaveSuccessURL":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/GuidedSearch-SaveSuccess","gsSaveErrorURL":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/GuidedSearch-SaveError","gsLoadingImage":"/on/demandware.static/Sites-clarinsru-Site/-/default/dw693f3452/images/placeholder.gif","productsToIngredient":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/SearchAjax-ProductsToIngredient","newsletterSubscribe":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/NewsletterAjax-Subscribe","accountShow":"https://www.clarins.ru/akkaunt","accountProfile":"/redaktirovat-profil","loyaltyHistory":"https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/LoyaltyAjax-Rewards","loyaltyStamps":"https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/LoyaltyAjax-Stamps","loyaltyStampRedeem":"https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/LoyaltyAjax-StampRedeem","loyaltyAdvantages":"https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/LoyaltyAjax-Advantages","tcPostFormLoad":"https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/TagcommanderAjax-PostFormLoad","tcGetProductData":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/TagcommanderAjax-GetProductData","getMiniCart":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/Cart-MiniCart","updateCartPromotionBanner":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/CartAjax-CartBanner","isCustomerAuth":"https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/AccountAjax-IsCustomerAuth","isSessionExpired":"https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/AccountAjax-IsSessionExpired","samplesPage":"https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/COSamples-Start","samplesAdd":"https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/SamplesAjax-AddSampleToCart","samplesRemove":"https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/SamplesAjax-RemoveSampleFromCart","samplesRemoveAll":"https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/CartAjax-RemoveProductsFromCart","getSampleTile":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/SamplesAjax-GetSampleTile","samplesBarAddToCart":"https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/SamplesBar-AddToCart","samplesBarRemoveFromCart":"https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/SamplesBar-RemoveFromCart","samplesBarResetCart":"https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/SamplesBar-ResetCart","storeFindNearest":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/StoresAjax-FindNearestStores","calculateEstimateTaxes":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/TaxationAjax-CalculateEstimateTax","minicartGetProducts":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/CartAjax-GetProductLineItems","newsletterAdditionalSubscription":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/Subscribe-AdditionalSubscription","passwordVerification":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/AccountAjax-PasswordVerification","youtubeRectIcons":"/on/demandware.static/-/Library-Sites-clarins-v3/default/dw0c2dc7de/youtube/rectplaybtn.png","getDistrictOptions":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/AddressesAjax-GetDistrictOptions","upsMap":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/UPS-ShowMap","socialOptinTrackingUrl":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/SocialLegacy-SetSocialDoubleOptinData","newsletterThankYouPage":"/newsletter-thank-you.html","circleMemberCheckoutAsset":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/Page-Show?cid=circle-checkout-circle-member&format=ajax","mobileVerifyCode":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/MobileRegistrationAjax-GenerateCode","queryPaymentStatusWechat":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/WECHATPAY-QueryPaymentStatus","payResultPaymentWechat":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/WECHATPAY-PayResult","payResultFailPaymentWechat":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/WECHATPAY-PayFailStatus","mobilePaswordResetGenerateCode":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/MobilePaswordResetAjax-GenerateCode","mobilePaswordResetPrepareInfo":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/MobilePaswordResetAjax-PrepareInfo","tcaptchaSuccessImg":"/on/demandware.static/Sites-clarinsru-Site/-/ru_RU/v1639290511449/images/tcaptcha_success.png","editorialVideoTemplate":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/EditorialVideoAjax-Template","getProductActionsUrl":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/ProductAjax-GetProductActions","circleOverlay":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/CircleAjax-ShowOverlay","dashboardOverlay":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/DasboardAjax-ShowOverlay","dashboardLearnMore":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/DasboardAjax-LearnMore","savedStores":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/AccountLIP-Stores","addSavedStore":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/AccountLIPAjax-AddStore","subscribeCustomerForSalesforceLoyalty":"https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/SalesforceLoyaltyAjax-SubscribeCustomerForSalesforceLoyalty","subscribeCustomerForSalesforceLoyaltyForm":"https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/SalesforceLoyaltyAjax-SubscribeForSalesforceLoyaltyForm","updateCustomerCircleAttribute":"https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/SalesforceLoyaltyAjax-SubscribeForSalesforceLoyaltyFormProfile","removeSavedStore":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/AccountLIPAjax-RemoveStore","getProductSuggestionsJSON":"https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/AccountLIPAjax-GetProductSuggestionsJSON","engravingPopup":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/EngravingAjax-ShowPopup","samplesRoutine":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/SamplesRoutine-Show","samplesRoutineUpdateCategoryID":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/SamplesRoutine-UpdateCategoryID","startCheckoutWithLogin":"https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/SPCO-StartWithLogin","redirectFromPonyExpress":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/SPCO-Start","basketRemoveAllLineItems":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/CartAjax-RemoveAllLineItems","orderPrintInvoice":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/OrderInvoiceAjax-GetOrderPrintPreview","getBasketCustomLineItemsInfo":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/CartAjax-GetBasketCustomLineItemsInfoJSON","vanityKitPage":"/vash-beauty-nabor","giftKitPage":"/gid-po-podarkam","addProductToProductList":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/ProductListAjax-AddProduct","removeProductFromProductList":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/ProductListAjax-RemoveProduct","removeAllProductsFromProductList":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/ProductListAjax-RemoveAllProducts","updateVanityKitList":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/VanityKitAjax-UpdateProductList","getVanityKitProductTile":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/VanityKitAjax-GetProductTile","getGiftKitProductTile":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/GiftKitAjax-GetProductTile","getGiftKitSticky":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/GiftKitAjax-GetSticky","basketRemoveKitItems":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/CartAjax-RemoveKitItemsFromBasket","myAdvantages":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/MyAdvantagesHook-HasBasket","continueShopping":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/MyAdvantagesHook-ContinueShopping","giftCertPreview":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/GiftCertAjax-Preview","dpdShippingGetStores":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/COShippingAjax-GetStoresDPDShipping","productDefaultImage":"/on/demandware.static/Sites-clarinsru-Site/-/default/dwa5d04523/images/product-default-image.png","declarePurchase":"https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/AccountLIP-DeclarePurchase","wishlistAddToCart":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/WishlistHook-WishlistAddToCart","uniqueCodeShow":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/UniqueCode-Show","uniqueCodeRegisterSuccess":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/UniqueCode-RegisterSuccess","uniqueCodeProvideAddress":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/UniqueCode-ProvideAddress","updateCustomerFavouriteStore":"https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/StoresAjax-UpdateCustomerSavedStore","favouriteStoreEdit":"https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/Account-EditStore","favStoresCleanForm":"https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/Account-FavouriteStoresCleanForm","googleMaps":"//maps.googleapis.com/maps/api/geocode/json?address={0}&key={1}&sensor=false","privacyPolicy":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/Page-Show?cid=privacy-policy","loadBelowTheFoldPDPSection":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/ProductAjax-LoadBelowTheFoldPDPSection","getLastVisitedProducts":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/ProductAjax-GetLastVisitedProducts","productHitTile":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/Product-HitTile","getZipCodeMatches":"https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/AddressAjax-GetZipCodeMatchesJson","serenityPage":"/serenity-price.html","olapicAjax":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/OlapicAjax-LoadContent","communityAjax":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/Circle-CommunityAjax","canShowQuickview":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/ProductController-CanShowQuickview","loadQuickview":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/ProductController-LoadQuickview","addLoveReturnSample":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/ProductController-AddLoveReturnSample","janrainShare":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/JanrainAjax-ShareSocial","nativeShare":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/NativeShareAjax-ShareSocial","circleDiscussionAjax":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/Circle-DiscussionAjax","circleSubmitFeedbackAjax":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/Circle-SubmitFeedbackAjax","circleSubmitAnswerAjax":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/Circle-SubmitAnswerAjax","circleSubmitAnswerSuccess":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/Circle-SubmitAnswerSuccess","getPendingOrderStatus":"https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/COPlaceOrder-GetPendingOrderStatus","orderHistory":"https://www.clarins.ru/istoriya-zakazov","pendingPaymentConfirmation":"https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/COSummary-PendingPaymentConfirmation","cbaSiteHeader":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/Header-IncludeHeader","siteHeader":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/Home-IncludeHeader","siteFooter":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/Home-IncludeFooter","navigation":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/Navigation-PrepareNavigation","afterpayLearnMoreDialog":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/AfterpayAjax-LearnMoreDialog","youtubeLightBox":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/YoutubeAjax-MakeLightBox","popStationList":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/PopStationAjax-List","sevenElevenSendAddressData":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/SevenEleven-SendAddressData","ponyExpressSendAddressData":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/PonyExpress-SendPonyExpressAddress","getSearchNoHitsBottom":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/SearchAjax-GetNoHitsBottom","functionalTextToolEditImage":"/on/demandware.static/Sites-clarinsru-Site/-/default/dw63c6a899/images/functionaltexttool/ft-tool-edit-image.png","functionalTextCopyToClipboardImage":"/on/demandware.static/Sites-clarinsru-Site/-/default/dw06fc508b/images/functionaltexttool/ft-tool-copy-to-clipboard.png","toggleFunctionalTextTool":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/FTToolAjax-Toggle","addressFinder":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/AddressFinder-Send","getEretailers":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/ProductAjax-Eretailers","niceServiceStart":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/NiceService-Start","samplesShowOverlay":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/SamplesAjax-ShowOverlay","getSamplesList":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/SamplesAjax-GetSamplesList","getSampleDetails":"https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/SamplesAjax-GetSampleDetails?samplesOverlay=true","uploadReceiptSuccess":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/Circle-UploadSuccess","autofixCartQuantities":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/CartAjax-FixProductQuantities","markerClusterImage":"/on/demandware.static/Sites-clarinsru-Site/-/default/dw3175042f/images/marker-cluster.png","checkoutLogin":"https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/COCustomer-Start","updateOrderSummary":"https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/OrderAjax-UpdateSummary","loadTab":"https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/ProductAjax-LoadTab","loadNewsletterOptinsCheckoutAjax":"https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/SPCOAjax-NewsletterOptins","estimatedDeliveryDateUrl":"https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/NarvarShipping-EstimatedDeliveryDate","renderIframe":"https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/IframeRenderer-Show","customerResources":"https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/Home-IncludeResourcesCustomer","svsApplyGiftCard":"https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/SVSAjax-HandleCheckBalanceFormSubmission","svsRemoveGiftCard":"https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/SVSAjax-RemoveGiftCard","productShadeCompare":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/Product-ShowColorSwatchesShadeCompareModuleAction","getRefinementsInformation":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/SearchAjax-GetRefinementsInformation","cybersource3DSverification":"/on/demandware.store/Sites-clarinsru-Site/ru_RU/Cybersource-3DSVerification"};
+window.SitePreferences = {"LISTING_REFINE_SORT":true,"LISTING_SEARCHSUGGEST_LEGACY":true,"COOKIE_HINT":false,"CART_POPUP_TIMEOUT":5000,"NEWSLETTER_COOKIE_LIFETIME":30,"NEWSLETTER_COOKIE_NAME":"nlcookie","NEWSLETTER_POPUP_DISPLAY_DELAY":60,"NEWSLETTER_POPUP_CLOSE_DELAY":5,"TAGCOMMANDER_ENABLED":true,"TAGCOMMANDER_EVENTS_ENABLED":true,"TAGCOMMANDER_DEBUG_MODE_ENABLED":false,"TAGCOMMANDER_CUSTOM_CONFIG_ENABLED":true,"TAGCOMMANDER_CUSTOM_CONFIG_JSON":"{\n    \"headerContainer\": {\n        \"full_path\":\"//cdn.tagcommander.com/835/tc_clr_head_18.js\",\n        \"event_function\": \"tc_events_18\"\n    },\n\t\"bodyTopContainer\": {\n\t\t\"full_path\": \"//cdn.tagcommander.com/835/tc_clr_body_RUS_8.js\",\n\t\t\"event_function\": \"tc_events_8\"\n\t},\n\t\"bodyBottomContainer\": {\n\t\t\"full_path\": \"//cdn.tagcommander.com/835/tc_ClarinsEuropeecommerce_6.js\",\n\t\t\"event_function\": \"tc_events_6\"\n\t}\n}","VALIDATE_GIFT_MESSAGE":true,"SEEWHY_ENABLED":false,"SAMPLES_ON_PAGE":3,"FORMS_ACTIVE_STATE_ENABLED":true,"SALESFORCE_EMAIL_REGEX":"^[a-zA-Z0-9.!#$%&'*+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:\\.[a-zA-Z0-9-]{2,6})+$","GLOBAL_EMAIL_REGEX":"^[a-zA-Z0-9.!#$%&'*+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:\\.[a-zA-Z0-9-]{2,6})+$","STORELOCATOR_MAP_TYPE":"ROADMAP","STORELOCATOR_ZOOM_RADIUS":10,"STORELOCATOR_ZOOM_COUNTRY_RADIUS":null,"STORELOCATOR_GOOGLE_API_KEY":"AIzaSyDEi_6NBi3RlD_P_yhdLQQUhqKr4Ct_faA","STORELOCATOR_MARKER_CLUSTERS_OPTIONS_JSON":"{\n    \"gridSize\": 60,\n    \"maxZoom\": 15,\n    \"zoomOnClick\": true,\n    \"averageCenter\": false,\n    \"minimumClusterSize\": 2\n}","CYBERSOURCE_ESTIMATE_TAX_CALCULATION_ENABLED":false,"SPC_TERMS_IS_ENABLED":true,"NEWSLETTER_THANK_YOU_PAGE_ENABLED":false,"UPS_ENABLED":false,"UPS_SHIPPING_METHOD_ID":null,"UPS_ADDRESS_CUT_OFF_ENABLED":false,"UPS_POPULATE_COMPANY_ENABLED":false,"SOCIAL_DOUBLE_OPTIN_ENABLED":false,"STICKY_ORDER_SUMMARY_ENABLED":false,"NEWSLETTER_THANK_YOU_PAGE_AFTER_SUBSCRIPTION_ENABLED":false,"IS_STICKY_ADDTOBAG_MOBILE_PDP_ENABLED":true,"MOBILE_SUBSCRIPTION_ENABLED":false,"MOBILE_REGISTRATION_ENABLED":false,"BAIDU_MAP_GEO_CODE_URL":"//api.map.baidu.com/geocoder/v2/?ak=6vDI32X0kw8SihdIGfyAZ15z&output=json&address=","TENCENT_CAPTCHA_ENABLED":false,"TENCENT_CAPTCHA_NOTICE_FADEOUT_TIME":null,"TENCENT_CAPTCHA_THEME_COLOR":"000000","TENCENT_CAPTCHA_EMBED_TYPE":"embed","MASTERCARD_RANGE_VERIFICATION":"51-55|222100-272099","ADDRESS_AUTOCOMPLETE_ENABLED":false,"ADDRESS_AUTOCOMPLETE_API_KEY":"AIzaSyDEi_6NBi3RlD_P_yhdLQQUhqKr4Ct_faA","ADDRESS_AUTOCOMPLETE_USER_GEOLOCATION_ENABLED":false,"ADDRESS_AUTOCOMPLETE_DEFAULT_GEOLOCATION":null,"ADDRESS_AUTOCOMPLETE_DEFAULT_RADIUS":null,"ADDRESS_AUTOCOMPLETE_GOOGLE_API_URL":"https://maps.googleapis.com/maps/api/js?key=","SEARCH_SUGGESTIONS_MIN_LETTER_COUNT":3,"SEARCH_SUGGESTIONS_SPEECH_API_ENABLED":false,"SEARCH_REFINEMENTS_REMAIN_OPEN_NUM":5000,"PDP_DESCRIPTION_LENGTH_INT":200,"SALESFORCE_LOYALTY_ENABLED":false,"SALESFORCE_LOYALTY_COUPONS_PREFIX":[],"SALESFORCE_ENABLED":false,"ADDRESS_DOCTOR_ON_PAGES_ENUM":[],"ADDRESS_DOCTOR_ALLOWED_COUNTRY_CODES":[],"MOBILE_PASSWORD_RESET_ENABLED":false,"BV_ENABLED":true,"BV_CONVERSATION_API_ENABLED":true,"BV_TRACK_IN_VIEW_TIMEOUT":5,"BV_TRACK_VIEWED_CGC_PIXELS":250,"TRY_IT_ON_ENABLED":true,"TRY_IT_ON_API_KEY":"xRS85rg7ZhQ3P3QnZL5g","TRY_IT_ON_API_URL":"https://plugins-media.perfectcorp.com/c26155/sdk.js?apiKey={0}","SAMPLES_ONLY_CHECKOUT_ORDERABLE_SAMPLES_COUNT":5,"GIFT_KIT_ROOT_CATEGORY_ID":"gift-kits","MAX_SAVED_FAVOURITE_STORES":1,"DPD_ID":null,"DPD_ENABLED":false,"DPD_GOOGLE_MAP_ZOOM_RADIUS":10,"DPD_GOOGLE_MAP_TYPE":"ROADMAP","DPD_DESKTOP_STORE_PER_PAGE":5,"DPD_MOBILE_STORE_PER_PAGE":5,"DECLARE_PURCHASE_SDK_OAUTH_KEY":null,"DECLARE_PURCHASE_SDK_OAUTH_SECRET":null,"DECLARE_PURCHASE_MAX_DECLARABLE_PRODUCTS":15,"PLP_TILE_REVIEW_TEXT_LENGTH":110,"PLP_TILE_REVIEW_CLIENT_NAME_LENGTH":42,"PLP_TILE_CLARINS_PLUS_TEXT_LENGTH":90,"CIRCLE_OPTIN_SUCCESS_POPUP_CLOSE_DELAY":5,"PICK_POST_ENABLED":false,"V3_PICK_POST_SHIPPING_METHOD_ID":null,"BV_RR_HOSTNAME":"display.ugc","BV_STAGING_PATH":"/.","SHARE_THIS_ENABLED":true,"OLAPIC_ENABLED":false,"COMMUNITY_QUESTION_FORM_TEXT_LENGTH":250,"COMMUNITY_QUESTION_DISCUSSION_FORM_TEXT_LENGTH":250,"MAX_PRODUCTS_SAVED_IN_RECENTLY_VIEWED":5,"MINI_CART_ON_CART_PAGE":false,"ZIP_CODE_FINDER_THRESOLD":3,"SALESFORCE_COUNTRY":null,"DISPLAY_PRODUCT_PRICE_SAVING_AS_BADGE_ENABLED":true,"V3_BV_COMMUNITY_PAGINATION":5,"V3_BV_COMMUNITY_SORTING_JSON":null,"V3_BV_DISCUSSION_SORTING_JSON":null,"PDP_LAZY_LOAD_ENABLED":false,"V3_BV_CONTAINER_HEIGHT":"110","V3_SOCIAL_NETWORKS_NATIVE_SHARE_ENABLED":false,"V3_BV_CONTAINER_MOBILE_HEIGHT":"55","V3_CANONICAL_URL_ON_PRODUCT_TILE_ENABLED":true,"V3_PDP_OPEN_PRODUCT_LINKS_IN_NEW_TAB_ENABLED":false,"V3_CART_SAMPLES_REWORK_ENABLED":null,"V3_EMAIL_DOMAIN_SUGGESTIONS_SET":[],"V3_YOUTUBE_IFRAME_API_ENABLED":false,"V3_CHECKOUT_POPSTATION_SHIPPING_METHOD_ID":null,"SEARCH_BOX_REWORK_ENABLED":true,"V3_SEVEN_ELEVEN_SHIPPING_METHOD_ID":null,"V3_PONY_EXPRESS_SHIPPING_METHOD_ID":null,"ACCOUNT_MIN_REGISTRATION_AGE_INT":13,"V3_PICK_POST_API_URL":"https://places.post.ch/ria?containerId=%%containerId%%&apiKey=%%apiKey%%&lang=%%lang%%","V3_PICK_POST_API_KEY":null,"V3_PICK_POST_CONTAINER_ID":"pick-post-container","V3_PICK_POST_API_URL_LANG":"de/fr","V3_WECHAT_BROWSERS_ELIGIBLE_SET":[],"V3_ADDRESS_FINDER_API_URL":"https://www.juso.go.kr/addrlink/addrLinkUrl.do","V3_ADDRESS_FINDER_API_KEY":null,"V3_PRODUCT_ERETAILERS_ENABLED":false,"V3_GOOGLE_RECAPTCHA_ENABLED":false,"V3_GOOGLE_RECAPTCHA_SITE_KEY":"6LeN_8MZAAAAAH-i3U4AU_G1zhk2YYkFuAbWjGyy","V3_GOOGLE_RECAPTCHA_SCRIPT_URL":"https://www.google.com/recaptcha/api.js","V3_ADDRESS_POSTAL_CODE_STATE_MAPPING":"{}","V3_MEXICAN_POSTAL_CODE_PREFIX_MATCH_LENGTH":2,"V3_NICE_INTEGRATION_ENABLED":false,"V3_CHECKOUT_PAYMENT_DIALOG_CONFIGURATION_TXT":null,"V3_STOREFRONT_CUSTOMER_NAME_CHARS_SEQUENCE_REGEX":"([\\S])\\1{2,}","V3_STOREFRONT_CUSTOMER_NAME_CHARS_REGEX":"[‚“”„‟«»‹›Ꞌ\"<>@×‧¨꞉:⁚⁝⁞⁖⸪⸬⸫⸭⁛⁘⁙⁏;⦂⁃–―_~⁓⸛⸞⸟ⸯ¬\\\\\\/\\⁄\\⁄|⎜¦‖‗†‡•⸰°‣%&⅋§÷+±=꞊″‴⁗‵‶‷*!?¶⁋❡⁌⁍⸖⸗⸚⸓()[\\]{}⸨⸩❨❩❪❫⸦⸧❬❭❮❯❰❱❴❵❲❳⦗⦘⁅⁆⟨⟩#0-9]","V3_SAMPLES_OVERLAY_NEW_AS_DEFAULT_CATEGORY_ENABLED":true,"V3_SALESFORCE_LOYALTY_CIRCLE_COUNTRIES_SET":[],"V3_CYBERSOURCE_3DS_V2_ENABLED":false,"V3_CYBERSOURCE_3DS_V2_LOGGING_LEVEL":"off","V3_BPM_ONLINE_ENABLED":true,"V3_BPM_ONLINE_SAVE_PROFILE_ENABLED":true,"V3_NEWSLETTER_REGISTRATION_PRESELECTED":false,"V3_NEWSLETTER_PREFERRED_LANGUAGE_MAPPING":"{}","V3_CART_MINICART_ENABLED":true,"V3_DONATIONS_ENABLED":false,"V3_ESTIMATED_DELIVERY_DATE_ENABLED":false,"V3_ESTIMATED_DELIVERY_DATE_PAGE_ENABLED":[],"V3_BOOXIE_SETTINGS":null,"V3_BOOXIE_ENABLED":null,"V3_SVS_GIFT_CARDS_ENABLED":false,"V3_ACCOUNT_PRESELECT_YES_DIRECT_MAIL_ENABLED":false,"V3_ORDERGROOVE_MERCHANT_ID":null,"V3_CYBERSOURCE_ENABLE_TOKENIZATION_ENUM":"NO","V3_IS_ORDERGROOVE_ENABLED":null,"V3_PRODUCT_PRICE_PER_UNIT_ENABLED_ENUM":[""],"V3_BC_PRODUCT_REDIRECTS":null};
+
+window.User = 
+
+{"isRegistered":false,"isCircleMember":false,"isLoyaltyMember":false,"isAuthenticated":false,"isOptedIn":false,"salesforceID":"","CSRFTokenName":"csrf_token","CSRFTokenValue":"0imCkpZzu8cFoI7aKCmZYQ9J2KCVucDWlu0-PZquVo_hTlVgu_EhBF0QGL91toKvIBEdI-2N2SM6dU6rB7-B8fP_22x9o4qRfgRkgMMgIk9t6Ud2RCrkq9xpYT0ZPEmIv1kFLSPSiXtmmNY03D_H_jMCSeB62_YRxyRYKbSGvA-jJn30sek=","email":"","title":"","customerNo":"","firstName":"","lastName":"","firstNameAlternative":"","lastNameAlternative":"","bvuserid":null,"phoneNumber":"","phoneMobile":"","phoneCountryCode":"","sessionTimeStamp":"15:40:22 GMT-0000 (GMT)","isFunctionalTextToolEnabled":null,"destZip":"","destCountry":""};
+
+}());
+</script>
+<script src="/on/demandware.static/Sites-clarinsru-Site/-/ru_RU/v1639290511449/js/runtime.js"></script>
+<script src="/on/demandware.static/Sites-clarinsru-Site/-/ru_RU/v1639290511449/js/lib.js"></script>
+<script src="/on/demandware.static/Sites-clarinsru-Site/-/ru_RU/v1639290511449/js/app.js"></script>
+<script src="/on/demandware.static/Sites-clarinsru-Site/-/ru_RU/v1639290511449/lib/external/ClarinsYT.min.js"></script>
+<script>
+pageContext = {"title":"Storefront","type":"storefront","ns":"storefront"};
+
+InitYTPlayers();
+
+</script>
+<script>
+//Fix for the back-forward cache issue on Safari..reloading the page in order to hit the BE properly and refresh the content
+// JIRA issue: CLRG-31447
+if (/^((?!chrome|android).)*safari/i.test(navigator.userAgent)) {
+window.addEventListener('pagehide', function(e) {
+var $body = $(document.body);
+$body.html('');
+setTimeout(function() {
+window.location.reload();
+});
+});
+}
+</script>
+<script src="/on/demandware.static/Sites-clarinsru-Site/-/ru_RU/v1639290511449/js/generics_lookup_dll.js"></script>
+<script src="/on/demandware.static/Sites-clarinsru-Site/-/ru_RU/v1639290511449/js/components_lookup_dll.js"></script>
+<script src="/on/demandware.static/Sites-clarinsru-Site/-/ru_RU/v1639290511449/js/bootstrap.js"></script>
+<script src="/on/demandware.static/Sites-clarinsru-Site/-/ru_RU/v1639290511449/js/static_loader.js"></script>
+<script src="/on/demandware.static/Sites-clarinsru-Site/-/ru_RU/v1639290511449/js/app_components_lib.js"></script>
+<script src="/on/demandware.static/Sites-clarinsru-Site/-/ru_RU/v1639290511449/js/app_components_lip_lib.js"></script>
+<script src="/on/demandware.static/Sites-clarinsru-Site/-/ru_RU/v1639290511449/js/app_components_loyalty_lib.js"></script>
+<script src="/on/demandware.static/Sites-clarinsru-Site/-/ru_RU/v1639290511449/js/app_components_tagging_lib.js"></script>
+</div>
+</footer>
+</section>
+<div class="special-offer-bumper">
+</div>
+<div style="display: none;">
+<div class="session-expire-dialog">
+<div class="session-expire-container">
+<div class="session-expire-wrapper">
+<img src='/on/demandware.static/Sites-clarinsru-Site/-/default/dw039dd818/images/loading-small.gif' alt="Загрузка" />
+<div id="customerIsNotAuthenticated">Ваша сессия завершена. Вы будете перенаправлены на главную страницу через несколько секунд...</div>
+</div>
+</div>
+</div>
+</div>
+<script src="https://www.clarins.ru/on/demandware.static/-/Library-Sites-clarins-v3/ru_RU/v1639290511449/js/customjs-lbw.js" type="text/javascript"></script>
+<script src="https://www.clarins.ru/on/demandware.static/-/Library-Sites-clarins-v3/ru_RU/v1639290511449/js/customjs-dw.js" type="text/javascript"></script>
+<script type="text/javascript" src="//cdn.tagcommander.com/835/tc_ClarinsEuropeecommerce_6.js"></script>
+<script>
+	window.TagCommanderPageID = "homepage";
+</script>
+
+<script type="text/javascript">//<!--
+/* <![CDATA[ */
+function trackPage() {
+    try{
+        var trackingUrl = "https://www.clarins.ru/on/demandware.store/Sites-clarinsru-Site/ru_RU/__Analytics-Start";
+        var dwAnalytics = dw.__dwAnalytics.getTracker(trackingUrl);
+        if (typeof dw.ac == "undefined") {
+            dwAnalytics.trackPageView();
+        } else {
+            dw.ac.setDWAnalytics(dwAnalytics);
+        }
+    }catch(err) {};
+}
+/* ]]> */
+// -->
+</script>
+<script type="text/javascript" src="/on/demandware.static/Sites-clarinsru-Site/-/ru_RU/v1639290511449/internal/jscript/dwanalytics-21.9.js" async="async" onload="trackPage()"></script>
+
+<script src="/on/demandware.static/Sites-clarinsru-Site/-/ru_RU/v1639290511449/internal/jscript/dwac-21.7.js" type="text/javascript" async="async"></script>
+<script src="https://cdn.cquotient.com/js/v2/gretel.min.js" type="text/javascript" async="async"></script>
+</body>
+</html>

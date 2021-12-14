@@ -1,0 +1,985 @@
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="ru" prefix="og: http://ogp.me/ns/website#"
+  
+    dir="ltr"
+  
+>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <title>Kryptex</title>
+  <meta name="author" content="Kryptex">
+  <meta name="description" content="Заработай на мощности своего компьютера. Криптекс майнит криптовалюту, выплачивая за это биткоины и настоящие деньги: будь это рубли, доллары или другая валюта.">
+
+  
+  <link rel="canonical" href="https://www.kryptex.org/ru/"/>
+
+  
+  <meta property="vk:image" content="https://9a7f6a3c-8431-438c-89d9-90924a59e618.akamaized.net/static/images/vk_opengraph.35d5fadd710c.png"/>
+  <meta property="og:type" content="website"/>
+  <meta property="og:site_name" content="Kryptex"/>
+  <meta property="og:title" content="Kryptex"/>
+  <meta property="og:url" content="https://www.kryptex.org"/>
+  <meta property="og:image" content="https://9a7f6a3c-8431-438c-89d9-90924a59e618.akamaized.net/static/images/opengraph.00a86b88cb1a.png"/>
+  <meta property="og:description" content="Заработай на мощности своего компьютера. Криптекс майнит криптовалюту, выплачивая за это биткоины и настоящие деньги: будь это рубли, доллары или другая валюта.">
+
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@KryptexMining">
+  <meta name="twitter:creator" content="@KryptexMining">
+  <meta name="twitter:title" content="Kryptex">
+  <meta name="twitter:description" content="Заработай на мощности своего компьютера. Криптекс майнит криптовалюту, выплачивая за это биткоины и настоящие деньги: будь это рубли, доллары или другая валюта.">
+  <meta name="twitter:image" content="https://9a7f6a3c-8431-438c-89d9-90924a59e618.akamaized.net/static/images/opengraph.00a86b88cb1a.png">
+  <meta name="wot-verification" content="88b4a11fe3056a2e1d38"/>
+
+  <link rel="preload" href="https://9a7f6a3c-8431-438c-89d9-90924a59e618.akamaized.net/static/v2/dist/public.2e8877b92267.css" as="style">
+  <link rel="preload" href="https://9a7f6a3c-8431-438c-89d9-90924a59e618.akamaized.net/static/v2/fonts/Montserrat/woff2/Light.40e31707c08e.woff2" as="font" type="font/woff2" crossorigin />
+  <link rel="preload" href="https://9a7f6a3c-8431-438c-89d9-90924a59e618.akamaized.net/static/v2/fonts/Montserrat/woff2/Medium.4193cb373574.woff2" as="font" type="font/woff2" crossorigin />
+  <link rel="preload" href="https://9a7f6a3c-8431-438c-89d9-90924a59e618.akamaized.net/static/v2/fonts/Montserrat/woff2/SemiBold.c74260cde1a1.woff2" as="font" type="font/woff2" crossorigin />
+  <link rel="preload" href="https://9a7f6a3c-8431-438c-89d9-90924a59e618.akamaized.net/static/v2/fonts/Montserrat/woff2/Bold.1eaf59537a9c.woff2" as="font" type="font/woff2" crossorigin />
+
+  <link rel="preload" href="https://9a7f6a3c-8431-438c-89d9-90924a59e618.akamaized.net/static/v2/dist/sentry.a12c0ef5e2bf.js" as="script" />
+  <link rel="preload" href="https://9a7f6a3c-8431-438c-89d9-90924a59e618.akamaized.net/static/v2/dist/common.73bd2cddf144.js" as="script" />
+  <link rel="preload" href="https://9a7f6a3c-8431-438c-89d9-90924a59e618.akamaized.net/static/v2/dist/public.3617bca2dd04.js" as="script" />
+
+  <link rel="stylesheet" href="https://9a7f6a3c-8431-438c-89d9-90924a59e618.akamaized.net/static/v2/dist/public.2e8877b92267.css">
+
+  
+
+<link rel="apple-touch-icon" href="https://9a7f6a3c-8431-438c-89d9-90924a59e618.akamaized.net/static/v2/favicons/apple-touch-icon-120x120.8e718f3fec07.png">
+<link rel="apple-touch-icon" sizes="180x180" href="https://9a7f6a3c-8431-438c-89d9-90924a59e618.akamaized.net/static/v2/favicons/apple-touch-icon-180x180.a4f9d4eb7ff9.png">
+
+<link rel="icon" type="image/png" href="https://9a7f6a3c-8431-438c-89d9-90924a59e618.akamaized.net/static/v2/favicons/favicon.953a562cb210.png" />
+<link rel="icon" sizes="any" type="image/svg+xml" href="https://9a7f6a3c-8431-438c-89d9-90924a59e618.akamaized.net/static/v2/favicons/favicon.d879b2cc1616.svg">
+<link rel="shortcut icon" href="https://9a7f6a3c-8431-438c-89d9-90924a59e618.akamaized.net/static/v2/favicons/favicon.f584f0a8f436.ico">
+
+<link rel="manifest" href="https://9a7f6a3c-8431-438c-89d9-90924a59e618.akamaized.net/static/v2/manifest.f81999ba7fe8.json">
+<meta name="msapplication-TileColor" content="#0a0a0a">
+<meta name="theme-color" content="#036ee9">
+
+  
+
+
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-KF8WWM5');</script>
+
+
+
+    <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-86497036-1', 'auto');
+        
+        ga('send', 'pageview');
+        ga(function(tracker) {
+            var clientId = tracker.get('clientId');
+            document.cookie = 'GA_ClientId=' + clientId + "; path=/";
+        });
+
+    </script>
+
+
+
+  <script defer src="https://9a7f6a3c-8431-438c-89d9-90924a59e618.akamaized.net/static/v2/js/analytics/yandex-metrika.902599d44c7c.js"></script>
+  <script type="text/javascript">
+    var initYm = setInterval(function () {
+      if(typeof window.ym != 'undefined') {
+        ym(40545065, "init", {
+          clickmap: true,
+          trackLinks: true,
+          accurateTrackBounce: true,
+          webvisor: true,
+          userParams: {
+            
+          }
+        });
+        clearInterval(initYm);
+      }
+    }, 500)
+  </script>
+  
+
+
+
+  
+  <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "8fbd595f5e1f446dae199b329a77e64b"}'></script>
+  
+
+
+
+  <script defer src="https://9a7f6a3c-8431-438c-89d9-90924a59e618.akamaized.net/static/v2/js/analytics/vk-pixel-code.c4e4c5328953.js"></script>
+
+
+
+  <script defer src="https://9a7f6a3c-8431-438c-89d9-90924a59e618.akamaized.net/static/v2/js/analytics/facebook-pixel-code.074128e5a14d.js"></script>
+
+
+
+  <script>
+    window.mobilecheck = function () {
+      var check = false;
+      (function (a) { if (/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|iris|kindle|lge |maemo|midp|mmp|mobile.+firefox|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows ce|xda|xiino/i.test(a) || /1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a wa|abac|ac(er|oo|s\-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r |s )|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-7]0|os|wa|ze)|fetc|fly(\-|_)|g1 u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp( i|ip)|hs\-c|ht(c(\-| |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac( |\-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg( g|\/(k|l|u)|50|54|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-cr|me(rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-| |o|v)|zz)|mt(50|p1|v )|mwbp|mywa|n10[0-2]|n20[2-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v )|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|yas\-|your|zeto|zte\-/i.test(a.substr(0, 4))) check = true })(navigator.userAgent || navigator.vendor || window.opera)
+      return check
+    }
+
+    function downloadGA(label, source) {
+      ga('send', 'event', source, 'DownloadClick', label);
+
+      if (!window.mobilecheck()) {
+        window.setTimeout(function(){
+          window.location.href = "/register?show_download_alert=true";
+        }, 1000);
+      }
+    }
+
+    window.kryptex = {}
+  </script>
+
+
+  <noscript>
+    <style type="text/css">
+      [data-aos] {
+        opacity: 1 !important;
+        transform: none !important;
+      }
+    </style>
+  </noscript>
+
+  
+    
+    <link rel="alternate" hreflang="x-default" href="/" />
+<link rel="alternate" hreflang="en" href="/en/" />
+<link rel="alternate" hreflang="es" href="/es/" />
+<link rel="alternate" hreflang="pt-br" href="/pt-br/" />
+<link rel="alternate" hreflang="ru" href="/ru/" />
+<link rel="alternate" hreflang="zh-hans" href="/zh-hans/" />
+<link rel="alternate" hreflang="de" href="/de/" />
+<link rel="alternate" hreflang="fr" href="/fr/" />
+<link rel="alternate" hreflang="fa" href="/fa/" />
+<link rel="alternate" hreflang="tr" href="/tr/" />
+<link rel="alternate" hreflang="ar" href="/ar/" />
+<link rel="alternate" hreflang="uk" href="/uk/" />
+<link rel="alternate" hreflang="it" href="/it/" />
+<link rel="alternate" hreflang="cs" href="/cs/" />
+<link rel="alternate" hreflang="pl" href="/pl/" />
+<link rel="alternate" hreflang="fi" href="/fi/" />
+<link rel="alternate" hreflang="he" href="/he/" />
+<link rel="alternate" hreflang="nl" href="/nl/" />
+
+
+</head>
+<body class="bg-dark">
+  
+  
+
+
+
+
+
+<header class="page-header page-header--dark">
+  <div class="container">
+    <div class="row justify-content-between justify-content-lg-start align-items-center page-header__content no-gutters">
+      <div class="page-header__logo">
+        <a class="logo" href="/ru/" aria-label="Kryptex Home">
+          <img src="https://9a7f6a3c-8431-438c-89d9-90924a59e618.akamaized.net/static/v2/img/kryptex-christmas-logo-theme-dark.svg" alt="Kryptex">
+        </a>
+      </div>
+
+      <div class="col page-header__nav ml-lg-5 ml-l-6" id="headerNav">
+        <div class="page-header__main-nav pt-6 pt-lg-0" >
+          <nav class="page-header__nav-item" aria-labelledby="kryptex-nav">
+            <div class="page-header-nav-tooltip tooltip tooltip--hover-mode">
+              <div class="tooltip__single">
+                <h2 class="page-header__nav-title mb-0" id="kryptex-nav">Продукты</h2>
+                <svg><use xlink:href="/static/v2/dist/svg-shared-sprite.771eb7a7960a.svg#sprite-chevron-right" /></svg>
+              </div>
+              <div class="tooltip__dropdown">
+                <div class="tooltip__dropdown-inner">
+                  <ul class="list-unstyled">
+                    <li><a class="page-header-nav-tooltip__link" href="/ru/">Kryptex Miner</a></li>
+                    <li><a class="page-header-nav-tooltip__link" href="/ru/pro-app">Kryptex Pro</a></li>
+                    <li><a class="page-header-nav-tooltip__link" href="/ru/os">Kryptex OS</a></li>
+                    <li><a class="page-header-nav-tooltip__link" href="/ru/pools">Пулы для майнинга</a></li>
+                    <li><a class="page-header-nav-tooltip__link" href="/ru/rent-cloud-gpus">Арендуйте наши GPU</a></li>
+                    <li><a class="page-header-nav-tooltip__link" href="/ru/features">Возможности</a></li>
+                    <li><a class="page-header-nav-tooltip__link" href="/ru/fees">Комиссии</a></li>
+
+
+
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </nav>
+          <nav class="page-header__nav-item" aria-labelledby="resources-nav">
+            <div class="page-header-nav-tooltip tooltip tooltip--hover-mode tooltip--arrow-helper-light">
+              <div class="tooltip__single">
+                <h2 class="page-header__nav-title mb-0" id="resources-nav">Информация</h2>
+                <svg><use xlink:href="/static/v2/dist/svg-shared-sprite.771eb7a7960a.svg#sprite-chevron-right" /></svg>
+              </div>
+              <div class="tooltip__dropdown">
+                <div class="tooltip__dropdown-inner">
+                  <ul class="list-unstyled">
+                    <li><a class="page-header-nav-tooltip__link" href="/ru/best-gpus-for-mining">Лучшие видеокарты</a></li>
+                    <li><a class="page-header-nav-tooltip__link" href="/ru/mining-profitability">Доходность майнинга</a></li>
+                    <li><a class="page-header-nav-tooltip__link" href="/ru/mining-calculator">Калькулятор майнинга</a></li>
+                    <li><a class="page-header-nav-tooltip__link" href="/ru/news/">Новости</a></li>
+                    <li><a class="page-header-nav-tooltip__link" href="/ru/articles/">База знаний</a></li>
+                    <li><a class="page-header-nav-tooltip__link" href="/ru/overclocking">База разгонов</a></li>
+                    
+                      <li><a class="page-header-nav-tooltip__link" href="https://www.kryptex.org/r/forum-ru">Форум</a></li>
+                    
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </nav>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        </div>
+        <nav class="page-header__sub-nav mb-5 mb-lg-0">
+          <ul class="list-unstyled d-flex align-items-center justify-content-center">
+            
+              <li class="mx-3 mx-lg-2">
+                <a href="/login" class="btn btn-sm btn-transparent btn-header-theme-dark">Войти</a>
+              </li>
+              <li class="mx-3 mx-lg-2">
+                <a href="/register" class="btn btn-sm btn-outline-primary px-4 btn-rounded btn-header-theme-dark">Регистрация</a>
+              </li>
+            
+            <li style="font-size: 0">
+              <div class="tooltip tooltip--lang-dropdown tooltip--arrow-helper tooltip--arrow-helper-light d-inline-block tooltip--hover-mode ml-lg-4">
+                <div class="tooltip__single">
+                  <div class="d-flex align-items-center">
+                    
+                    <svg class="flag-icon"><use xlink:href="/static/v2/dist/svg-shared-sprite.771eb7a7960a.svg#sprite-flag-ru" /></svg>
+                  </div>
+                </div>
+                <div class="tooltip__dropdown">
+                  <div class="tooltip__dropdown-inner">
+                    <form class="p-2" action="/i18n/setlang/" method="post">
+                      <div class="px-1 pt-1 pb-0">
+                        <input type="hidden" name="csrfmiddlewaretoken" value="DNa8TGQ5xbhUtGZ3sezXApVsaoRTYVUWA3ojAwNfOX2kQaPByOxfQhGNG3twKM8T">
+                        <input name="next" type="hidden" value="/">
+                        
+                          <button class="btn bg-transparent text-hover-primary d-flex align-items-center p-0 pb-1" type="submit" name="language" value="en">
+                            <svg class="flag-icon mr-2"><use xlink:href="/static/v2/dist/svg-shared-sprite.771eb7a7960a.svg#sprite-flag-en" /></svg>
+                            <span>English</span>
+                          </button>
+                        
+                          <button class="btn bg-transparent text-hover-primary d-flex align-items-center p-0 pb-1" type="submit" name="language" value="es">
+                            <svg class="flag-icon mr-2"><use xlink:href="/static/v2/dist/svg-shared-sprite.771eb7a7960a.svg#sprite-flag-es" /></svg>
+                            <span>Español</span>
+                          </button>
+                        
+                          <button class="btn bg-transparent text-hover-primary d-flex align-items-center p-0 pb-1" type="submit" name="language" value="pt-br">
+                            <svg class="flag-icon mr-2"><use xlink:href="/static/v2/dist/svg-shared-sprite.771eb7a7960a.svg#sprite-flag-pt-br" /></svg>
+                            <span>Português</span>
+                          </button>
+                        
+                          <button class="btn bg-transparent text-hover-primary d-flex align-items-center p-0 pb-1" type="submit" name="language" value="ru">
+                            <svg class="flag-icon mr-2"><use xlink:href="/static/v2/dist/svg-shared-sprite.771eb7a7960a.svg#sprite-flag-ru" /></svg>
+                            <span>Русский</span>
+                          </button>
+                        
+                          <button class="btn bg-transparent text-hover-primary d-flex align-items-center p-0 pb-1" type="submit" name="language" value="zh-hans">
+                            <svg class="flag-icon mr-2"><use xlink:href="/static/v2/dist/svg-shared-sprite.771eb7a7960a.svg#sprite-flag-zh-hans" /></svg>
+                            <span>简体中文</span>
+                          </button>
+                        
+                          <button class="btn bg-transparent text-hover-primary d-flex align-items-center p-0 pb-1" type="submit" name="language" value="de">
+                            <svg class="flag-icon mr-2"><use xlink:href="/static/v2/dist/svg-shared-sprite.771eb7a7960a.svg#sprite-flag-de" /></svg>
+                            <span>Deutsch</span>
+                          </button>
+                        
+                          <button class="btn bg-transparent text-hover-primary d-flex align-items-center p-0 pb-1" type="submit" name="language" value="fr">
+                            <svg class="flag-icon mr-2"><use xlink:href="/static/v2/dist/svg-shared-sprite.771eb7a7960a.svg#sprite-flag-fr" /></svg>
+                            <span>Français</span>
+                          </button>
+                        
+                          <button class="btn bg-transparent text-hover-primary d-flex align-items-center p-0 pb-1" type="submit" name="language" value="fa">
+                            <svg class="flag-icon mr-2"><use xlink:href="/static/v2/dist/svg-shared-sprite.771eb7a7960a.svg#sprite-flag-fa" /></svg>
+                            <span>فارسی</span>
+                          </button>
+                        
+                          <button class="btn bg-transparent text-hover-primary d-flex align-items-center p-0 pb-1" type="submit" name="language" value="tr">
+                            <svg class="flag-icon mr-2"><use xlink:href="/static/v2/dist/svg-shared-sprite.771eb7a7960a.svg#sprite-flag-tr" /></svg>
+                            <span>Türkçe</span>
+                          </button>
+                        
+                          <button class="btn bg-transparent text-hover-primary d-flex align-items-center p-0 pb-1" type="submit" name="language" value="ar">
+                            <svg class="flag-icon mr-2"><use xlink:href="/static/v2/dist/svg-shared-sprite.771eb7a7960a.svg#sprite-flag-ar" /></svg>
+                            <span>اَلْعَرَبِيَّةُ</span>
+                          </button>
+                        
+                          <button class="btn bg-transparent text-hover-primary d-flex align-items-center p-0 pb-1" type="submit" name="language" value="uk">
+                            <svg class="flag-icon mr-2"><use xlink:href="/static/v2/dist/svg-shared-sprite.771eb7a7960a.svg#sprite-flag-uk" /></svg>
+                            <span>Українська</span>
+                          </button>
+                        
+                          <button class="btn bg-transparent text-hover-primary d-flex align-items-center p-0 pb-1" type="submit" name="language" value="it">
+                            <svg class="flag-icon mr-2"><use xlink:href="/static/v2/dist/svg-shared-sprite.771eb7a7960a.svg#sprite-flag-it" /></svg>
+                            <span>Italiano</span>
+                          </button>
+                        
+                          <button class="btn bg-transparent text-hover-primary d-flex align-items-center p-0 pb-1" type="submit" name="language" value="cs">
+                            <svg class="flag-icon mr-2"><use xlink:href="/static/v2/dist/svg-shared-sprite.771eb7a7960a.svg#sprite-flag-cs" /></svg>
+                            <span>Czech</span>
+                          </button>
+                        
+                          <button class="btn bg-transparent text-hover-primary d-flex align-items-center p-0 pb-1" type="submit" name="language" value="pl">
+                            <svg class="flag-icon mr-2"><use xlink:href="/static/v2/dist/svg-shared-sprite.771eb7a7960a.svg#sprite-flag-pl" /></svg>
+                            <span>Polski</span>
+                          </button>
+                        
+                          <button class="btn bg-transparent text-hover-primary d-flex align-items-center p-0 pb-1" type="submit" name="language" value="fi">
+                            <svg class="flag-icon mr-2"><use xlink:href="/static/v2/dist/svg-shared-sprite.771eb7a7960a.svg#sprite-flag-fi" /></svg>
+                            <span>Suomi</span>
+                          </button>
+                        
+                          <button class="btn bg-transparent text-hover-primary d-flex align-items-center p-0 pb-1" type="submit" name="language" value="he">
+                            <svg class="flag-icon mr-2"><use xlink:href="/static/v2/dist/svg-shared-sprite.771eb7a7960a.svg#sprite-flag-he" /></svg>
+                            <span>עִבְרִית</span>
+                          </button>
+                        
+                          <button class="btn bg-transparent text-hover-primary d-flex align-items-center p-0 pb-1" type="submit" name="language" value="nl">
+                            <svg class="flag-icon mr-2"><use xlink:href="/static/v2/dist/svg-shared-sprite.771eb7a7960a.svg#sprite-flag-nl" /></svg>
+                            <span>Nederlands</span>
+                          </button>
+                        
+                      </div>
+                    </form>
+                  </div>
+                </div>
+              </div>
+            </li>
+          </ul>
+        </nav>
+      </div>
+
+      <div class="d-flex justify-content-end d-lg-none">
+        <button class="page-header__nav-icon nav-icon" type="button" id="headerNavToggle">
+          <div class="nav-icon__inner">
+            <span></span>
+            <span></span>
+          </div>
+        </button>
+      </div>
+    </div>
+  </div>
+</header>
+
+
+
+  <main class="page-main">
+    
+<div class="page-section page-section--full-height bg-pattern">
+  <div class="page-section__inner p-0">
+    <div class="container">
+      <div class="row no-gutters align-items-center justify-content-between">
+        <div class="col-12 col-lg-5 col-xl-6 text-center text-sm-left ">
+          <h1 class="mb-6 text-white font-weight-light">
+            Криптекс использует вычислительную мощность компьютера <b class="font-weight-semibold">и платит за это биткоины и рубли</b>.
+            <span class="icon icon--lightning ml-2">
+              <svg><use xlink:href="/static/v2/dist/svg-public-sprite.8fcd11403381.svg#sprite-lightning" /></svg>
+            </span>
+          </h1>
+          <div>
+            <a
+              href="/download?source=landing_v5"
+              onclick="downloadGA('top', 'LandingV5')"
+              class="btn btn-primary-gradient btn-lg btn-primary text-white btn-icon btn-icon-md btn--shiny btn-icon-light btn-check-mobile"
+            >
+              <span class="btn-shine"></span>
+              <div class="btn-icon__wrap mr-3">
+                <svg><use xlink:href="/static/v2/dist/svg-public-sprite.8fcd11403381.svg#sprite-arrow-down"></use></svg>
+              </div>
+              <span>Скачать Криптекс</span>
+            </a>
+          </div>
+        </div>
+        <div class="col-lg-6 col-xl-5">
+          <div class="home-page-illustration d-none d-lg-flex">
+            
+              <img class="w-100 shadow" style="max-width: 520px;" src="https://9a7f6a3c-8431-438c-89d9-90924a59e618.akamaized.net/static/v2/img/kryptex-overview-ru.4f6a995f5b69.png" alt="Kryptex Майнер">
+            
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="container">
+    <div class="bottom-line"></div>
+  </div>
+</div>
+
+<div class="page-section bg-white">
+  <div class="page-section__inner py-4 py-md-5 py-lg-7">
+    <div class="container py-4">
+      <div class="row align-items-lg-center">
+        <div class="col-12 col-lg-6 mb-4">
+          <img class="d-none d-lg-block" src="https://9a7f6a3c-8431-438c-89d9-90924a59e618.akamaized.net/static/v2/img/home-illustration.131ec4c84b75.svg" alt="Kryptex GPU Network" style="max-width: 90%">
+          
+            <img class="w-100 shadow d-lg-none" style="max-width: 520px;" src="https://9a7f6a3c-8431-438c-89d9-90924a59e618.akamaized.net/static/v2/img/kryptex-overview-ru.4f6a995f5b69.png" alt="Kryptex Майнер">
+          
+        </div>
+        <div class="col-12 col-lg-6 pl-lg-4">
+          <h2 class="mb-4">
+            <b>
+              Криптекс — это программа, которая использует вычислительную мощность компьютера для генерации криптовалюты.
+            </b>
+          </h2>
+          <p>
+            Криптекс получает вычислительные задачи от сервера и делает полезные математические расчеты. За это вы получаете деньги.
+            Это сложно: раньше этим мог заниматься только очень узкий круг людей. Мы сделали сложные вещи простыми. Теперь каждый может просто запустить Криптекс и получать за это деньги.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="page-section bg-light">
+  <div class="page-section__inner py-4 py-md-5 py-lg-7">
+    <div class="container py-4">
+      <div class="row mb-3 mb-lg-4">
+        <div class="col-12 d-md-flex align-items-md-center justify-content-md-between">
+          <h2 class="mb-1 mb-md-0"><b>Сколько можно заработать?</b></h2>
+          <p class="d-flex align-items-center m-0">
+            <span class="icon icon--circle mr-3 mr-md-2"></span>
+            Зависит от компьютера и удачи.
+          </p>
+        </div>
+      </div>
+      <div class="row no-gutters">
+        <div class="col-12 d-flex flex-wrap flex-lg-nowrap">
+          <div class="big-info-card">
+            <div class="d-flex flex-column justify-content-between h-100 py-4">
+              <h3 class="h4 mb-0 pt-3"><b>Примерно 7000&thinsp;₽ в месяц</b></h3>
+              <img class="align-self-center my-4" style="width: 125px" src="https://9a7f6a3c-8431-438c-89d9-90924a59e618.akamaized.net/static/v2/img/earn1.6866326212aa.svg" alt="Сколько можно заработать? Геймерский">
+              <span class="badge-counter bg-dark ml-5 mb-3">1</span>
+            </div>
+            <div class="big-info-card__bottom">
+              <h4 class="h5 font-weight-bold text-uppercase mb-1">Геймерский</h4>
+              <ul class="big-info-card__list">
+                <li>AMD Ryzen 7 3700X</li>
+                <li>Nvidia GTX 1080 Ti</li>
+              </ul>
+            </div>
+          </div>
+
+          <div class="big-info-card">
+            <div class="d-flex flex-column justify-content-between h-100 py-4">
+              <h3 class="h4 mb-0 pt-3"><b>Примерно 45000&thinsp;₽ в месяц</b></h3>
+              <img class="align-self-center my-4" style="width: 175px" src="https://9a7f6a3c-8431-438c-89d9-90924a59e618.akamaized.net/static/v2/img/earn2.9d3aed64b5a8.svg" alt="Сколько можно заработать? Риг для майнинга">
+              <span class="badge-counter bg-dark ml-5 mb-3">2</span>
+            </div>
+            <div class="big-info-card__bottom">
+              <h4 class="h5 font-weight-bold text-uppercase mb-1">Риг для майнинга</h4>
+              <ul class="big-info-card__list">
+                <li>Intel Celeron G3930</li>
+                <li>8x AMD RX 5700</li>
+              </ul>
+            </div>
+          </div>
+
+          <div class="big-info-card">
+            <div class="d-flex flex-column justify-content-between h-100 py-4">
+              <h3 class="h4 mb-0 pt-3"><b>Примерно 1&thinsp;000&thinsp;000&thinsp;₽ в месяц</b></h3>
+              <img class="align-self-center my-4" style="width: 190px" src="https://9a7f6a3c-8431-438c-89d9-90924a59e618.akamaized.net/static/v2/img/earn3.4b77c6e6baaa.svg" alt="Сколько можно заработать? Ферма для майнинга">
+              <span class="badge-counter bg-dark ml-5 mb-3">3</span>
+            </div>
+            <div class="big-info-card__bottom">
+              <h4 class="h5 font-weight-bold text-uppercase mb-1">Ферма для майнинга</h4>
+              <ul class="big-info-card__list">
+                <li>36 Rigs with 8x AMD RX 480 each</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="col-12 mt-2 col-l-6">
+          <p class="line-middle">
+            <small class="line-middle font-weight-semibold text-dark-light">
+              
+              Доходность указана для курсов 12-го августа 2020. <br> Текущую доходность смотрите на странице <a href="/ru/best-gpus-for-mining" target="_blank">«Лучшие видеокарты для майнинга»</a>.
+            </small>
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="page-section border-bottom border-light bg-white">
+  <div class="page-section__inner py-4 py-md-5 py-lg-7">
+    <div class="container py-4">
+      <div class="row align-items-center">
+        <div class="col-md-6 col-lg-5 d-flex justify-content-center mb-4 pb-2 mb-md-0 pb-md-0">
+          <div class="payments-list-icon">
+            <img class="payments-list-icon__blob" src="https://9a7f6a3c-8431-438c-89d9-90924a59e618.akamaized.net/static/v2/img/blob.aa040c2ad55f.svg" alt="Kryptex Выплаты">
+            <img class="payments-list-icon__list" src="https://9a7f6a3c-8431-438c-89d9-90924a59e618.akamaized.net/static/v2/img/pmnts-icons.bba71a019d13.svg" alt="Kryptex Выплаты">
+          </div>
+        </div>
+        <div class="col-md-6 col-lg-7">
+          <div class="text-block">
+            <h2 class="mb-3">
+              <b>
+                Криптекс платит биткоины и рубли. Снимайте деньги на банковские карты, QIWI Кошелек и Яндекс.Деньги. Минимальный размер выплаты — 50 ₽.
+              </b>
+            </h2>
+            <p class="text-middle m-0">
+              
+              Если вы хотите получать выплаты в другой валюте – это не проблема. Биткоины легко обменять на деньги вашей страны, а Киви и Яндекс.Деньги работают по всему миру.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="page-section bg-white pb-4 pb-l-5">
+  <div class="page-section__inner py-4 py-md-5 py-lg-7">
+    <div class="container py-4">
+      <div class="row mb-3 mb-lg-4">
+        <div class="col-12 d-md-flex align-items-md-center justify-content-md-between">
+          <h2 class="mb-1 mb-md-0"><b>С чего начать</b></h2>
+          <p class="d-flex align-items-center m-0">
+            <span class="icon icon--circle mr-2"></span>
+            Все очень просто
+          </p>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-12 col-md-6 mb-4">
+          <div class="small-info-card d-flex">
+            <div class="small-info-card__banner small-info-card__counter">
+              <h3 class="mb-0">шаг 1</h3>
+            </div>
+            <p class="small-info-card__content p-3 pr-md-2">
+              <a
+                class="text-dark"
+                style="border-bottom: 1px dashed black"
+                href="/download?source=landing_v5"
+                onclick="downloadGA('tutorial', 'LandingV5')"
+              ><b>Скачай приложение.</b></a>
+              Криптекс сам определит мощность компьютера и рассчитает будущую прибыль.
+            </p>
+          </div>
+        </div>
+
+        <div class="col-12 col-md-6 mb-4">
+          <div class="small-info-card d-flex">
+            <div class="small-info-card__banner small-info-card__counter">
+              <h3 class="mb-0">шаг 2</h3>
+            </div>
+            <p class="small-info-card__content p-3 pr-md-2">
+                <b>Регистрация.</b> После регистрации ты получишь доступ к своему личному кабинету.
+            </p>
+          </div>
+        </div>
+
+        <div class="col-12 col-md-6 mb-4">
+          <div class="small-info-card d-flex">
+            <div class="small-info-card__banner small-info-card__counter">
+              <h3 class="mb-0">шаг 3</h3>
+            </div>
+            <p class="small-info-card__content p-3 pr-md-2">
+                <b>Оставь Криптекс работать.</b> Во время работы программы можно сидеть в интернете или раскладывать пасьянс.
+            </p>
+          </div>
+        </div>
+
+        <div class="col-12 col-md-6 mb-4">
+          <div class="small-info-card d-flex">
+            <div class="small-info-card__banner small-info-card__counter">
+              <h3 class="mb-0">шаг 4</h3>
+            </div>
+            <p class="small-info-card__content p-3 pr-md-2">
+                <b>Получай выплаты.</b> Первые деньги ты заработаешь уже в первые сутки — снять их можно будет в личном кабинете.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+  </main>
+
+  
+  
+
+
+
+
+
+<footer class="page-footer bg-pattern">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        
+          <div class="banner banner--footer">
+            <div class="banner__inner row align-items-center py-4 py-md-0 px-3 px-md-4 px-lg-5">
+              <div class="col-md-6 mb-3 pt-2 mb-md-0 pt-md-0">
+                <h2 class="banner__title d-flex align-items-center justify-content-center justify-content-md-start h4 text-white font-weight-semibold text-uppercase">
+                  
+                    <span>Готов начать?</span>
+                  
+                </h2>
+              </div>
+              <div class="col-md-6 d-flex justify-content-center justify-content-md-end pb-2 pb-md-0">
+                
+                  <a
+                    href="/download?source=landing_v5"
+                    onclick="downloadGA('bottom', 'landing_v5')"
+                    class="btn btn--shiny banner__btn btn-lg text-white btn-icon btn-icon-md btn-icon-light btn-check-mobile">
+                    <span class="btn-shine"></span>
+                    <div class="btn-icon__wrap mr-3">
+                      <svg><use xlink:href="/static/v2/dist/svg-public-sprite.8fcd11403381.svg#sprite-arrow-down"></use></svg>
+                    </div>
+                    <span>Скачать Криптекс</span>
+                  </a>
+                
+              </div>
+            </div>
+          </div>
+        
+      </div>
+
+
+      <div class="col-12">
+        <div class="row no-gutters pt-5 pt-md-7 pb-1">
+          <div class="col-md-3 mb-5">
+            <div class="page-footer__logo">
+              <a class="logo" href="/ru/" aria-label="Kryptex Home">
+                <img src="https://9a7f6a3c-8431-438c-89d9-90924a59e618.akamaized.net/static/v2/img/kryptex-logo-theme-dark.svg" alt="Kryptex">
+              </a>
+            </div>
+            <div class="d-inline-flex align-items-center mt-5">
+              <span class="page-footer__nav-title mb-0 text-white font-weight-bold text-uppercase line-normal">Язык</span>
+              <div class="tooltip tooltip--lang-dropdown tooltip--arrow-helper tooltip--arrow-helper-light tooltip--hover-mode ml-3">
+                <div class="tooltip__single">
+                  <div class="d-flex align-items-center">
+                    
+                    <svg class="flag-icon"><use xlink:href="/static/v2/dist/svg-shared-sprite.771eb7a7960a.svg#sprite-flag-ru" /></svg>
+                  </div>
+                </div>
+                <div class="tooltip__dropdown">
+                  <div class="tooltip__dropdown-inner">
+                    <form class="p-2" action="/i18n/setlang/" method="post">
+                      <div class="px-1 pt-1 pb-0">
+                        <input type="hidden" name="csrfmiddlewaretoken" value="DNa8TGQ5xbhUtGZ3sezXApVsaoRTYVUWA3ojAwNfOX2kQaPByOxfQhGNG3twKM8T">
+                        <input name="next" type="hidden" value="/">
+                        
+                          <button class="btn bg-transparent text-hover-primary d-flex align-items-center p-0 pb-1" type="submit" name="language" value="en">
+                            <svg class="flag-icon mr-2"><use xlink:href="/static/v2/dist/svg-shared-sprite.771eb7a7960a.svg#sprite-flag-en" /></svg>
+                            <span>English</span>
+                          </button>
+                        
+                          <button class="btn bg-transparent text-hover-primary d-flex align-items-center p-0 pb-1" type="submit" name="language" value="es">
+                            <svg class="flag-icon mr-2"><use xlink:href="/static/v2/dist/svg-shared-sprite.771eb7a7960a.svg#sprite-flag-es" /></svg>
+                            <span>Español</span>
+                          </button>
+                        
+                          <button class="btn bg-transparent text-hover-primary d-flex align-items-center p-0 pb-1" type="submit" name="language" value="pt-br">
+                            <svg class="flag-icon mr-2"><use xlink:href="/static/v2/dist/svg-shared-sprite.771eb7a7960a.svg#sprite-flag-pt-br" /></svg>
+                            <span>Português</span>
+                          </button>
+                        
+                          <button class="btn bg-transparent text-hover-primary d-flex align-items-center p-0 pb-1" type="submit" name="language" value="ru">
+                            <svg class="flag-icon mr-2"><use xlink:href="/static/v2/dist/svg-shared-sprite.771eb7a7960a.svg#sprite-flag-ru" /></svg>
+                            <span>Русский</span>
+                          </button>
+                        
+                          <button class="btn bg-transparent text-hover-primary d-flex align-items-center p-0 pb-1" type="submit" name="language" value="zh-hans">
+                            <svg class="flag-icon mr-2"><use xlink:href="/static/v2/dist/svg-shared-sprite.771eb7a7960a.svg#sprite-flag-zh-hans" /></svg>
+                            <span>简体中文</span>
+                          </button>
+                        
+                          <button class="btn bg-transparent text-hover-primary d-flex align-items-center p-0 pb-1" type="submit" name="language" value="de">
+                            <svg class="flag-icon mr-2"><use xlink:href="/static/v2/dist/svg-shared-sprite.771eb7a7960a.svg#sprite-flag-de" /></svg>
+                            <span>Deutsch</span>
+                          </button>
+                        
+                          <button class="btn bg-transparent text-hover-primary d-flex align-items-center p-0 pb-1" type="submit" name="language" value="fr">
+                            <svg class="flag-icon mr-2"><use xlink:href="/static/v2/dist/svg-shared-sprite.771eb7a7960a.svg#sprite-flag-fr" /></svg>
+                            <span>Français</span>
+                          </button>
+                        
+                          <button class="btn bg-transparent text-hover-primary d-flex align-items-center p-0 pb-1" type="submit" name="language" value="fa">
+                            <svg class="flag-icon mr-2"><use xlink:href="/static/v2/dist/svg-shared-sprite.771eb7a7960a.svg#sprite-flag-fa" /></svg>
+                            <span>فارسی</span>
+                          </button>
+                        
+                          <button class="btn bg-transparent text-hover-primary d-flex align-items-center p-0 pb-1" type="submit" name="language" value="tr">
+                            <svg class="flag-icon mr-2"><use xlink:href="/static/v2/dist/svg-shared-sprite.771eb7a7960a.svg#sprite-flag-tr" /></svg>
+                            <span>Türkçe</span>
+                          </button>
+                        
+                          <button class="btn bg-transparent text-hover-primary d-flex align-items-center p-0 pb-1" type="submit" name="language" value="ar">
+                            <svg class="flag-icon mr-2"><use xlink:href="/static/v2/dist/svg-shared-sprite.771eb7a7960a.svg#sprite-flag-ar" /></svg>
+                            <span>اَلْعَرَبِيَّةُ</span>
+                          </button>
+                        
+                          <button class="btn bg-transparent text-hover-primary d-flex align-items-center p-0 pb-1" type="submit" name="language" value="uk">
+                            <svg class="flag-icon mr-2"><use xlink:href="/static/v2/dist/svg-shared-sprite.771eb7a7960a.svg#sprite-flag-uk" /></svg>
+                            <span>Українська</span>
+                          </button>
+                        
+                          <button class="btn bg-transparent text-hover-primary d-flex align-items-center p-0 pb-1" type="submit" name="language" value="it">
+                            <svg class="flag-icon mr-2"><use xlink:href="/static/v2/dist/svg-shared-sprite.771eb7a7960a.svg#sprite-flag-it" /></svg>
+                            <span>Italiano</span>
+                          </button>
+                        
+                          <button class="btn bg-transparent text-hover-primary d-flex align-items-center p-0 pb-1" type="submit" name="language" value="cs">
+                            <svg class="flag-icon mr-2"><use xlink:href="/static/v2/dist/svg-shared-sprite.771eb7a7960a.svg#sprite-flag-cs" /></svg>
+                            <span>Czech</span>
+                          </button>
+                        
+                          <button class="btn bg-transparent text-hover-primary d-flex align-items-center p-0 pb-1" type="submit" name="language" value="pl">
+                            <svg class="flag-icon mr-2"><use xlink:href="/static/v2/dist/svg-shared-sprite.771eb7a7960a.svg#sprite-flag-pl" /></svg>
+                            <span>Polski</span>
+                          </button>
+                        
+                          <button class="btn bg-transparent text-hover-primary d-flex align-items-center p-0 pb-1" type="submit" name="language" value="fi">
+                            <svg class="flag-icon mr-2"><use xlink:href="/static/v2/dist/svg-shared-sprite.771eb7a7960a.svg#sprite-flag-fi" /></svg>
+                            <span>Suomi</span>
+                          </button>
+                        
+                          <button class="btn bg-transparent text-hover-primary d-flex align-items-center p-0 pb-1" type="submit" name="language" value="he">
+                            <svg class="flag-icon mr-2"><use xlink:href="/static/v2/dist/svg-shared-sprite.771eb7a7960a.svg#sprite-flag-he" /></svg>
+                            <span>עִבְרִית</span>
+                          </button>
+                        
+                          <button class="btn bg-transparent text-hover-primary d-flex align-items-center p-0 pb-1" type="submit" name="language" value="nl">
+                            <svg class="flag-icon mr-2"><use xlink:href="/static/v2/dist/svg-shared-sprite.771eb7a7960a.svg#sprite-flag-nl" /></svg>
+                            <span>Nederlands</span>
+                          </button>
+                        
+                      </div>
+                    </form>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <nav class="page-footer__nav col-md-3 mb-5 mb-lg-0">
+            <h2 class="page-footer__nav-title"><b>Продукты</b></h2>
+            <ul class="page-footer__link-list">
+              <li><a href="/ru/">Kryptex Miner</a></li>
+              <li><a href="/ru/pro-app">Kryptex Pro</a></li>
+              <li><a href="/ru/os">Kryptex OS</a></li>
+              <li><a href="/ru/pools">Пулы для майнинга</a></li>
+              <li><a href="/ru/rent-cloud-gpus">Арендуйте наши GPU</a></li>
+              <li><a href="/referral/" target="_blank">Реферальная программа</a></li>
+              <li><a href="/ru/features">Возможности</a></li>
+              <li><a href="/ru/fees">Комиссии</a></li>
+            </ul>
+          </nav>
+
+          <nav class="page-footer__nav col-md-3 mb-5 mb-lg-0">
+            <h2 class="page-footer__nav-title"><b>Инструменты</b></h2>
+            <ul class="page-footer__link-list">
+              <li><a href="/ru/overclocking">База разгонов</a></li>
+              <li><a href="/ru/best-gpus-for-mining">Лучшие видеокарты</a></li>
+              <li><a href="/ru/mining-calculator">Калькулятор майнинга</a></li>
+              <li><a href="/ru/articles/">База знаний</a></li>
+              <li><a href="/ru/news/" target="_blank">Новости</a></li>
+              <li><a href="/ru/ideas" target="_blank">Идеи</a></li>
+              <li><a href="/ru/articles/" target="_blank">FAQ</a></li>
+            </ul>
+          </nav>
+          <nav class="page-footer__nav col-md-3 mb-5 mb-lg-0">
+            <h2 class="page-footer__nav-title"><b>Информация</b></h2>
+            <ul class="page-footer__link-list">
+              <li><a href="https://www.kryptex.org/r/youtube-XYGWLW" target="_blank">Смотрите нас на Youtube</a></li>
+              <li><a href="mailto:partners@kryptex.org" target="_blank">Сотрудничество</a></li>
+              <li><a href="/terms-and-conditions" target="_blank">Условия</a></li>
+              <li><a href="/ru/articles/" target="_blank">Поддержка</a></li>
+              <li><a href="/site/dashboard" target="_blank">Статистика</a></li>
+              <li><a href="/billing/payouts/request/btc" target="_blank">Выплаты</a></li>
+              
+                <li><a href="/ru/work-at-kryptex" target="_blank">Работай в Криптексе</a></li>
+              
+            </ul>
+          </nav>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="page-footer__bottom container-fluid">
+    <div class="row no-gutters justify-content-md-end pr-5 pb-5">
+      <a href="#" class="btn btn-sm px-2 scroll-up" aria-label="Go Up">вверх</a>
+    </div>
+    <div class="row no-gutters align-items-center py-4 p-lg-4 p-xl-5 border-top">
+      <div class="col-md-6 order-1 order-md-0">
+        <p class="text-middle font-weight-semibold d-flex justify-content-center justify-content-lg-start mb-0">© 2021 Kryptex. All rights reserved.</p>
+      </div>
+      <div class="col-md-6 mb-3 mb-md-0">
+        <ul class="social-list">
+          <li class="social-list__link">
+            <a href="https://t.me/kryptex_chat_ru" target="_blank" aria-label="Telegram">
+              <svg style="margin-left: -1px"><use xlink:href="/static/v2/dist/svg-shared-sprite.771eb7a7960a.svg#sprite-logo-telegram" /></svg>
+            </a>
+          </li>
+          <li class="social-list__link">
+            <a href="https://vk.com/kryptex" target="_blank" aria-label="VK">
+              <svg><use xlink:href="/static/v2/dist/svg-shared-sprite.771eb7a7960a.svg#sprite-logo-vk" /></svg>
+            </a>
+          </li>
+          <li class="social-list__link">
+            <a href="https://www.facebook.com/kryptex.org" target="_blank" aria-label="Facebook">
+              <svg><use xlink:href="/static/v2/dist/svg-shared-sprite.771eb7a7960a.svg#sprite-logo-facebook" /></svg>
+            </a>
+          </li>
+          <li class="social-list__link">
+            <a href="https://twitter.com/KryptexMining" target="_blank" aria-label="Twitter">
+              <svg><use xlink:href="/static/v2/dist/svg-shared-sprite.771eb7a7960a.svg#sprite-logo-twitter" /></svg>
+            </a>
+          </li>
+          <li class="social-list__link">
+            <a href="https://www.instagram.com/kryptex" target="_blank" aria-label="Instagram">
+              <svg><use xlink:href="/static/v2/dist/svg-shared-sprite.771eb7a7960a.svg#sprite-logo-instagram" /></svg>
+            </a>
+          </li>
+          <li class="social-list__link">
+            <a href="https://www.reddit.com/r/kryptex/" target="_blank" aria-label="Reddit">
+              <svg><use xlink:href="/static/v2/dist/svg-shared-sprite.771eb7a7960a.svg#sprite-logo-reddit" /></svg>
+            </a>
+          </li>
+          <li class="social-list__link">
+            <a href="https://www.youtube.com/c/KryptexMining" target="_blank" aria-label="Youtube">
+              <svg><use xlink:href="/static/v2/dist/svg-shared-sprite.771eb7a7960a.svg#sprite-logo-youtube" /></svg>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<div class="mobile-alert">
+  <div class="d-flex align-items-center justify-content-between">
+    <a class="logo" href="/ru" aria-label="Kryptex Home">
+      <img src="https://9a7f6a3c-8431-438c-89d9-90924a59e618.akamaized.net/static/v2/img/kryptex-logo-theme-dark.55088de914b9.svg" alt="Kryptex Logo">
+    </a>
+    <button class="mobile-alert__cross">
+      <svg><use xlink:href="/static/v2/dist/svg-public-sprite.8fcd11403381.svg#sprite-cross" /></svg>
+    </button>
+  </div>
+  <div>
+    <img class="mobile-alert__image" src="https://9a7f6a3c-8431-438c-89d9-90924a59e618.akamaized.net/static/v2/img/dead-pc.053801b7d65c.svg" alt="Dead-PC">
+    <h2>Криптекс — приложение для компьютера. Скачайте Криптекс на компьютер после регистрации.</h2>
+  </div>
+  <div>
+    <a href="/register" class="btn btn-block btn-primary-gradient justify-content-center btn-lg text-white mb-1">
+      <span>Регистрация</span>
+    </a>
+  </div>
+</div>
+
+  <script>
+    var sentFinishedScrolling = false;
+
+    window.onscroll = function(ev) {
+      if (window.innerHeight + window.pageYOffset >= document.body.offsetHeight) {
+        if (!sentFinishedScrolling) {
+          sentFinishedScrolling = true;
+          ga("send", "event", "LandingV5", "FinishedScrolling");
+        }
+      }
+    };
+  </script>
+
+
+  <script src="https://9a7f6a3c-8431-438c-89d9-90924a59e618.akamaized.net/static/v2/dist/sentry.a12c0ef5e2bf.js" async></script>
+  <script src="https://9a7f6a3c-8431-438c-89d9-90924a59e618.akamaized.net/static/v2/dist/common.73bd2cddf144.js" async></script>
+  <script src="https://9a7f6a3c-8431-438c-89d9-90924a59e618.akamaized.net/static/v2/dist/public.3617bca2dd04.js" async></script>
+  
+  <script type="text/javascript">
+    var initYmSecond = setInterval(function () {
+      if(typeof window.ym != 'undefined') {
+        
+
+        function cleanRendererName (name) {
+          let garbage = ['ANGLE (', /Direct.*/, 'NVIDIA,', 'AMD,', 'Intel,', '(TM)', ' (TM)', '(R)',
+            'OpenGL', 'Engine', 'ASUS', /Graphics/g, 'Dual', 'Adapter', /Series/i, '.', /\([^)]+\)/g,
+            'GeForce', 'OEM', 'Family', 'AMD', 'NVIDIA', 'Intel', 'Radeon']
+          for (let g of garbage) {
+            name = name.toString().replace(g, '')
+          }
+          return name.replace(/\s+/g, ' ').trim()
+        }
+
+        function getRenderer() {
+          try {
+            var gl = document.createElement('canvas').getContext('webgl');
+            if (!gl) {return "";}
+            var debugInfo = gl.getExtension('WEBGL_debug_renderer_info');
+            if (!debugInfo) {return "";}
+            return gl.getParameter(debugInfo.UNMASKED_RENDERER_WEBGL);
+          } catch (e) {
+            console.error("Cannot get render due to: " + e);
+          }
+          return "";
+        }
+
+        var userParams = {
+          
+        }
+
+        var renderer = getRenderer();
+        if (renderer !== "") {
+          userParams.user_renderer = renderer;
+          userParams.gpu_model = cleanRendererName(renderer);
+        }
+
+        ym(40545065, 'userParams', userParams);
+        clearInterval(initYmSecond);
+      }
+    }, 500)
+  </script>
+
+
+</body>
+</html>
